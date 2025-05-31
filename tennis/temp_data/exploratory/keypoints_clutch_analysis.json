@@ -1,0 +1,38 @@
+{
+  "clutch_metrics": {},
+  "pressure_situations": {
+    "M_serve": {
+      "break_points": [],
+      "game_points": [],
+      "set_points": [],
+      "match_points": [],
+      "deuce_situations": [],
+      "other_pressure": []
+    },
+    "M_return": {
+      "break_points": [],
+      "game_points": [],
+      "set_points": [],
+      "match_points": [],
+      "deuce_situations": [],
+      "other_pressure": []
+    },
+    "W_serve": {
+      "break_points": [],
+      "game_points": [],
+      "set_points": [],
+      "match_points": [],
+      "deuce_situations": [],
+      "other_pressure": []
+    },
+    "W_return": {
+      "break_points": [],
+      "game_points": [],
+      "set_points": [],
+      "match_points": [],
+      "deuce_situations": [],
+      "other_pressure": []
+    }
+  },
+  "clutch_factors": {}
+}

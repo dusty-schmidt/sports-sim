@@ -1,0 +1,85 @@
+{
+  "surface": "Clay",
+  "players": [
+    {
+      "name": "Carlos Alcaraz",
+      "opponent": "Damir Dzumhur",
+      "salary": 10900
+    },
+    {
+      "name": "Jasmine Paolini",
+      "opponent": "Yuliia Starodubtseva",
+      "salary": 10400
+    },
+    {
+      "name": "Elina Svitolina",
+      "opponent": "Bernarda Pera",
+      "salary": 10000
+    },
+    {
+      "name": "Holger Rune",
+      "opponent": "Quentin Halys",
+      "salary": 9500
+    },
+    {
+      "name": "Elena Rybakina",
+      "opponent": "Jelena Ostapenko",
+      "salary": 8800
+    },
+    {
+      "name": "Hamad Medjedovic",
+      "opponent": "Daniel Altmaier",
+      "salary": 8500
+    },
+    {
+      "name": "Ben Shelton",
+      "opponent": "Matteo Gigante",
+      "salary": 8300
+    },
+    {
+      "name": "Sebastian Korda",
+      "opponent": "Frances Tiafoe",
+      "salary": 7600
+    },
+    {
+      "name": "Frances Tiafoe",
+      "opponent": "Sebastian Korda",
+      "salary": 7300
+    },
+    {
+      "name": "Matteo Gigante",
+      "opponent": "Ben Shelton",
+      "salary": 6700
+    },
+    {
+      "name": "Daniel Altmaier",
+      "opponent": "Hamad Medjedovic",
+      "salary": 6300
+    },
+    {
+      "name": "Jelena Ostapenko",
+      "opponent": "Elena Rybakina",
+      "salary": 6000
+    },
+    {
+      "name": "Quentin Halys",
+      "opponent": "Holger Rune",
+      "salary": 5100
+    },
+    {
+      "name": "Bernarda Pera",
+      "opponent": "Elina Svitolina",
+      "salary": 4500
+    },
+    {
+      "name": "Yuliia Starodubtseva",
+      "opponent": "Jasmine Paolini",
+      "salary": 4000
+    },
+    {
+      "name": "Damir Dzumhur",
+      "opponent": "Carlos Alcaraz",
+      "salary": 3500
+    }
+  ]
+}

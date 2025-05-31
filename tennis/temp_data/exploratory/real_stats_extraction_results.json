@@ -1,0 +1,8303 @@
+{
+  "real_serving_stats": {
+    "Thiago Monteiro": {
+      "ace_rate": 7.97,
+      "double_fault_rate": 1.74,
+      "total_serve_pts": 803,
+      "total_aces": 64,
+      "total_dfs": 14,
+      "matches": 11,
+      "gender": "M"
+    },
+    "Alexander Zverev": {
+      "ace_rate": 10.46,
+      "double_fault_rate": 4.7,
+      "total_serve_pts": 12566,
+      "total_aces": 1315,
+      "total_dfs": 590,
+      "matches": 159,
+      "gender": "M"
+    },
+    "Stefanos Tsitsipas": {
+      "ace_rate": 9.03,
+      "double_fault_rate": 3.04,
+      "total_serve_pts": 14018,
+      "total_aces": 1266,
+      "total_dfs": 426,
+      "matches": 165,
+      "gender": "M"
+    },
+    "Pablo Carreno Busta": {
+      "ace_rate": 4.62,
+      "double_fault_rate": 2.09,
+      "total_serve_pts": 3116,
+      "total_aces": 144,
+      "total_dfs": 65,
+      "matches": 37,
+      "gender": "M"
+    },
+    "Alex De Minaur": {
+      "ace_rate": 4.19,
+      "double_fault_rate": 3.27,
+      "total_serve_pts": 7165,
+      "total_aces": 300,
+      "total_dfs": 234,
+      "matches": 93,
+      "gender": "M"
+    },
+    "Tomas Martin Etcheverry": {
+      "ace_rate": 7.25,
+      "double_fault_rate": 2.04,
+      "total_serve_pts": 1228,
+      "total_aces": 89,
+      "total_dfs": 25,
+      "matches": 15,
+      "gender": "M"
+    },
+    "Nishesh Basavareddy": {
+      "ace_rate": 7.42,
+      "double_fault_rate": 3.92,
+      "total_serve_pts": 714,
+      "total_aces": 53,
+      "total_dfs": 28,
+      "matches": 12,
+      "gender": "M"
+    },
+    "Luca Van Assche": {
+      "ace_rate": 9.64,
+      "double_fault_rate": 1.81,
+      "total_serve_pts": 332,
+      "total_aces": 32,
+      "total_dfs": 6,
+      "matches": 5,
+      "gender": "M"
+    },
+    "Juncheng Shang": {
+      "ace_rate": 3.98,
+      "double_fault_rate": 2.41,
+      "total_serve_pts": 704,
+      "total_aces": 28,
+      "total_dfs": 17,
+      "matches": 9,
+      "gender": "M"
+    },
+    "Learner Tien": {
+      "ace_rate": 4.87,
+      "double_fault_rate": 2.92,
+      "total_serve_pts": 411,
+      "total_aces": 20,
+      "total_dfs": 12,
+      "matches": 5,
+      "gender": "M"
+    },
+    "Joao Fonseca": {
+      "ace_rate": 6.38,
+      "double_fault_rate": 1.91,
+      "total_serve_pts": 627,
+      "total_aces": 40,
+      "total_dfs": 12,
+      "matches": 10,
+      "gender": "M"
+    },
+    "Arthur Fils": {
+      "ace_rate": 8.64,
+      "double_fault_rate": 4.48,
+      "total_serve_pts": 2812,
+      "total_aces": 243,
+      "total_dfs": 126,
+      "matches": 38,
+      "gender": "M"
+    },
+    "Jakub Mensik": {
+      "ace_rate": 9.11,
+      "double_fault_rate": 3.72,
+      "total_serve_pts": 1076,
+      "total_aces": 98,
+      "total_dfs": 40,
+      "matches": 11,
+      "gender": "M"
+    },
+    "Alex Michelsen": {
+      "ace_rate": 6.26,
+      "double_fault_rate": 2.99,
+      "total_serve_pts": 1070,
+      "total_aces": 67,
+      "total_dfs": 32,
+      "matches": 13,
+      "gender": "M"
+    },
+    "Rei Sakamoto": {
+      "ace_rate": 9.52,
+      "double_fault_rate": 1.79,
+      "total_serve_pts": 168,
+      "total_aces": 16,
+      "total_dfs": 3,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Aleksandar Kovacevic": {
+      "ace_rate": 13.23,
+      "double_fault_rate": 4.47,
+      "total_serve_pts": 514,
+      "total_aces": 68,
+      "total_dfs": 23,
+      "matches": 7,
+      "gender": "M"
+    },
+    "Juan Carlos Prado Angelo": {
+      "ace_rate": 2.53,
+      "double_fault_rate": 3.8,
+      "total_serve_pts": 237,
+      "total_aces": 6,
+      "total_dfs": 9,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Liam Draxl": {
+      "ace_rate": 4.39,
+      "double_fault_rate": 5.26,
+      "total_serve_pts": 114,
+      "total_aces": 5,
+      "total_dfs": 6,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Jannik Sinner": {
+      "ace_rate": 7.87,
+      "double_fault_rate": 2.83,
+      "total_serve_pts": 15307,
+      "total_aces": 1204,
+      "total_dfs": 433,
+      "matches": 193,
+      "gender": "M"
+    },
+    "Tallon Griekspoor": {
+      "ace_rate": 9.79,
+      "double_fault_rate": 3.41,
+      "total_serve_pts": 6658,
+      "total_aces": 652,
+      "total_dfs": 227,
+      "matches": 79,
+      "gender": "M"
+    },
+    "Botic Van De Zandschulp": {
+      "ace_rate": 7.26,
+      "double_fault_rate": 4.89,
+      "total_serve_pts": 7972,
+      "total_aces": 579,
+      "total_dfs": 390,
+      "matches": 94,
+      "gender": "M"
+    },
+    "Matteo Berrettini": {
+      "ace_rate": 12.67,
+      "double_fault_rate": 2.16,
+      "total_serve_pts": 5870,
+      "total_aces": 744,
+      "total_dfs": 127,
+      "matches": 70,
+      "gender": "M"
+    },
+    "Nicolai Budkov Kjaer": {
+      "ace_rate": 2.07,
+      "double_fault_rate": 2.07,
+      "total_serve_pts": 145,
+      "total_aces": 3,
+      "total_dfs": 3,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Daniel Altmaier": {
+      "ace_rate": 8.86,
+      "double_fault_rate": 3.03,
+      "total_serve_pts": 824,
+      "total_aces": 73,
+      "total_dfs": 25,
+      "matches": 11,
+      "gender": "M"
+    },
+    "Jan Lennard Struff": {
+      "ace_rate": 12.07,
+      "double_fault_rate": 5.04,
+      "total_serve_pts": 3273,
+      "total_aces": 395,
+      "total_dfs": 165,
+      "matches": 44,
+      "gender": "M"
+    },
+    "Ben Shelton": {
+      "ace_rate": 11.4,
+      "double_fault_rate": 4.69,
+      "total_serve_pts": 2281,
+      "total_aces": 260,
+      "total_dfs": 107,
+      "matches": 24,
+      "gender": "M"
+    },
+    "Thanasi Kokkinakis": {
+      "ace_rate": 12.27,
+      "double_fault_rate": 3.08,
+      "total_serve_pts": 2209,
+      "total_aces": 271,
+      "total_dfs": 68,
+      "matches": 25,
+      "gender": "M"
+    },
+    "Goncalo Oliveira": {
+      "ace_rate": 7.44,
+      "double_fault_rate": 1.4,
+      "total_serve_pts": 215,
+      "total_aces": 16,
+      "total_dfs": 3,
+      "matches": 4,
+      "gender": "M"
+    },
+    "Francesco Passaro": {
+      "ace_rate": 1.38,
+      "double_fault_rate": 4.83,
+      "total_serve_pts": 145,
+      "total_aces": 2,
+      "total_dfs": 7,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Carlos Alcaraz": {
+      "ace_rate": 4.72,
+      "double_fault_rate": 2.73,
+      "total_serve_pts": 11898,
+      "total_aces": 561,
+      "total_dfs": 325,
+      "matches": 145,
+      "gender": "M"
+    },
+    "Rafael Nadal": {
+      "ace_rate": 4.17,
+      "double_fault_rate": 2.3,
+      "total_serve_pts": 32555,
+      "total_aces": 1358,
+      "total_dfs": 749,
+      "matches": 397,
+      "gender": "M"
+    },
+    "Federico Cina": {
+      "ace_rate": 4.3,
+      "double_fault_rate": 3.23,
+      "total_serve_pts": 93,
+      "total_aces": 4,
+      "total_dfs": 3,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Taylor Fritz": {
+      "ace_rate": 11.46,
+      "double_fault_rate": 2.8,
+      "total_serve_pts": 6961,
+      "total_aces": 798,
+      "total_dfs": 195,
+      "matches": 89,
+      "gender": "M"
+    },
+    "Casper Ruud": {
+      "ace_rate": 6.76,
+      "double_fault_rate": 2.71,
+      "total_serve_pts": 9679,
+      "total_aces": 654,
+      "total_dfs": 262,
+      "matches": 126,
+      "gender": "M"
+    },
+    "Daniil Medvedev": {
+      "ace_rate": 10.44,
+      "double_fault_rate": 4.92,
+      "total_serve_pts": 18808,
+      "total_aces": 1964,
+      "total_dfs": 925,
+      "matches": 236,
+      "gender": "M"
+    },
+    "Andrey Rublev": {
+      "ace_rate": 9.74,
+      "double_fault_rate": 2.84,
+      "total_serve_pts": 11481,
+      "total_aces": 1118,
+      "total_dfs": 326,
+      "matches": 153,
+      "gender": "M"
+    },
+    "Luca Nardi": {
+      "ace_rate": 5.61,
+      "double_fault_rate": 3.48,
+      "total_serve_pts": 374,
+      "total_aces": 21,
+      "total_dfs": 13,
+      "matches": 5,
+      "gender": "M"
+    },
+    "Kei Nishikori": {
+      "ace_rate": 3.51,
+      "double_fault_rate": 3.01,
+      "total_serve_pts": 5243,
+      "total_aces": 184,
+      "total_dfs": 158,
+      "matches": 64,
+      "gender": "M"
+    },
+    "Zachary Svajda": {
+      "ace_rate": 4.59,
+      "double_fault_rate": 1.83,
+      "total_serve_pts": 109,
+      "total_aces": 5,
+      "total_dfs": 2,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Ugo Humbert": {
+      "ace_rate": 7.86,
+      "double_fault_rate": 2.34,
+      "total_serve_pts": 3077,
+      "total_aces": 242,
+      "total_dfs": 72,
+      "matches": 41,
+      "gender": "M"
+    },
+    "Holger Rune": {
+      "ace_rate": 6.25,
+      "double_fault_rate": 4.89,
+      "total_serve_pts": 3950,
+      "total_aces": 247,
+      "total_dfs": 193,
+      "matches": 47,
+      "gender": "M"
+    },
+    "Gabriel Diallo": {
+      "ace_rate": 12.5,
+      "double_fault_rate": 3.12,
+      "total_serve_pts": 288,
+      "total_aces": 36,
+      "total_dfs": 9,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Raphael Collignon": {
+      "ace_rate": 4.6,
+      "double_fault_rate": 4.6,
+      "total_serve_pts": 261,
+      "total_aces": 12,
+      "total_dfs": 12,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Karen Khachanov": {
+      "ace_rate": 9.81,
+      "double_fault_rate": 2.61,
+      "total_serve_pts": 5598,
+      "total_aces": 549,
+      "total_dfs": 146,
+      "matches": 70,
+      "gender": "M"
+    },
+    "Alexei Popyrin": {
+      "ace_rate": 10.73,
+      "double_fault_rate": 4.51,
+      "total_serve_pts": 2041,
+      "total_aces": 219,
+      "total_dfs": 92,
+      "matches": 25,
+      "gender": "M"
+    },
+    "Marcos Giron": {
+      "ace_rate": 5.84,
+      "double_fault_rate": 1.95,
+      "total_serve_pts": 1696,
+      "total_aces": 99,
+      "total_dfs": 33,
+      "matches": 23,
+      "gender": "M"
+    },
+    "Marin Cilic": {
+      "ace_rate": 11.41,
+      "double_fault_rate": 4.32,
+      "total_serve_pts": 5978,
+      "total_aces": 682,
+      "total_dfs": 258,
+      "matches": 66,
+      "gender": "M"
+    },
+    "Alejandro Tabilo": {
+      "ace_rate": 6.5,
+      "double_fault_rate": 3.2,
+      "total_serve_pts": 1030,
+      "total_aces": 67,
+      "total_dfs": 33,
+      "matches": 14,
+      "gender": "M"
+    },
+    "Nicolas Jarry": {
+      "ace_rate": 10.11,
+      "double_fault_rate": 2.59,
+      "total_serve_pts": 3245,
+      "total_aces": 328,
+      "total_dfs": 84,
+      "matches": 43,
+      "gender": "M"
+    },
+    "Alexis Galarneau": {
+      "ace_rate": 5.32,
+      "double_fault_rate": 4.26,
+      "total_serve_pts": 188,
+      "total_aces": 10,
+      "total_dfs": 8,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Luciano Darderi": {
+      "ace_rate": 7.65,
+      "double_fault_rate": 1.61,
+      "total_serve_pts": 497,
+      "total_aces": 38,
+      "total_dfs": 8,
+      "matches": 7,
+      "gender": "M"
+    },
+    "Mateus Alves": {
+      "ace_rate": 8.54,
+      "double_fault_rate": 1.22,
+      "total_serve_pts": 164,
+      "total_aces": 14,
+      "total_dfs": 2,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Karue Sell": {
+      "ace_rate": 3.96,
+      "double_fault_rate": 2.29,
+      "total_serve_pts": 480,
+      "total_aces": 19,
+      "total_dfs": 11,
+      "matches": 8,
+      "gender": "M"
+    },
+    "Billy Harris": {
+      "ace_rate": 4.35,
+      "double_fault_rate": 7.61,
+      "total_serve_pts": 92,
+      "total_aces": 4,
+      "total_dfs": 7,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Giovanni Mpetshi Perricard": {
+      "ace_rate": 24.66,
+      "double_fault_rate": 6.47,
+      "total_serve_pts": 742,
+      "total_aces": 183,
+      "total_dfs": 48,
+      "matches": 8,
+      "gender": "M"
+    },
+    "Felix Auger Aliassime": {
+      "ace_rate": 12.08,
+      "double_fault_rate": 4.89,
+      "total_serve_pts": 6686,
+      "total_aces": 808,
+      "total_dfs": 327,
+      "matches": 84,
+      "gender": "M"
+    },
+    "Dominic Thiem": {
+      "ace_rate": 6.85,
+      "double_fault_rate": 3.06,
+      "total_serve_pts": 14035,
+      "total_aces": 962,
+      "total_dfs": 430,
+      "matches": 171,
+      "gender": "M"
+    },
+    "Henrique Rocha": {
+      "ace_rate": 3.28,
+      "double_fault_rate": 6.56,
+      "total_serve_pts": 122,
+      "total_aces": 4,
+      "total_dfs": 8,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Nuno Borges": {
+      "ace_rate": 4.82,
+      "double_fault_rate": 3.76,
+      "total_serve_pts": 850,
+      "total_aces": 41,
+      "total_dfs": 32,
+      "matches": 11,
+      "gender": "M"
+    },
+    "Roberto Bautista Agut": {
+      "ace_rate": 3.92,
+      "double_fault_rate": 2.04,
+      "total_serve_pts": 5388,
+      "total_aces": 211,
+      "total_dfs": 110,
+      "matches": 70,
+      "gender": "M"
+    },
+    "Jiri Lehecka": {
+      "ace_rate": 8.74,
+      "double_fault_rate": 3.55,
+      "total_serve_pts": 2871,
+      "total_aces": 251,
+      "total_dfs": 102,
+      "matches": 39,
+      "gender": "M"
+    },
+    "Tommy Paul": {
+      "ace_rate": 5.94,
+      "double_fault_rate": 2.81,
+      "total_serve_pts": 4598,
+      "total_aces": 273,
+      "total_dfs": 129,
+      "matches": 59,
+      "gender": "M"
+    },
+    "Stan Wawrinka": {
+      "ace_rate": 8.63,
+      "double_fault_rate": 2.69,
+      "total_serve_pts": 10631,
+      "total_aces": 917,
+      "total_dfs": 286,
+      "matches": 118,
+      "gender": "M"
+    },
+    "Novak Djokovic": {
+      "ace_rate": 6.94,
+      "double_fault_rate": 2.84,
+      "total_serve_pts": 39884,
+      "total_aces": 2766,
+      "total_dfs": 1133,
+      "matches": 478,
+      "gender": "M"
+    },
+    "Tomas Barrios Vera": {
+      "ace_rate": 4.09,
+      "double_fault_rate": 2.92,
+      "total_serve_pts": 171,
+      "total_aces": 7,
+      "total_dfs": 5,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Camilo Ugo Carabelli": {
+      "ace_rate": 4.09,
+      "double_fault_rate": 4.09,
+      "total_serve_pts": 783,
+      "total_aces": 32,
+      "total_dfs": 32,
+      "matches": 8,
+      "gender": "M"
+    },
+    "Alexandre Muller": {
+      "ace_rate": 4.63,
+      "double_fault_rate": 2.89,
+      "total_serve_pts": 691,
+      "total_aces": 32,
+      "total_dfs": 20,
+      "matches": 9,
+      "gender": "M"
+    },
+    "Jaume Munar": {
+      "ace_rate": 3.41,
+      "double_fault_rate": 3.97,
+      "total_serve_pts": 1790,
+      "total_aces": 61,
+      "total_dfs": 71,
+      "matches": 21,
+      "gender": "M"
+    },
+    "Daniel Dutra Da Silva": {
+      "ace_rate": 4.05,
+      "double_fault_rate": 8.78,
+      "total_serve_pts": 148,
+      "total_aces": 6,
+      "total_dfs": 13,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Pavel Kotov": {
+      "ace_rate": 1.9,
+      "double_fault_rate": 2.17,
+      "total_serve_pts": 369,
+      "total_aces": 7,
+      "total_dfs": 8,
+      "matches": 5,
+      "gender": "M"
+    },
+    "Jesper De Jong": {
+      "ace_rate": 6.59,
+      "double_fault_rate": 3.56,
+      "total_serve_pts": 1321,
+      "total_aces": 87,
+      "total_dfs": 47,
+      "matches": 15,
+      "gender": "M"
+    },
+    "Tomas Machac": {
+      "ace_rate": 5.31,
+      "double_fault_rate": 2.43,
+      "total_serve_pts": 1602,
+      "total_aces": 85,
+      "total_dfs": 39,
+      "matches": 18,
+      "gender": "M"
+    },
+    "David Goffin": {
+      "ace_rate": 5.84,
+      "double_fault_rate": 3.79,
+      "total_serve_pts": 5758,
+      "total_aces": 336,
+      "total_dfs": 218,
+      "matches": 66,
+      "gender": "M"
+    },
+    "Roman Safiullin": {
+      "ace_rate": 8.53,
+      "double_fault_rate": 3.24,
+      "total_serve_pts": 1079,
+      "total_aces": 92,
+      "total_dfs": 35,
+      "matches": 12,
+      "gender": "M"
+    },
+    "Gael Monfils": {
+      "ace_rate": 9.26,
+      "double_fault_rate": 4.88,
+      "total_serve_pts": 9955,
+      "total_aces": 922,
+      "total_dfs": 486,
+      "matches": 117,
+      "gender": "M"
+    },
+    "Flavio Cobolli": {
+      "ace_rate": 5.78,
+      "double_fault_rate": 3.47,
+      "total_serve_pts": 778,
+      "total_aces": 45,
+      "total_dfs": 27,
+      "matches": 11,
+      "gender": "M"
+    },
+    "Hubert Hurkacz": {
+      "ace_rate": 14.35,
+      "double_fault_rate": 2.39,
+      "total_serve_pts": 23435,
+      "total_aces": 3363,
+      "total_dfs": 561,
+      "matches": 278,
+      "gender": "M"
+    },
+    "Jack Draper": {
+      "ace_rate": 9.61,
+      "double_fault_rate": 4.69,
+      "total_serve_pts": 1343,
+      "total_aces": 129,
+      "total_dfs": 63,
+      "matches": 16,
+      "gender": "M"
+    },
+    "Zhizhen Zhang": {
+      "ace_rate": 10.06,
+      "double_fault_rate": 2.46,
+      "total_serve_pts": 1461,
+      "total_aces": 147,
+      "total_dfs": 36,
+      "matches": 18,
+      "gender": "M"
+    },
+    "Gijs Brouwer": {
+      "ace_rate": 5.98,
+      "double_fault_rate": 2.69,
+      "total_serve_pts": 1153,
+      "total_aces": 69,
+      "total_dfs": 31,
+      "matches": 16,
+      "gender": "M"
+    },
+    "Lucas Pouille": {
+      "ace_rate": 8.8,
+      "double_fault_rate": 4.12,
+      "total_serve_pts": 2522,
+      "total_aces": 222,
+      "total_dfs": 104,
+      "matches": 31,
+      "gender": "M"
+    },
+    "Adrian Mannarino": {
+      "ace_rate": 5.82,
+      "double_fault_rate": 3.2,
+      "total_serve_pts": 4534,
+      "total_aces": 264,
+      "total_dfs": 145,
+      "matches": 54,
+      "gender": "M"
+    },
+    "Lorenzo Musetti": {
+      "ace_rate": 4.01,
+      "double_fault_rate": 2.66,
+      "total_serve_pts": 5559,
+      "total_aces": 223,
+      "total_dfs": 148,
+      "matches": 67,
+      "gender": "M"
+    },
+    "Christopher Oconnell": {
+      "ace_rate": 6.65,
+      "double_fault_rate": 2.64,
+      "total_serve_pts": 1097,
+      "total_aces": 73,
+      "total_dfs": 29,
+      "matches": 12,
+      "gender": "M"
+    },
+    "Yannick Hanfmann": {
+      "ace_rate": 6.04,
+      "double_fault_rate": 2.19,
+      "total_serve_pts": 729,
+      "total_aces": 44,
+      "total_dfs": 16,
+      "matches": 11,
+      "gender": "M"
+    },
+    "Jelle Sels": {
+      "ace_rate": 5.67,
+      "double_fault_rate": 1.62,
+      "total_serve_pts": 494,
+      "total_aces": 28,
+      "total_dfs": 8,
+      "matches": 7,
+      "gender": "M"
+    },
+    "Zizou Bergs": {
+      "ace_rate": 12.2,
+      "double_fault_rate": 2.73,
+      "total_serve_pts": 549,
+      "total_aces": 67,
+      "total_dfs": 15,
+      "matches": 7,
+      "gender": "M"
+    },
+    "Frances Tiafoe": {
+      "ace_rate": 8.63,
+      "double_fault_rate": 3.08,
+      "total_serve_pts": 3603,
+      "total_aces": 311,
+      "total_dfs": 111,
+      "matches": 42,
+      "gender": "M"
+    },
+    "Grigor Dimitrov": {
+      "ace_rate": 8.51,
+      "double_fault_rate": 4.41,
+      "total_serve_pts": 12054,
+      "total_aces": 1026,
+      "total_dfs": 532,
+      "matches": 151,
+      "gender": "M"
+    },
+    "Otto Virtanen": {
+      "ace_rate": 13.26,
+      "double_fault_rate": 5.05,
+      "total_serve_pts": 792,
+      "total_aces": 105,
+      "total_dfs": 40,
+      "matches": 8,
+      "gender": "M"
+    },
+    "Jordan Thompson": {
+      "ace_rate": 9.39,
+      "double_fault_rate": 1.77,
+      "total_serve_pts": 2033,
+      "total_aces": 191,
+      "total_dfs": 36,
+      "matches": 25,
+      "gender": "M"
+    },
+    "Fabian Marozsan": {
+      "ace_rate": 6.45,
+      "double_fault_rate": 2.05,
+      "total_serve_pts": 977,
+      "total_aces": 63,
+      "total_dfs": 20,
+      "matches": 14,
+      "gender": "M"
+    },
+    "Laslo Djere": {
+      "ace_rate": 8.55,
+      "double_fault_rate": 3.99,
+      "total_serve_pts": 2328,
+      "total_aces": 199,
+      "total_dfs": 93,
+      "matches": 26,
+      "gender": "M"
+    },
+    "Miomir Kecmanovic": {
+      "ace_rate": 4.19,
+      "double_fault_rate": 2.14,
+      "total_serve_pts": 3126,
+      "total_aces": 131,
+      "total_dfs": 67,
+      "matches": 39,
+      "gender": "M"
+    },
+    "Tristan Schoolkate": {
+      "ace_rate": 9.05,
+      "double_fault_rate": 6.79,
+      "total_serve_pts": 221,
+      "total_aces": 20,
+      "total_dfs": 15,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Taro Daniel": {
+      "ace_rate": 5.38,
+      "double_fault_rate": 2.69,
+      "total_serve_pts": 744,
+      "total_aces": 40,
+      "total_dfs": 20,
+      "matches": 10,
+      "gender": "M"
+    },
+    "Mattia Bellucci": {
+      "ace_rate": 10.49,
+      "double_fault_rate": 5.25,
+      "total_serve_pts": 324,
+      "total_aces": 34,
+      "total_dfs": 17,
+      "matches": 4,
+      "gender": "M"
+    },
+    "Radu Albot": {
+      "ace_rate": 2.36,
+      "double_fault_rate": 3.3,
+      "total_serve_pts": 1273,
+      "total_aces": 30,
+      "total_dfs": 42,
+      "matches": 18,
+      "gender": "M"
+    },
+    "Li Tu": {
+      "ace_rate": 6.72,
+      "double_fault_rate": 4.23,
+      "total_serve_pts": 402,
+      "total_aces": 27,
+      "total_dfs": 17,
+      "matches": 4,
+      "gender": "M"
+    },
+    "Daniel Evans": {
+      "ace_rate": 5.47,
+      "double_fault_rate": 3.86,
+      "total_serve_pts": 2411,
+      "total_aces": 132,
+      "total_dfs": 93,
+      "matches": 30,
+      "gender": "M"
+    },
+    "Mackenzie Mcdonald": {
+      "ace_rate": 5.3,
+      "double_fault_rate": 3.45,
+      "total_serve_pts": 1942,
+      "total_aces": 103,
+      "total_dfs": 67,
+      "matches": 20,
+      "gender": "M"
+    },
+    "Timofey Skatov": {
+      "ace_rate": 1.3,
+      "double_fault_rate": 3.04,
+      "total_serve_pts": 230,
+      "total_aces": 3,
+      "total_dfs": 7,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Pedro Martinez": {
+      "ace_rate": 2.11,
+      "double_fault_rate": 4.76,
+      "total_serve_pts": 1892,
+      "total_aces": 40,
+      "total_dfs": 90,
+      "matches": 22,
+      "gender": "M"
+    },
+    "Reilly Opelka": {
+      "ace_rate": 22.56,
+      "double_fault_rate": 2.42,
+      "total_serve_pts": 3807,
+      "total_aces": 859,
+      "total_dfs": 92,
+      "matches": 48,
+      "gender": "M"
+    },
+    "Bu Yunchaokete": {
+      "ace_rate": 9.43,
+      "double_fault_rate": 1.89,
+      "total_serve_pts": 265,
+      "total_aces": 25,
+      "total_dfs": 5,
+      "matches": 4,
+      "gender": "M"
+    },
+    "Brandon Nakashima": {
+      "ace_rate": 9.1,
+      "double_fault_rate": 2.39,
+      "total_serve_pts": 1923,
+      "total_aces": 175,
+      "total_dfs": 46,
+      "matches": 22,
+      "gender": "M"
+    },
+    "Lorenzo Sonego": {
+      "ace_rate": 6.45,
+      "double_fault_rate": 2.66,
+      "total_serve_pts": 2481,
+      "total_aces": 160,
+      "total_dfs": 66,
+      "matches": 31,
+      "gender": "M"
+    },
+    "Sebastian Baez": {
+      "ace_rate": 2.1,
+      "double_fault_rate": 2.69,
+      "total_serve_pts": 3047,
+      "total_aces": 64,
+      "total_dfs": 82,
+      "matches": 43,
+      "gender": "M"
+    },
+    "Yoshihito Nishioka": {
+      "ace_rate": 2.58,
+      "double_fault_rate": 2.43,
+      "total_serve_pts": 2717,
+      "total_aces": 70,
+      "total_dfs": 66,
+      "matches": 35,
+      "gender": "M"
+    },
+    "Francisco Cerundolo": {
+      "ace_rate": 3.17,
+      "double_fault_rate": 3.54,
+      "total_serve_pts": 2432,
+      "total_aces": 77,
+      "total_dfs": 86,
+      "matches": 30,
+      "gender": "M"
+    },
+    "Matteo Arnaldi": {
+      "ace_rate": 6.81,
+      "double_fault_rate": 3.16,
+      "total_serve_pts": 1013,
+      "total_aces": 69,
+      "total_dfs": 32,
+      "matches": 13,
+      "gender": "M"
+    },
+    "Sebastian Korda": {
+      "ace_rate": 8.31,
+      "double_fault_rate": 2.68,
+      "total_serve_pts": 3393,
+      "total_aces": 282,
+      "total_dfs": 91,
+      "matches": 37,
+      "gender": "M"
+    },
+    "Arthur Rinderknech": {
+      "ace_rate": 11.3,
+      "double_fault_rate": 2.01,
+      "total_serve_pts": 894,
+      "total_aces": 101,
+      "total_dfs": 18,
+      "matches": 12,
+      "gender": "M"
+    },
+    "Alejandro Davidovich Fokina": {
+      "ace_rate": 3.46,
+      "double_fault_rate": 2.92,
+      "total_serve_pts": 4251,
+      "total_aces": 147,
+      "total_dfs": 124,
+      "matches": 48,
+      "gender": "M"
+    },
+    "Mariano Navone": {
+      "ace_rate": 2.11,
+      "double_fault_rate": 4.45,
+      "total_serve_pts": 427,
+      "total_aces": 9,
+      "total_dfs": 19,
+      "matches": 6,
+      "gender": "M"
+    },
+    "Borna Coric": {
+      "ace_rate": 6.8,
+      "double_fault_rate": 2.34,
+      "total_serve_pts": 3723,
+      "total_aces": 253,
+      "total_dfs": 87,
+      "matches": 49,
+      "gender": "M"
+    },
+    "Emil Ruusuvuori": {
+      "ace_rate": 4.02,
+      "double_fault_rate": 4.19,
+      "total_serve_pts": 2864,
+      "total_aces": 115,
+      "total_dfs": 120,
+      "matches": 35,
+      "gender": "M"
+    },
+    "Dominik Koepfer": {
+      "ace_rate": 5.64,
+      "double_fault_rate": 2.71,
+      "total_serve_pts": 922,
+      "total_aces": 52,
+      "total_dfs": 25,
+      "matches": 10,
+      "gender": "M"
+    },
+    "Sebastian Ofner": {
+      "ace_rate": 4.85,
+      "double_fault_rate": 3.05,
+      "total_serve_pts": 557,
+      "total_aces": 27,
+      "total_dfs": 17,
+      "matches": 8,
+      "gender": "M"
+    },
+    "Robin Haase": {
+      "ace_rate": 8.16,
+      "double_fault_rate": 4.38,
+      "total_serve_pts": 3725,
+      "total_aces": 304,
+      "total_dfs": 163,
+      "matches": 46,
+      "gender": "M"
+    },
+    "Marton Fucsovics": {
+      "ace_rate": 4.0,
+      "double_fault_rate": 3.76,
+      "total_serve_pts": 3247,
+      "total_aces": 130,
+      "total_dfs": 122,
+      "matches": 36,
+      "gender": "M"
+    },
+    "Matthew Ebden": {
+      "ace_rate": 9.76,
+      "double_fault_rate": 6.8,
+      "total_serve_pts": 338,
+      "total_aces": 33,
+      "total_dfs": 23,
+      "matches": 6,
+      "gender": "M"
+    },
+    "Dusan Lajovic": {
+      "ace_rate": 2.79,
+      "double_fault_rate": 1.87,
+      "total_serve_pts": 2401,
+      "total_aces": 67,
+      "total_dfs": 45,
+      "matches": 35,
+      "gender": "M"
+    },
+    "Hugo Grenier": {
+      "ace_rate": 10.24,
+      "double_fault_rate": 6.63,
+      "total_serve_pts": 166,
+      "total_aces": 17,
+      "total_dfs": 11,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Marco Trungelliti": {
+      "ace_rate": 3.31,
+      "double_fault_rate": 5.3,
+      "total_serve_pts": 151,
+      "total_aces": 5,
+      "total_dfs": 8,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Quentin Halys": {
+      "ace_rate": 17.23,
+      "double_fault_rate": 5.65,
+      "total_serve_pts": 743,
+      "total_aces": 128,
+      "total_dfs": 42,
+      "matches": 9,
+      "gender": "M"
+    },
+    "Christopher Eubanks": {
+      "ace_rate": 8.99,
+      "double_fault_rate": 4.85,
+      "total_serve_pts": 1135,
+      "total_aces": 102,
+      "total_dfs": 55,
+      "matches": 14,
+      "gender": "M"
+    },
+    "Fabio Fognini": {
+      "ace_rate": 4.16,
+      "double_fault_rate": 4.53,
+      "total_serve_pts": 2979,
+      "total_aces": 124,
+      "total_dfs": 135,
+      "matches": 40,
+      "gender": "M"
+    },
+    "Rinky Hijikata": {
+      "ace_rate": 8.7,
+      "double_fault_rate": 3.61,
+      "total_serve_pts": 747,
+      "total_aces": 65,
+      "total_dfs": 27,
+      "matches": 8,
+      "gender": "M"
+    },
+    "Leo Borg": {
+      "ace_rate": 2.63,
+      "double_fault_rate": 5.92,
+      "total_serve_pts": 152,
+      "total_aces": 4,
+      "total_dfs": 9,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Maxime Cressy": {
+      "ace_rate": 18.31,
+      "double_fault_rate": 10.44,
+      "total_serve_pts": 2654,
+      "total_aces": 486,
+      "total_dfs": 277,
+      "matches": 31,
+      "gender": "M"
+    },
+    "Roberto Carballes Baena": {
+      "ace_rate": 2.92,
+      "double_fault_rate": 3.31,
+      "total_serve_pts": 1781,
+      "total_aces": 52,
+      "total_dfs": 59,
+      "matches": 22,
+      "gender": "M"
+    },
+    "Marc Polmans": {
+      "ace_rate": 6.79,
+      "double_fault_rate": 2.86,
+      "total_serve_pts": 560,
+      "total_aces": 38,
+      "total_dfs": 16,
+      "matches": 5,
+      "gender": "M"
+    },
+    "Zsombor Piros": {
+      "ace_rate": 2.92,
+      "double_fault_rate": 4.38,
+      "total_serve_pts": 137,
+      "total_aces": 4,
+      "total_dfs": 6,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Adrian Andreev": {
+      "ace_rate": 4.29,
+      "double_fault_rate": 1.43,
+      "total_serve_pts": 280,
+      "total_aces": 12,
+      "total_dfs": 4,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Thiago Seyboth Wild": {
+      "ace_rate": 6.0,
+      "double_fault_rate": 3.81,
+      "total_serve_pts": 1416,
+      "total_aces": 85,
+      "total_dfs": 54,
+      "matches": 13,
+      "gender": "M"
+    },
+    "Paul Jubb": {
+      "ace_rate": 5.27,
+      "double_fault_rate": 4.75,
+      "total_serve_pts": 569,
+      "total_aces": 30,
+      "total_dfs": 27,
+      "matches": 4,
+      "gender": "M"
+    },
+    "Constant Lestienne": {
+      "ace_rate": 5.61,
+      "double_fault_rate": 6.23,
+      "total_serve_pts": 321,
+      "total_aces": 18,
+      "total_dfs": 20,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Francisco Comesana": {
+      "ace_rate": 11.11,
+      "double_fault_rate": 1.59,
+      "total_serve_pts": 189,
+      "total_aces": 21,
+      "total_dfs": 3,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Alejandro Moro Canas": {
+      "ace_rate": 2.43,
+      "double_fault_rate": 0.97,
+      "total_serve_pts": 206,
+      "total_aces": 5,
+      "total_dfs": 2,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Lloyd Harris": {
+      "ace_rate": 12.29,
+      "double_fault_rate": 3.79,
+      "total_serve_pts": 659,
+      "total_aces": 81,
+      "total_dfs": 25,
+      "matches": 8,
+      "gender": "M"
+    },
+    "Ethan Quinn": {
+      "ace_rate": 9.73,
+      "double_fault_rate": 4.42,
+      "total_serve_pts": 113,
+      "total_aces": 11,
+      "total_dfs": 5,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Cameron Norrie": {
+      "ace_rate": 5.43,
+      "double_fault_rate": 3.18,
+      "total_serve_pts": 2892,
+      "total_aces": 157,
+      "total_dfs": 92,
+      "matches": 37,
+      "gender": "M"
+    },
+    "James Duckworth": {
+      "ace_rate": 7.96,
+      "double_fault_rate": 1.99,
+      "total_serve_pts": 452,
+      "total_aces": 36,
+      "total_dfs": 9,
+      "matches": 6,
+      "gender": "M"
+    },
+    "Alexander Bublik": {
+      "ace_rate": 14.73,
+      "double_fault_rate": 9.07,
+      "total_serve_pts": 5104,
+      "total_aces": 752,
+      "total_dfs": 463,
+      "matches": 68,
+      "gender": "M"
+    },
+    "Richard Gasquet": {
+      "ace_rate": 5.33,
+      "double_fault_rate": 3.36,
+      "total_serve_pts": 5945,
+      "total_aces": 317,
+      "total_dfs": 200,
+      "matches": 80,
+      "gender": "M"
+    },
+    "Hamad Medjedovic": {
+      "ace_rate": 16.0,
+      "double_fault_rate": 8.67,
+      "total_serve_pts": 150,
+      "total_aces": 24,
+      "total_dfs": 13,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Corentin Moutet": {
+      "ace_rate": 3.54,
+      "double_fault_rate": 2.59,
+      "total_serve_pts": 1044,
+      "total_aces": 37,
+      "total_dfs": 27,
+      "matches": 13,
+      "gender": "M"
+    },
+    "Denis Shapovalov": {
+      "ace_rate": 9.51,
+      "double_fault_rate": 5.97,
+      "total_serve_pts": 6352,
+      "total_aces": 604,
+      "total_dfs": 379,
+      "matches": 73,
+      "gender": "M"
+    },
+    "Valentin Vacherot": {
+      "ace_rate": 9.5,
+      "double_fault_rate": 5.5,
+      "total_serve_pts": 200,
+      "total_aces": 19,
+      "total_dfs": 11,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Pierre Hugues Herbert": {
+      "ace_rate": 9.83,
+      "double_fault_rate": 5.39,
+      "total_serve_pts": 1038,
+      "total_aces": 102,
+      "total_dfs": 56,
+      "matches": 11,
+      "gender": "M"
+    },
+    "Arthur Cazaux": {
+      "ace_rate": 12.96,
+      "double_fault_rate": 2.28,
+      "total_serve_pts": 571,
+      "total_aces": 74,
+      "total_dfs": 13,
+      "matches": 6,
+      "gender": "M"
+    },
+    "Gregoire Barrere": {
+      "ace_rate": 3.83,
+      "double_fault_rate": 3.3,
+      "total_serve_pts": 940,
+      "total_aces": 36,
+      "total_dfs": 31,
+      "matches": 12,
+      "gender": "M"
+    },
+    "Filip Misolic": {
+      "ace_rate": 3.02,
+      "double_fault_rate": 2.35,
+      "total_serve_pts": 298,
+      "total_aces": 9,
+      "total_dfs": 7,
+      "matches": 3,
+      "gender": "M"
+    },
+    "J J Wolf": {
+      "ace_rate": 5.51,
+      "double_fault_rate": 3.8,
+      "total_serve_pts": 526,
+      "total_aces": 29,
+      "total_dfs": 20,
+      "matches": 8,
+      "gender": "M"
+    },
+    "Andy Murray": {
+      "ace_rate": 8.01,
+      "double_fault_rate": 2.98,
+      "total_serve_pts": 20715,
+      "total_aces": 1660,
+      "total_dfs": 617,
+      "matches": 244,
+      "gender": "M"
+    },
+    "Alexander Shevchenko": {
+      "ace_rate": 4.29,
+      "double_fault_rate": 2.25,
+      "total_serve_pts": 979,
+      "total_aces": 42,
+      "total_dfs": 22,
+      "matches": 13,
+      "gender": "M"
+    },
+    "Daniel Elahi Galan": {
+      "ace_rate": 6.37,
+      "double_fault_rate": 1.78,
+      "total_serve_pts": 1067,
+      "total_aces": 68,
+      "total_dfs": 19,
+      "matches": 11,
+      "gender": "M"
+    },
+    "Federico Coria": {
+      "ace_rate": 2.84,
+      "double_fault_rate": 3.17,
+      "total_serve_pts": 599,
+      "total_aces": 17,
+      "total_dfs": 19,
+      "matches": 9,
+      "gender": "M"
+    },
+    "Lukas Klein": {
+      "ace_rate": 5.26,
+      "double_fault_rate": 1.97,
+      "total_serve_pts": 152,
+      "total_aces": 8,
+      "total_dfs": 3,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Emilio Nava": {
+      "ace_rate": 9.04,
+      "double_fault_rate": 3.62,
+      "total_serve_pts": 387,
+      "total_aces": 35,
+      "total_dfs": 14,
+      "matches": 4,
+      "gender": "M"
+    },
+    "Martin Landaluce": {
+      "ace_rate": 2.65,
+      "double_fault_rate": 5.96,
+      "total_serve_pts": 151,
+      "total_aces": 4,
+      "total_dfs": 9,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Nick Hardt": {
+      "ace_rate": 4.06,
+      "double_fault_rate": 5.58,
+      "total_serve_pts": 197,
+      "total_aces": 8,
+      "total_dfs": 11,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Facundo Diaz Acosta": {
+      "ace_rate": 3.0,
+      "double_fault_rate": 3.86,
+      "total_serve_pts": 233,
+      "total_aces": 7,
+      "total_dfs": 9,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Bernabe Zapata Miralles": {
+      "ace_rate": 3.65,
+      "double_fault_rate": 2.07,
+      "total_serve_pts": 822,
+      "total_aces": 30,
+      "total_dfs": 17,
+      "matches": 9,
+      "gender": "M"
+    },
+    "Lucas Catarina": {
+      "ace_rate": 2.98,
+      "double_fault_rate": 4.76,
+      "total_serve_pts": 168,
+      "total_aces": 5,
+      "total_dfs": 8,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Aleksandar Vukic": {
+      "ace_rate": 12.56,
+      "double_fault_rate": 1.44,
+      "total_serve_pts": 836,
+      "total_aces": 105,
+      "total_dfs": 12,
+      "matches": 10,
+      "gender": "M"
+    },
+    "Cristian Garin": {
+      "ace_rate": 4.7,
+      "double_fault_rate": 4.44,
+      "total_serve_pts": 1871,
+      "total_aces": 88,
+      "total_dfs": 83,
+      "matches": 23,
+      "gender": "M"
+    },
+    "Jan Choinski": {
+      "ace_rate": 3.52,
+      "double_fault_rate": 1.51,
+      "total_serve_pts": 199,
+      "total_aces": 7,
+      "total_dfs": 3,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Joao Sousa": {
+      "ace_rate": 4.9,
+      "double_fault_rate": 3.4,
+      "total_serve_pts": 1266,
+      "total_aces": 62,
+      "total_dfs": 43,
+      "matches": 17,
+      "gender": "M"
+    },
+    "Maximilian Marterer": {
+      "ace_rate": 9.02,
+      "double_fault_rate": 2.93,
+      "total_serve_pts": 410,
+      "total_aces": 37,
+      "total_dfs": 12,
+      "matches": 6,
+      "gender": "M"
+    },
+    "Nicolas Mejia": {
+      "ace_rate": 4.4,
+      "double_fault_rate": 2.93,
+      "total_serve_pts": 273,
+      "total_aces": 12,
+      "total_dfs": 8,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Thiago Agustin Tirante": {
+      "ace_rate": 3.62,
+      "double_fault_rate": 3.26,
+      "total_serve_pts": 276,
+      "total_aces": 10,
+      "total_dfs": 9,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Bernard Tomic": {
+      "ace_rate": 11.01,
+      "double_fault_rate": 2.05,
+      "total_serve_pts": 2098,
+      "total_aces": 231,
+      "total_dfs": 43,
+      "matches": 26,
+      "gender": "M"
+    },
+    "Andrea Vavassori": {
+      "ace_rate": 6.91,
+      "double_fault_rate": 2.55,
+      "total_serve_pts": 275,
+      "total_aces": 19,
+      "total_dfs": 7,
+      "matches": 5,
+      "gender": "M"
+    },
+    "Max Purcell": {
+      "ace_rate": 13.35,
+      "double_fault_rate": 2.14,
+      "total_serve_pts": 562,
+      "total_aces": 75,
+      "total_dfs": 12,
+      "matches": 6,
+      "gender": "M"
+    },
+    "Juan Pablo Varillas": {
+      "ace_rate": 5.49,
+      "double_fault_rate": 2.2,
+      "total_serve_pts": 728,
+      "total_aces": 40,
+      "total_dfs": 16,
+      "matches": 8,
+      "gender": "M"
+    },
+    "Patrick Kypson": {
+      "ace_rate": 13.18,
+      "double_fault_rate": 0.0,
+      "total_serve_pts": 129,
+      "total_aces": 17,
+      "total_dfs": 0,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Chun Hsin Tseng": {
+      "ace_rate": 9.63,
+      "double_fault_rate": 4.13,
+      "total_serve_pts": 218,
+      "total_aces": 21,
+      "total_dfs": 9,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Daniel Michalski": {
+      "ace_rate": 0.0,
+      "double_fault_rate": 2.86,
+      "total_serve_pts": 140,
+      "total_aces": 0,
+      "total_dfs": 4,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Jozef Kovalik": {
+      "ace_rate": 3.86,
+      "double_fault_rate": 4.18,
+      "total_serve_pts": 311,
+      "total_aces": 12,
+      "total_dfs": 13,
+      "matches": 5,
+      "gender": "M"
+    },
+    "Facundo Bagnis": {
+      "ace_rate": 6.04,
+      "double_fault_rate": 3.36,
+      "total_serve_pts": 447,
+      "total_aces": 27,
+      "total_dfs": 15,
+      "matches": 5,
+      "gender": "M"
+    },
+    "Milos Raonic": {
+      "ace_rate": 18.48,
+      "double_fault_rate": 4.03,
+      "total_serve_pts": 6401,
+      "total_aces": 1183,
+      "total_dfs": 258,
+      "matches": 76,
+      "gender": "M"
+    },
+    "Dino Prizmic": {
+      "ace_rate": 4.0,
+      "double_fault_rate": 2.67,
+      "total_serve_pts": 300,
+      "total_aces": 12,
+      "total_dfs": 8,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Giulio Zeppieri": {
+      "ace_rate": 5.56,
+      "double_fault_rate": 5.56,
+      "total_serve_pts": 180,
+      "total_aces": 10,
+      "total_dfs": 10,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Hugo Gaston": {
+      "ace_rate": 2.38,
+      "double_fault_rate": 4.13,
+      "total_serve_pts": 630,
+      "total_aces": 15,
+      "total_dfs": 26,
+      "matches": 8,
+      "gender": "M"
+    },
+    "Dmitry Popko": {
+      "ace_rate": 3.42,
+      "double_fault_rate": 3.42,
+      "total_serve_pts": 234,
+      "total_aces": 8,
+      "total_dfs": 8,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Marc Andrea Huesler": {
+      "ace_rate": 11.39,
+      "double_fault_rate": 2.01,
+      "total_serve_pts": 746,
+      "total_aces": 85,
+      "total_dfs": 15,
+      "matches": 7,
+      "gender": "M"
+    },
+    "Leandro Riedi": {
+      "ace_rate": 5.03,
+      "double_fault_rate": 1.89,
+      "total_serve_pts": 318,
+      "total_aces": 16,
+      "total_dfs": 6,
+      "matches": 4,
+      "gender": "M"
+    },
+    "Pedro Cachin": {
+      "ace_rate": 6.83,
+      "double_fault_rate": 2.28,
+      "total_serve_pts": 527,
+      "total_aces": 36,
+      "total_dfs": 12,
+      "matches": 6,
+      "gender": "M"
+    },
+    "Jason Kubler": {
+      "ace_rate": 7.32,
+      "double_fault_rate": 4.63,
+      "total_serve_pts": 669,
+      "total_aces": 49,
+      "total_dfs": 31,
+      "matches": 6,
+      "gender": "M"
+    },
+    "John Millman": {
+      "ace_rate": 4.32,
+      "double_fault_rate": 1.53,
+      "total_serve_pts": 1759,
+      "total_aces": 76,
+      "total_dfs": 27,
+      "matches": 18,
+      "gender": "M"
+    },
+    "Alex Molcan": {
+      "ace_rate": 4.99,
+      "double_fault_rate": 3.55,
+      "total_serve_pts": 902,
+      "total_aces": 45,
+      "total_dfs": 32,
+      "matches": 9,
+      "gender": "M"
+    },
+    "Alessandro Giannessi": {
+      "ace_rate": 1.84,
+      "double_fault_rate": 6.75,
+      "total_serve_pts": 163,
+      "total_aces": 3,
+      "total_dfs": 11,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Yu Hsiou Hsu": {
+      "ace_rate": 3.41,
+      "double_fault_rate": 1.14,
+      "total_serve_pts": 176,
+      "total_aces": 6,
+      "total_dfs": 2,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Dominic Stricker": {
+      "ace_rate": 8.61,
+      "double_fault_rate": 5.0,
+      "total_serve_pts": 360,
+      "total_aces": 31,
+      "total_dfs": 18,
+      "matches": 3,
+      "gender": "M"
+    },
+    "John Isner": {
+      "ace_rate": 20.27,
+      "double_fault_rate": 2.46,
+      "total_serve_pts": 7528,
+      "total_aces": 1526,
+      "total_dfs": 185,
+      "matches": 81,
+      "gender": "M"
+    },
+    "Michael Mmoh": {
+      "ace_rate": 7.56,
+      "double_fault_rate": 5.6,
+      "total_serve_pts": 357,
+      "total_aces": 27,
+      "total_dfs": 20,
+      "matches": 4,
+      "gender": "M"
+    },
+    "Attila Balazs": {
+      "ace_rate": 3.87,
+      "double_fault_rate": 5.16,
+      "total_serve_pts": 310,
+      "total_aces": 12,
+      "total_dfs": 16,
+      "matches": 4,
+      "gender": "M"
+    },
+    "Aslan Karatsev": {
+      "ace_rate": 6.28,
+      "double_fault_rate": 4.93,
+      "total_serve_pts": 2212,
+      "total_aces": 139,
+      "total_dfs": 109,
+      "matches": 27,
+      "gender": "M"
+    },
+    "Diego Schwartzman": {
+      "ace_rate": 1.98,
+      "double_fault_rate": 3.79,
+      "total_serve_pts": 3483,
+      "total_aces": 69,
+      "total_dfs": 132,
+      "matches": 45,
+      "gender": "M"
+    },
+    "Jiri Vesely": {
+      "ace_rate": 11.71,
+      "double_fault_rate": 5.68,
+      "total_serve_pts": 828,
+      "total_aces": 97,
+      "total_dfs": 47,
+      "matches": 9,
+      "gender": "M"
+    },
+    "Dennis Novak": {
+      "ace_rate": 6.33,
+      "double_fault_rate": 5.06,
+      "total_serve_pts": 395,
+      "total_aces": 25,
+      "total_dfs": 20,
+      "matches": 5,
+      "gender": "M"
+    },
+    "Jeremy Chardy": {
+      "ace_rate": 9.94,
+      "double_fault_rate": 6.06,
+      "total_serve_pts": 1750,
+      "total_aces": 174,
+      "total_dfs": 106,
+      "matches": 21,
+      "gender": "M"
+    },
+    "Juan Manuel Cerundolo": {
+      "ace_rate": 2.95,
+      "double_fault_rate": 3.69,
+      "total_serve_pts": 271,
+      "total_aces": 8,
+      "total_dfs": 10,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Albert Ramos": {
+      "ace_rate": 2.71,
+      "double_fault_rate": 2.91,
+      "total_serve_pts": 1957,
+      "total_aces": 53,
+      "total_dfs": 57,
+      "matches": 24,
+      "gender": "M"
+    },
+    "Laurent Lokoli": {
+      "ace_rate": 5.58,
+      "double_fault_rate": 6.6,
+      "total_serve_pts": 197,
+      "total_aces": 11,
+      "total_dfs": 13,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Liam Broady": {
+      "ace_rate": 3.68,
+      "double_fault_rate": 4.41,
+      "total_serve_pts": 136,
+      "total_aces": 5,
+      "total_dfs": 6,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Yosuke Watanuki": {
+      "ace_rate": 15.02,
+      "double_fault_rate": 6.1,
+      "total_serve_pts": 213,
+      "total_aces": 32,
+      "total_dfs": 13,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Yibing Wu": {
+      "ace_rate": 4.57,
+      "double_fault_rate": 2.15,
+      "total_serve_pts": 372,
+      "total_aces": 17,
+      "total_dfs": 8,
+      "matches": 4,
+      "gender": "M"
+    },
+    "Nick Kyrgios": {
+      "ace_rate": 17.98,
+      "double_fault_rate": 3.86,
+      "total_serve_pts": 9221,
+      "total_aces": 1658,
+      "total_dfs": 356,
+      "matches": 104,
+      "gender": "M"
+    },
+    "Oscar Otte": {
+      "ace_rate": 11.06,
+      "double_fault_rate": 6.17,
+      "total_serve_pts": 470,
+      "total_aces": 52,
+      "total_dfs": 29,
+      "matches": 6,
+      "gender": "M"
+    },
+    "Hugo Dellien": {
+      "ace_rate": 1.37,
+      "double_fault_rate": 1.62,
+      "total_serve_pts": 802,
+      "total_aces": 11,
+      "total_dfs": 13,
+      "matches": 9,
+      "gender": "M"
+    },
+    "Federico Delbonis": {
+      "ace_rate": 3.94,
+      "double_fault_rate": 3.72,
+      "total_serve_pts": 1345,
+      "total_aces": 53,
+      "total_dfs": 50,
+      "matches": 18,
+      "gender": "M"
+    },
+    "Sumit Nagal": {
+      "ace_rate": 0.0,
+      "double_fault_rate": 3.57,
+      "total_serve_pts": 140,
+      "total_aces": 0,
+      "total_dfs": 5,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Feliciano Lopez": {
+      "ace_rate": 12.77,
+      "double_fault_rate": 4.83,
+      "total_serve_pts": 4517,
+      "total_aces": 577,
+      "total_dfs": 218,
+      "matches": 51,
+      "gender": "M"
+    },
+    "Pablo Andujar": {
+      "ace_rate": 0.49,
+      "double_fault_rate": 4.01,
+      "total_serve_pts": 823,
+      "total_aces": 4,
+      "total_dfs": 33,
+      "matches": 10,
+      "gender": "M"
+    },
+    "Filip Krajinovic": {
+      "ace_rate": 5.66,
+      "double_fault_rate": 2.47,
+      "total_serve_pts": 1537,
+      "total_aces": 87,
+      "total_dfs": 38,
+      "matches": 22,
+      "gender": "M"
+    },
+    "Ilya Ivashka": {
+      "ace_rate": 5.4,
+      "double_fault_rate": 4.71,
+      "total_serve_pts": 870,
+      "total_aces": 47,
+      "total_dfs": 41,
+      "matches": 9,
+      "gender": "M"
+    },
+    "Mikael Ymer": {
+      "ace_rate": 2.63,
+      "double_fault_rate": 3.22,
+      "total_serve_pts": 1179,
+      "total_aces": 31,
+      "total_dfs": 38,
+      "matches": 13,
+      "gender": "M"
+    },
+    "Malek Jaziri": {
+      "ace_rate": 5.69,
+      "double_fault_rate": 2.53,
+      "total_serve_pts": 633,
+      "total_aces": 36,
+      "total_dfs": 16,
+      "matches": 9,
+      "gender": "M"
+    },
+    "Benjamin Bonzi": {
+      "ace_rate": 8.75,
+      "double_fault_rate": 3.04,
+      "total_serve_pts": 526,
+      "total_aces": 46,
+      "total_dfs": 16,
+      "matches": 6,
+      "gender": "M"
+    },
+    "Thomaz Bellucci": {
+      "ace_rate": 6.46,
+      "double_fault_rate": 3.16,
+      "total_serve_pts": 727,
+      "total_aces": 47,
+      "total_dfs": 23,
+      "matches": 9,
+      "gender": "M"
+    },
+    "Soon Woo Kwon": {
+      "ace_rate": 7.82,
+      "double_fault_rate": 4.01,
+      "total_serve_pts": 499,
+      "total_aces": 39,
+      "total_dfs": 20,
+      "matches": 6,
+      "gender": "M"
+    },
+    "Abedallah Shelbayh": {
+      "ace_rate": 6.0,
+      "double_fault_rate": 2.0,
+      "total_serve_pts": 150,
+      "total_aces": 9,
+      "total_dfs": 3,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Tim Van Rijthoven": {
+      "ace_rate": 16.21,
+      "double_fault_rate": 3.6,
+      "total_serve_pts": 1363,
+      "total_aces": 221,
+      "total_dfs": 49,
+      "matches": 15,
+      "gender": "M"
+    },
+    "Enzo Couacaud": {
+      "ace_rate": 4.02,
+      "double_fault_rate": 1.34,
+      "total_serve_pts": 224,
+      "total_aces": 9,
+      "total_dfs": 3,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Jenson Brooksby": {
+      "ace_rate": 2.93,
+      "double_fault_rate": 1.55,
+      "total_serve_pts": 1808,
+      "total_aces": 53,
+      "total_dfs": 28,
+      "matches": 22,
+      "gender": "M"
+    },
+    "Oleksii Krutykh": {
+      "ace_rate": 6.04,
+      "double_fault_rate": 2.75,
+      "total_serve_pts": 182,
+      "total_aces": 11,
+      "total_dfs": 5,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Vasek Pospisil": {
+      "ace_rate": 12.15,
+      "double_fault_rate": 4.19,
+      "total_serve_pts": 1218,
+      "total_aces": 148,
+      "total_dfs": 51,
+      "matches": 15,
+      "gender": "M"
+    },
+    "Kyle Edmund": {
+      "ace_rate": 5.94,
+      "double_fault_rate": 3.81,
+      "total_serve_pts": 892,
+      "total_aces": 53,
+      "total_dfs": 34,
+      "matches": 12,
+      "gender": "M"
+    },
+    "Yasutaka Uchiyama": {
+      "ace_rate": 11.51,
+      "double_fault_rate": 2.38,
+      "total_serve_pts": 252,
+      "total_aces": 29,
+      "total_dfs": 6,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Evgeny Donskoy": {
+      "ace_rate": 6.41,
+      "double_fault_rate": 2.92,
+      "total_serve_pts": 343,
+      "total_aces": 22,
+      "total_dfs": 10,
+      "matches": 5,
+      "gender": "M"
+    },
+    "Dimitar Kuzmanov": {
+      "ace_rate": 6.67,
+      "double_fault_rate": 1.33,
+      "total_serve_pts": 150,
+      "total_aces": 10,
+      "total_dfs": 2,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Damir Dzumhur": {
+      "ace_rate": 1.85,
+      "double_fault_rate": 4.09,
+      "total_serve_pts": 758,
+      "total_aces": 14,
+      "total_dfs": 31,
+      "matches": 12,
+      "gender": "M"
+    },
+    "Gilles Simon": {
+      "ace_rate": 3.96,
+      "double_fault_rate": 2.57,
+      "total_serve_pts": 4239,
+      "total_aces": 168,
+      "total_dfs": 109,
+      "matches": 49,
+      "gender": "M"
+    },
+    "Nikoloz Basilashvili": {
+      "ace_rate": 6.93,
+      "double_fault_rate": 5.87,
+      "total_serve_pts": 2352,
+      "total_aces": 163,
+      "total_dfs": 138,
+      "matches": 28,
+      "gender": "M"
+    },
+    "Cem Ilkel": {
+      "ace_rate": 6.47,
+      "double_fault_rate": 5.47,
+      "total_serve_pts": 201,
+      "total_aces": 13,
+      "total_dfs": 11,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Viktor Durasovic": {
+      "ace_rate": 2.72,
+      "double_fault_rate": 3.4,
+      "total_serve_pts": 147,
+      "total_aces": 4,
+      "total_dfs": 5,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Antoine Escoffier": {
+      "ace_rate": 13.43,
+      "double_fault_rate": 5.22,
+      "total_serve_pts": 134,
+      "total_aces": 18,
+      "total_dfs": 7,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Max Hans Rehberg": {
+      "ace_rate": 3.74,
+      "double_fault_rate": 5.61,
+      "total_serve_pts": 107,
+      "total_aces": 4,
+      "total_dfs": 6,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Steve Johnson": {
+      "ace_rate": 8.13,
+      "double_fault_rate": 3.88,
+      "total_serve_pts": 1648,
+      "total_aces": 134,
+      "total_dfs": 64,
+      "matches": 20,
+      "gender": "M"
+    },
+    "Emilio Gomez": {
+      "ace_rate": 4.49,
+      "double_fault_rate": 2.81,
+      "total_serve_pts": 178,
+      "total_aces": 8,
+      "total_dfs": 5,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Fernando Verdasco": {
+      "ace_rate": 8.24,
+      "double_fault_rate": 4.46,
+      "total_serve_pts": 3724,
+      "total_aces": 307,
+      "total_dfs": 166,
+      "matches": 39,
+      "gender": "M"
+    },
+    "Sam Querrey": {
+      "ace_rate": 17.07,
+      "double_fault_rate": 4.31,
+      "total_serve_pts": 1763,
+      "total_aces": 301,
+      "total_dfs": 76,
+      "matches": 19,
+      "gender": "M"
+    },
+    "Benoit Paire": {
+      "ace_rate": 10.84,
+      "double_fault_rate": 7.21,
+      "total_serve_pts": 3136,
+      "total_aces": 340,
+      "total_dfs": 226,
+      "matches": 40,
+      "gender": "M"
+    },
+    "Peter Gojowczyk": {
+      "ace_rate": 8.0,
+      "double_fault_rate": 5.68,
+      "total_serve_pts": 863,
+      "total_aces": 69,
+      "total_dfs": 49,
+      "matches": 12,
+      "gender": "M"
+    },
+    "Jurij Rodionov": {
+      "ace_rate": 10.57,
+      "double_fault_rate": 7.32,
+      "total_serve_pts": 123,
+      "total_aces": 13,
+      "total_dfs": 9,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Nicola Kuhn": {
+      "ace_rate": 2.89,
+      "double_fault_rate": 2.31,
+      "total_serve_pts": 173,
+      "total_aces": 5,
+      "total_dfs": 4,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Mili Poljicak": {
+      "ace_rate": 4.61,
+      "double_fault_rate": 2.63,
+      "total_serve_pts": 152,
+      "total_aces": 7,
+      "total_dfs": 4,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Zdenek Kolar": {
+      "ace_rate": 3.72,
+      "double_fault_rate": 3.31,
+      "total_serve_pts": 242,
+      "total_aces": 9,
+      "total_dfs": 8,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Marco Cecchinato": {
+      "ace_rate": 4.41,
+      "double_fault_rate": 3.31,
+      "total_serve_pts": 1451,
+      "total_aces": 64,
+      "total_dfs": 48,
+      "matches": 17,
+      "gender": "M"
+    },
+    "Jo Wilfried Tsonga": {
+      "ace_rate": 11.33,
+      "double_fault_rate": 2.95,
+      "total_serve_pts": 5721,
+      "total_aces": 648,
+      "total_dfs": 169,
+      "matches": 71,
+      "gender": "M"
+    },
+    "Sergey Fomin": {
+      "ace_rate": 2.52,
+      "double_fault_rate": 3.77,
+      "total_serve_pts": 159,
+      "total_aces": 4,
+      "total_dfs": 6,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Egor Gerasimov": {
+      "ace_rate": 8.49,
+      "double_fault_rate": 3.08,
+      "total_serve_pts": 813,
+      "total_aces": 69,
+      "total_dfs": 25,
+      "matches": 8,
+      "gender": "M"
+    },
+    "Tommy Robredo": {
+      "ace_rate": 4.34,
+      "double_fault_rate": 3.14,
+      "total_serve_pts": 1497,
+      "total_aces": 65,
+      "total_dfs": 47,
+      "matches": 19,
+      "gender": "M"
+    },
+    "Kevin Anderson": {
+      "ace_rate": 14.38,
+      "double_fault_rate": 3.03,
+      "total_serve_pts": 2413,
+      "total_aces": 347,
+      "total_dfs": 73,
+      "matches": 24,
+      "gender": "M"
+    },
+    "Jack Sock": {
+      "ace_rate": 7.81,
+      "double_fault_rate": 4.11,
+      "total_serve_pts": 1242,
+      "total_aces": 97,
+      "total_dfs": 51,
+      "matches": 18,
+      "gender": "M"
+    },
+    "Mikhail Kukushkin": {
+      "ace_rate": 4.5,
+      "double_fault_rate": 1.5,
+      "total_serve_pts": 1399,
+      "total_aces": 63,
+      "total_dfs": 21,
+      "matches": 17,
+      "gender": "M"
+    },
+    "Steven Diez": {
+      "ace_rate": 1.61,
+      "double_fault_rate": 2.69,
+      "total_serve_pts": 186,
+      "total_aces": 3,
+      "total_dfs": 5,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Juan Ignacio Londero": {
+      "ace_rate": 4.37,
+      "double_fault_rate": 3.94,
+      "total_serve_pts": 686,
+      "total_aces": 30,
+      "total_dfs": 27,
+      "matches": 9,
+      "gender": "M"
+    },
+    "Stefan Kozlov": {
+      "ace_rate": 8.0,
+      "double_fault_rate": 2.29,
+      "total_serve_pts": 175,
+      "total_aces": 14,
+      "total_dfs": 4,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Juan Martin Del Potro": {
+      "ace_rate": 10.03,
+      "double_fault_rate": 2.8,
+      "total_serve_pts": 10362,
+      "total_aces": 1039,
+      "total_dfs": 290,
+      "matches": 124,
+      "gender": "M"
+    },
+    "Henri Laaksonen": {
+      "ace_rate": 8.76,
+      "double_fault_rate": 0.73,
+      "total_serve_pts": 274,
+      "total_aces": 24,
+      "total_dfs": 2,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Sergiy Stakhovsky": {
+      "ace_rate": 12.1,
+      "double_fault_rate": 3.71,
+      "total_serve_pts": 1240,
+      "total_aces": 150,
+      "total_dfs": 46,
+      "matches": 16,
+      "gender": "M"
+    },
+    "Andrej Martin": {
+      "ace_rate": 2.05,
+      "double_fault_rate": 2.74,
+      "total_serve_pts": 146,
+      "total_aces": 3,
+      "total_dfs": 4,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Ricardas Berankis": {
+      "ace_rate": 5.6,
+      "double_fault_rate": 3.79,
+      "total_serve_pts": 607,
+      "total_aces": 34,
+      "total_dfs": 23,
+      "matches": 8,
+      "gender": "M"
+    },
+    "Dalibor Svrcina": {
+      "ace_rate": 1.4,
+      "double_fault_rate": 3.5,
+      "total_serve_pts": 143,
+      "total_aces": 2,
+      "total_dfs": 5,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Lukas Lacko": {
+      "ace_rate": 8.97,
+      "double_fault_rate": 4.49,
+      "total_serve_pts": 312,
+      "total_aces": 28,
+      "total_dfs": 14,
+      "matches": 5,
+      "gender": "M"
+    },
+    "Alex Bolt": {
+      "ace_rate": 5.56,
+      "double_fault_rate": 1.67,
+      "total_serve_pts": 180,
+      "total_aces": 10,
+      "total_dfs": 3,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Andreas Seppi": {
+      "ace_rate": 5.24,
+      "double_fault_rate": 2.77,
+      "total_serve_pts": 2309,
+      "total_aces": 121,
+      "total_dfs": 64,
+      "matches": 27,
+      "gender": "M"
+    },
+    "Ivo Karlovic": {
+      "ace_rate": 23.1,
+      "double_fault_rate": 4.56,
+      "total_serve_pts": 3268,
+      "total_aces": 755,
+      "total_dfs": 149,
+      "matches": 39,
+      "gender": "M"
+    },
+    "Yuichi Sugita": {
+      "ace_rate": 4.39,
+      "double_fault_rate": 3.13,
+      "total_serve_pts": 319,
+      "total_aces": 14,
+      "total_dfs": 10,
+      "matches": 5,
+      "gender": "M"
+    },
+    "Roger Federer": {
+      "ace_rate": 10.03,
+      "double_fault_rate": 2.22,
+      "total_serve_pts": 51404,
+      "total_aces": 5157,
+      "total_dfs": 1140,
+      "matches": 606,
+      "gender": "M"
+    },
+    "Pablo Cuevas": {
+      "ace_rate": 9.06,
+      "double_fault_rate": 3.34,
+      "total_serve_pts": 629,
+      "total_aces": 57,
+      "total_dfs": 21,
+      "matches": 10,
+      "gender": "M"
+    },
+    "Elias Ymer": {
+      "ace_rate": 4.02,
+      "double_fault_rate": 4.02,
+      "total_serve_pts": 174,
+      "total_aces": 7,
+      "total_dfs": 7,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Denis Istomin": {
+      "ace_rate": 8.79,
+      "double_fault_rate": 2.61,
+      "total_serve_pts": 842,
+      "total_aces": 74,
+      "total_dfs": 22,
+      "matches": 11,
+      "gender": "M"
+    },
+    "Illya Marchenko": {
+      "ace_rate": 4.79,
+      "double_fault_rate": 2.99,
+      "total_serve_pts": 167,
+      "total_aces": 8,
+      "total_dfs": 5,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Renzo Olivo": {
+      "ace_rate": 0.78,
+      "double_fault_rate": 5.81,
+      "total_serve_pts": 258,
+      "total_aces": 2,
+      "total_dfs": 15,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Viktor Troicki": {
+      "ace_rate": 8.84,
+      "double_fault_rate": 2.95,
+      "total_serve_pts": 611,
+      "total_aces": 54,
+      "total_dfs": 18,
+      "matches": 9,
+      "gender": "M"
+    },
+    "Salvatore Caruso": {
+      "ace_rate": 4.76,
+      "double_fault_rate": 2.65,
+      "total_serve_pts": 189,
+      "total_aces": 9,
+      "total_dfs": 5,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Tennys Sandgren": {
+      "ace_rate": 11.63,
+      "double_fault_rate": 2.56,
+      "total_serve_pts": 1135,
+      "total_aces": 132,
+      "total_dfs": 29,
+      "matches": 12,
+      "gender": "M"
+    },
+    "Denis Kudla": {
+      "ace_rate": 7.92,
+      "double_fault_rate": 4.08,
+      "total_serve_pts": 808,
+      "total_aces": 64,
+      "total_dfs": 33,
+      "matches": 12,
+      "gender": "M"
+    },
+    "Nicolas Mahut": {
+      "ace_rate": 13.97,
+      "double_fault_rate": 4.0,
+      "total_serve_pts": 1124,
+      "total_aces": 157,
+      "total_dfs": 45,
+      "matches": 8,
+      "gender": "M"
+    },
+    "Guido Pella": {
+      "ace_rate": 5.26,
+      "double_fault_rate": 2.84,
+      "total_serve_pts": 1407,
+      "total_aces": 74,
+      "total_dfs": 40,
+      "matches": 18,
+      "gender": "M"
+    },
+    "Prajnesh Gunneswaran": {
+      "ace_rate": 5.16,
+      "double_fault_rate": 2.58,
+      "total_serve_pts": 310,
+      "total_aces": 16,
+      "total_dfs": 8,
+      "matches": 5,
+      "gender": "M"
+    },
+    "Mischa Zverev": {
+      "ace_rate": 5.82,
+      "double_fault_rate": 3.49,
+      "total_serve_pts": 773,
+      "total_aces": 45,
+      "total_dfs": 27,
+      "matches": 13,
+      "gender": "M"
+    },
+    "Elliot Benchetrit": {
+      "ace_rate": 9.05,
+      "double_fault_rate": 3.02,
+      "total_serve_pts": 199,
+      "total_aces": 18,
+      "total_dfs": 6,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Jason Jung": {
+      "ace_rate": 3.94,
+      "double_fault_rate": 3.94,
+      "total_serve_pts": 127,
+      "total_aces": 5,
+      "total_dfs": 5,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Ernests Gulbis": {
+      "ace_rate": 12.66,
+      "double_fault_rate": 3.93,
+      "total_serve_pts": 1398,
+      "total_aces": 177,
+      "total_dfs": 55,
+      "matches": 19,
+      "gender": "M"
+    },
+    "Mohamed Safwat": {
+      "ace_rate": 6.42,
+      "double_fault_rate": 2.29,
+      "total_serve_pts": 436,
+      "total_aces": 28,
+      "total_dfs": 10,
+      "matches": 7,
+      "gender": "M"
+    },
+    "Karim Mohamed Maamoun": {
+      "ace_rate": 3.3,
+      "double_fault_rate": 4.2,
+      "total_serve_pts": 3215,
+      "total_aces": 106,
+      "total_dfs": 135,
+      "matches": 46,
+      "gender": "M"
+    },
+    "Jerzy Janowicz": {
+      "ace_rate": 10.01,
+      "double_fault_rate": 6.53,
+      "total_serve_pts": 689,
+      "total_aces": 69,
+      "total_dfs": 45,
+      "matches": 9,
+      "gender": "M"
+    },
+    "Norbert Gombos": {
+      "ace_rate": 10.81,
+      "double_fault_rate": 1.62,
+      "total_serve_pts": 185,
+      "total_aces": 20,
+      "total_dfs": 3,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Federico Gaio": {
+      "ace_rate": 8.8,
+      "double_fault_rate": 8.8,
+      "total_serve_pts": 125,
+      "total_aces": 11,
+      "total_dfs": 11,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Steve Darcis": {
+      "ace_rate": 7.49,
+      "double_fault_rate": 1.93,
+      "total_serve_pts": 467,
+      "total_aces": 35,
+      "total_dfs": 9,
+      "matches": 5,
+      "gender": "M"
+    },
+    "Aljaz Bedene": {
+      "ace_rate": 7.78,
+      "double_fault_rate": 4.08,
+      "total_serve_pts": 2159,
+      "total_aces": 168,
+      "total_dfs": 88,
+      "matches": 27,
+      "gender": "M"
+    },
+    "Gianluca Mager": {
+      "ace_rate": 5.93,
+      "double_fault_rate": 4.44,
+      "total_serve_pts": 135,
+      "total_aces": 8,
+      "total_dfs": 6,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Philipp Kohlschreiber": {
+      "ace_rate": 6.13,
+      "double_fault_rate": 1.81,
+      "total_serve_pts": 3035,
+      "total_aces": 186,
+      "total_dfs": 55,
+      "matches": 38,
+      "gender": "M"
+    },
+    "Janko Tipsarevic": {
+      "ace_rate": 6.6,
+      "double_fault_rate": 3.12,
+      "total_serve_pts": 2272,
+      "total_aces": 150,
+      "total_dfs": 71,
+      "matches": 27,
+      "gender": "M"
+    },
+    "Victor Estrella": {
+      "ace_rate": 4.75,
+      "double_fault_rate": 2.37,
+      "total_serve_pts": 379,
+      "total_aces": 18,
+      "total_dfs": 9,
+      "matches": 5,
+      "gender": "M"
+    },
+    "Marcelo Arevalo": {
+      "ace_rate": 6.98,
+      "double_fault_rate": 3.72,
+      "total_serve_pts": 215,
+      "total_aces": 15,
+      "total_dfs": 8,
+      "matches": 4,
+      "gender": "M"
+    },
+    "Carlos Berlocq": {
+      "ace_rate": 3.86,
+      "double_fault_rate": 4.34,
+      "total_serve_pts": 622,
+      "total_aces": 24,
+      "total_dfs": 27,
+      "matches": 9,
+      "gender": "M"
+    },
+    "Paolo Lorenzi": {
+      "ace_rate": 8.86,
+      "double_fault_rate": 4.5,
+      "total_serve_pts": 734,
+      "total_aces": 65,
+      "total_dfs": 33,
+      "matches": 8,
+      "gender": "M"
+    },
+    "Jeremy Jahn": {
+      "ace_rate": 2.35,
+      "double_fault_rate": 3.53,
+      "total_serve_pts": 170,
+      "total_aces": 4,
+      "total_dfs": 6,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Thomas Fabbiano": {
+      "ace_rate": 3.48,
+      "double_fault_rate": 3.25,
+      "total_serve_pts": 861,
+      "total_aces": 30,
+      "total_dfs": 28,
+      "matches": 7,
+      "gender": "M"
+    },
+    "Pedro Sousa": {
+      "ace_rate": 2.86,
+      "double_fault_rate": 3.81,
+      "total_serve_pts": 105,
+      "total_aces": 3,
+      "total_dfs": 4,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Peter Polansky": {
+      "ace_rate": 3.23,
+      "double_fault_rate": 5.02,
+      "total_serve_pts": 279,
+      "total_aces": 9,
+      "total_dfs": 14,
+      "matches": 4,
+      "gender": "M"
+    },
+    "Tobias Kamke": {
+      "ace_rate": 2.04,
+      "double_fault_rate": 5.44,
+      "total_serve_pts": 147,
+      "total_aces": 3,
+      "total_dfs": 8,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Bradley Klahn": {
+      "ace_rate": 6.77,
+      "double_fault_rate": 6.02,
+      "total_serve_pts": 133,
+      "total_aces": 9,
+      "total_dfs": 8,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Donald Young": {
+      "ace_rate": 2.48,
+      "double_fault_rate": 5.79,
+      "total_serve_pts": 242,
+      "total_aces": 6,
+      "total_dfs": 14,
+      "matches": 5,
+      "gender": "M"
+    },
+    "Adam Pavlasek": {
+      "ace_rate": 11.7,
+      "double_fault_rate": 2.66,
+      "total_serve_pts": 188,
+      "total_aces": 22,
+      "total_dfs": 5,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Riccardo Bonadio": {
+      "ace_rate": 2.25,
+      "double_fault_rate": 4.49,
+      "total_serve_pts": 178,
+      "total_aces": 4,
+      "total_dfs": 8,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Marcel Granollers": {
+      "ace_rate": 4.91,
+      "double_fault_rate": 4.4,
+      "total_serve_pts": 591,
+      "total_aces": 29,
+      "total_dfs": 26,
+      "matches": 9,
+      "gender": "M"
+    },
+    "Leonardo Mayer": {
+      "ace_rate": 4.71,
+      "double_fault_rate": 5.02,
+      "total_serve_pts": 1275,
+      "total_aces": 60,
+      "total_dfs": 64,
+      "matches": 14,
+      "gender": "M"
+    },
+    "Stephane Robert": {
+      "ace_rate": 5.3,
+      "double_fault_rate": 9.19,
+      "total_serve_pts": 283,
+      "total_aces": 15,
+      "total_dfs": 26,
+      "matches": 4,
+      "gender": "M"
+    },
+    "Marcos Baghdatis": {
+      "ace_rate": 8.6,
+      "double_fault_rate": 3.44,
+      "total_serve_pts": 1511,
+      "total_aces": 130,
+      "total_dfs": 52,
+      "matches": 18,
+      "gender": "M"
+    },
+    "Brayden Schnur": {
+      "ace_rate": 10.98,
+      "double_fault_rate": 2.99,
+      "total_serve_pts": 501,
+      "total_aces": 55,
+      "total_dfs": 15,
+      "matches": 5,
+      "gender": "M"
+    },
+    "Ruben Bemelmans": {
+      "ace_rate": 10.22,
+      "double_fault_rate": 3.76,
+      "total_serve_pts": 186,
+      "total_aces": 19,
+      "total_dfs": 7,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Dustin Brown": {
+      "ace_rate": 10.77,
+      "double_fault_rate": 4.92,
+      "total_serve_pts": 1198,
+      "total_aces": 129,
+      "total_dfs": 59,
+      "matches": 16,
+      "gender": "M"
+    },
+    "Blaz Rola": {
+      "ace_rate": 5.23,
+      "double_fault_rate": 3.92,
+      "total_serve_pts": 153,
+      "total_aces": 8,
+      "total_dfs": 6,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Rudolf Molleker": {
+      "ace_rate": 9.3,
+      "double_fault_rate": 7.44,
+      "total_serve_pts": 215,
+      "total_aces": 20,
+      "total_dfs": 16,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Guillermo Garcia Lopez": {
+      "ace_rate": 6.97,
+      "double_fault_rate": 4.02,
+      "total_serve_pts": 646,
+      "total_aces": 45,
+      "total_dfs": 26,
+      "matches": 9,
+      "gender": "M"
+    },
+    "Kevin King": {
+      "ace_rate": 9.21,
+      "double_fault_rate": 9.34,
+      "total_serve_pts": 717,
+      "total_aces": 66,
+      "total_dfs": 67,
+      "matches": 9,
+      "gender": "M"
+    },
+    "David Ferrer": {
+      "ace_rate": 3.1,
+      "double_fault_rate": 3.57,
+      "total_serve_pts": 5063,
+      "total_aces": 157,
+      "total_dfs": 181,
+      "matches": 63,
+      "gender": "M"
+    },
+    "Tsung Hua Yang": {
+      "ace_rate": 8.59,
+      "double_fault_rate": 4.69,
+      "total_serve_pts": 128,
+      "total_aces": 11,
+      "total_dfs": 6,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Baptiste Crepatte": {
+      "ace_rate": 0.0,
+      "double_fault_rate": 3.92,
+      "total_serve_pts": 102,
+      "total_aces": 0,
+      "total_dfs": 4,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Scott Griekspoor": {
+      "ace_rate": 4.25,
+      "double_fault_rate": 7.55,
+      "total_serve_pts": 212,
+      "total_aces": 9,
+      "total_dfs": 16,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Martin Klizan": {
+      "ace_rate": 6.63,
+      "double_fault_rate": 4.15,
+      "total_serve_pts": 1011,
+      "total_aces": 67,
+      "total_dfs": 42,
+      "matches": 14,
+      "gender": "M"
+    },
+    "Nikola Milojevic": {
+      "ace_rate": 6.71,
+      "double_fault_rate": 2.74,
+      "total_serve_pts": 328,
+      "total_aces": 22,
+      "total_dfs": 9,
+      "matches": 4,
+      "gender": "M"
+    },
+    "Nicolas Almagro": {
+      "ace_rate": 7.98,
+      "double_fault_rate": 2.46,
+      "total_serve_pts": 1341,
+      "total_aces": 107,
+      "total_dfs": 33,
+      "matches": 16,
+      "gender": "M"
+    },
+    "Thiemo De Bakker": {
+      "ace_rate": 9.79,
+      "double_fault_rate": 1.22,
+      "total_serve_pts": 327,
+      "total_aces": 32,
+      "total_dfs": 4,
+      "matches": 4,
+      "gender": "M"
+    },
+    "Mitchell Krueger": {
+      "ace_rate": 6.47,
+      "double_fault_rate": 6.47,
+      "total_serve_pts": 139,
+      "total_aces": 9,
+      "total_dfs": 9,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Lorenzo Giustino": {
+      "ace_rate": 6.62,
+      "double_fault_rate": 2.65,
+      "total_serve_pts": 151,
+      "total_aces": 10,
+      "total_dfs": 4,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Ze Zhang": {
+      "ace_rate": 9.26,
+      "double_fault_rate": 4.94,
+      "total_serve_pts": 162,
+      "total_aces": 15,
+      "total_dfs": 8,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Tomas Berdych": {
+      "ace_rate": 8.86,
+      "double_fault_rate": 2.89,
+      "total_serve_pts": 6602,
+      "total_aces": 585,
+      "total_dfs": 191,
+      "matches": 79,
+      "gender": "M"
+    },
+    "Guido Andreozzi": {
+      "ace_rate": 3.85,
+      "double_fault_rate": 6.41,
+      "total_serve_pts": 156,
+      "total_aces": 6,
+      "total_dfs": 10,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Matthias Bachinger": {
+      "ace_rate": 6.82,
+      "double_fault_rate": 3.03,
+      "total_serve_pts": 132,
+      "total_aces": 9,
+      "total_dfs": 4,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Gianluigi Quinzi": {
+      "ace_rate": 0.88,
+      "double_fault_rate": 5.26,
+      "total_serve_pts": 114,
+      "total_aces": 1,
+      "total_dfs": 6,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Marius Copil": {
+      "ace_rate": 15.35,
+      "double_fault_rate": 3.84,
+      "total_serve_pts": 391,
+      "total_aces": 60,
+      "total_dfs": 15,
+      "matches": 6,
+      "gender": "M"
+    },
+    "Zhe Li": {
+      "ace_rate": 1.95,
+      "double_fault_rate": 4.55,
+      "total_serve_pts": 154,
+      "total_aces": 3,
+      "total_dfs": 7,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Hyeon Chung": {
+      "ace_rate": 2.5,
+      "double_fault_rate": 4.41,
+      "total_serve_pts": 681,
+      "total_aces": 17,
+      "total_dfs": 30,
+      "matches": 11,
+      "gender": "M"
+    },
+    "Yannick Maden": {
+      "ace_rate": 2.84,
+      "double_fault_rate": 1.14,
+      "total_serve_pts": 176,
+      "total_aces": 5,
+      "total_dfs": 2,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Lukas Rosol": {
+      "ace_rate": 7.12,
+      "double_fault_rate": 3.79,
+      "total_serve_pts": 871,
+      "total_aces": 62,
+      "total_dfs": 33,
+      "matches": 10,
+      "gender": "M"
+    },
+    "Mirza Basic": {
+      "ace_rate": 7.53,
+      "double_fault_rate": 3.77,
+      "total_serve_pts": 292,
+      "total_aces": 22,
+      "total_dfs": 11,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Ryan Harrison": {
+      "ace_rate": 12.18,
+      "double_fault_rate": 4.06,
+      "total_serve_pts": 197,
+      "total_aces": 24,
+      "total_dfs": 8,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Horacio Zeballos": {
+      "ace_rate": 7.05,
+      "double_fault_rate": 2.35,
+      "total_serve_pts": 298,
+      "total_aces": 21,
+      "total_dfs": 7,
+      "matches": 5,
+      "gender": "M"
+    },
+    "Yuki Bhambri": {
+      "ace_rate": 3.8,
+      "double_fault_rate": 1.27,
+      "total_serve_pts": 79,
+      "total_aces": 3,
+      "total_dfs": 1,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Teymuraz Gabashvili": {
+      "ace_rate": 3.54,
+      "double_fault_rate": 5.6,
+      "total_serve_pts": 339,
+      "total_aces": 12,
+      "total_dfs": 19,
+      "matches": 5,
+      "gender": "M"
+    },
+    "Aleksandr Nedovyesov": {
+      "ace_rate": 5.3,
+      "double_fault_rate": 3.31,
+      "total_serve_pts": 151,
+      "total_aces": 8,
+      "total_dfs": 5,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Andreas Haider Maurer": {
+      "ace_rate": 7.2,
+      "double_fault_rate": 4.99,
+      "total_serve_pts": 361,
+      "total_aces": 26,
+      "total_dfs": 18,
+      "matches": 5,
+      "gender": "M"
+    },
+    "Alexandr Dolgopolov": {
+      "ace_rate": 8.43,
+      "double_fault_rate": 3.32,
+      "total_serve_pts": 1897,
+      "total_aces": 160,
+      "total_dfs": 63,
+      "matches": 25,
+      "gender": "M"
+    },
+    "Gilles Muller": {
+      "ace_rate": 14.17,
+      "double_fault_rate": 4.35,
+      "total_serve_pts": 1263,
+      "total_aces": 179,
+      "total_dfs": 55,
+      "matches": 14,
+      "gender": "M"
+    },
+    "Tommy Haas": {
+      "ace_rate": 7.42,
+      "double_fault_rate": 4.21,
+      "total_serve_pts": 2991,
+      "total_aces": 222,
+      "total_dfs": 126,
+      "matches": 31,
+      "gender": "M"
+    },
+    "Dudi Sela": {
+      "ace_rate": 2.56,
+      "double_fault_rate": 4.56,
+      "total_serve_pts": 351,
+      "total_aces": 9,
+      "total_dfs": 16,
+      "matches": 6,
+      "gender": "M"
+    },
+    "Florian Mayer": {
+      "ace_rate": 6.12,
+      "double_fault_rate": 0.9,
+      "total_serve_pts": 556,
+      "total_aces": 34,
+      "total_dfs": 5,
+      "matches": 8,
+      "gender": "M"
+    },
+    "Jurgen Melzer": {
+      "ace_rate": 5.08,
+      "double_fault_rate": 4.07,
+      "total_serve_pts": 492,
+      "total_aces": 25,
+      "total_dfs": 20,
+      "matches": 7,
+      "gender": "M"
+    },
+    "Blaz Kavcic": {
+      "ace_rate": 2.13,
+      "double_fault_rate": 6.38,
+      "total_serve_pts": 94,
+      "total_aces": 2,
+      "total_dfs": 6,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Konstantin Kravchuk": {
+      "ace_rate": 10.0,
+      "double_fault_rate": 1.67,
+      "total_serve_pts": 180,
+      "total_aces": 18,
+      "total_dfs": 3,
+      "matches": 4,
+      "gender": "M"
+    },
+    "Matt Reid": {
+      "ace_rate": 9.57,
+      "double_fault_rate": 5.32,
+      "total_serve_pts": 94,
+      "total_aces": 9,
+      "total_dfs": 5,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Albert Montanes": {
+      "ace_rate": 3.55,
+      "double_fault_rate": 7.8,
+      "total_serve_pts": 141,
+      "total_aces": 5,
+      "total_dfs": 11,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Inigo Cervantes Huegun": {
+      "ace_rate": 5.52,
+      "double_fault_rate": 6.08,
+      "total_serve_pts": 181,
+      "total_aces": 10,
+      "total_dfs": 11,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Andrey Kuznetsov": {
+      "ace_rate": 5.44,
+      "double_fault_rate": 2.93,
+      "total_serve_pts": 239,
+      "total_aces": 13,
+      "total_dfs": 7,
+      "matches": 4,
+      "gender": "M"
+    },
+    "Paul Henri Mathieu": {
+      "ace_rate": 4.94,
+      "double_fault_rate": 3.76,
+      "total_serve_pts": 425,
+      "total_aces": 21,
+      "total_dfs": 16,
+      "matches": 6,
+      "gender": "M"
+    },
+    "Igor Sijsling": {
+      "ace_rate": 13.67,
+      "double_fault_rate": 2.16,
+      "total_serve_pts": 139,
+      "total_aces": 19,
+      "total_dfs": 3,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Frank Dancevic": {
+      "ace_rate": 3.85,
+      "double_fault_rate": 1.54,
+      "total_serve_pts": 130,
+      "total_aces": 5,
+      "total_dfs": 2,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Samuel Groth": {
+      "ace_rate": 18.12,
+      "double_fault_rate": 5.37,
+      "total_serve_pts": 298,
+      "total_aces": 54,
+      "total_dfs": 16,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Farrukh Dustov": {
+      "ace_rate": 4.03,
+      "double_fault_rate": 2.01,
+      "total_serve_pts": 149,
+      "total_aces": 6,
+      "total_dfs": 3,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Edouard Roger Vasselin": {
+      "ace_rate": 3.25,
+      "double_fault_rate": 1.63,
+      "total_serve_pts": 246,
+      "total_aces": 8,
+      "total_dfs": 4,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Alejandro Gonzalez": {
+      "ace_rate": 9.65,
+      "double_fault_rate": 5.26,
+      "total_serve_pts": 114,
+      "total_aces": 11,
+      "total_dfs": 6,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Ruben Ramirez Hidalgo": {
+      "ace_rate": 4.49,
+      "double_fault_rate": 8.33,
+      "total_serve_pts": 156,
+      "total_aces": 7,
+      "total_dfs": 13,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Jared Donaldson": {
+      "ace_rate": 5.37,
+      "double_fault_rate": 3.58,
+      "total_serve_pts": 391,
+      "total_aces": 21,
+      "total_dfs": 14,
+      "matches": 6,
+      "gender": "M"
+    },
+    "Simone Bolelli": {
+      "ace_rate": 5.83,
+      "double_fault_rate": 1.79,
+      "total_serve_pts": 223,
+      "total_aces": 13,
+      "total_dfs": 4,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Yannick Mertens": {
+      "ace_rate": 3.0,
+      "double_fault_rate": 1.0,
+      "total_serve_pts": 100,
+      "total_aces": 3,
+      "total_dfs": 1,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Alejandro Falla": {
+      "ace_rate": 4.92,
+      "double_fault_rate": 1.89,
+      "total_serve_pts": 528,
+      "total_aces": 26,
+      "total_dfs": 10,
+      "matches": 6,
+      "gender": "M"
+    },
+    "Laurynas Grigelis": {
+      "ace_rate": 9.57,
+      "double_fault_rate": 3.19,
+      "total_serve_pts": 94,
+      "total_aces": 9,
+      "total_dfs": 3,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Vladimir Ivanov": {
+      "ace_rate": 9.78,
+      "double_fault_rate": 3.8,
+      "total_serve_pts": 184,
+      "total_aces": 18,
+      "total_dfs": 7,
+      "matches": 4,
+      "gender": "M"
+    },
+    "Lleyton Hewitt": {
+      "ace_rate": 7.56,
+      "double_fault_rate": 4.1,
+      "total_serve_pts": 10872,
+      "total_aces": 822,
+      "total_dfs": 446,
+      "matches": 119,
+      "gender": "M"
+    },
+    "Tim Smyczek": {
+      "ace_rate": 3.46,
+      "double_fault_rate": 4.84,
+      "total_serve_pts": 289,
+      "total_aces": 10,
+      "total_dfs": 14,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Michael Berrer": {
+      "ace_rate": 9.94,
+      "double_fault_rate": 2.21,
+      "total_serve_pts": 362,
+      "total_aces": 36,
+      "total_dfs": 8,
+      "matches": 5,
+      "gender": "M"
+    },
+    "Ivan Dodig": {
+      "ace_rate": 8.15,
+      "double_fault_rate": 4.07,
+      "total_serve_pts": 270,
+      "total_aces": 22,
+      "total_dfs": 11,
+      "matches": 4,
+      "gender": "M"
+    },
+    "Andrey Golubev": {
+      "ace_rate": 7.65,
+      "double_fault_rate": 5.61,
+      "total_serve_pts": 196,
+      "total_aces": 15,
+      "total_dfs": 11,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Juan Monaco": {
+      "ace_rate": 2.52,
+      "double_fault_rate": 2.16,
+      "total_serve_pts": 278,
+      "total_aces": 7,
+      "total_dfs": 6,
+      "matches": 5,
+      "gender": "M"
+    },
+    "Daniel Gimeno Traver": {
+      "ace_rate": 5.64,
+      "double_fault_rate": 3.76,
+      "total_serve_pts": 266,
+      "total_aces": 15,
+      "total_dfs": 10,
+      "matches": 4,
+      "gender": "M"
+    },
+    "Santiago Giraldo": {
+      "ace_rate": 2.36,
+      "double_fault_rate": 0.79,
+      "total_serve_pts": 127,
+      "total_aces": 3,
+      "total_dfs": 1,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Mikhail Youzhny": {
+      "ace_rate": 5.36,
+      "double_fault_rate": 3.08,
+      "total_serve_pts": 1138,
+      "total_aces": 61,
+      "total_dfs": 35,
+      "matches": 16,
+      "gender": "M"
+    },
+    "Somdev Devvarman": {
+      "ace_rate": 5.56,
+      "double_fault_rate": 3.7,
+      "total_serve_pts": 108,
+      "total_aces": 6,
+      "total_dfs": 4,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Marinko Matosevic": {
+      "ace_rate": 6.17,
+      "double_fault_rate": 5.51,
+      "total_serve_pts": 454,
+      "total_aces": 28,
+      "total_dfs": 25,
+      "matches": 6,
+      "gender": "M"
+    },
+    "Jimmy Wang": {
+      "ace_rate": 4.71,
+      "double_fault_rate": 5.88,
+      "total_serve_pts": 170,
+      "total_aces": 8,
+      "total_dfs": 10,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Radek Stepanek": {
+      "ace_rate": 7.96,
+      "double_fault_rate": 3.22,
+      "total_serve_pts": 1118,
+      "total_aces": 89,
+      "total_dfs": 36,
+      "matches": 13,
+      "gender": "M"
+    },
+    "James Ward": {
+      "ace_rate": 6.73,
+      "double_fault_rate": 2.88,
+      "total_serve_pts": 104,
+      "total_aces": 7,
+      "total_dfs": 3,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Michal Przysiezny": {
+      "ace_rate": 11.72,
+      "double_fault_rate": 3.91,
+      "total_serve_pts": 128,
+      "total_aces": 15,
+      "total_dfs": 5,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Robby Ginepri": {
+      "ace_rate": 7.55,
+      "double_fault_rate": 2.98,
+      "total_serve_pts": 503,
+      "total_aces": 38,
+      "total_dfs": 15,
+      "matches": 5,
+      "gender": "M"
+    },
+    "Jarkko Nieminen": {
+      "ace_rate": 3.21,
+      "double_fault_rate": 2.26,
+      "total_serve_pts": 530,
+      "total_aces": 17,
+      "total_dfs": 12,
+      "matches": 8,
+      "gender": "M"
+    },
+    "Julien Benneteau": {
+      "ace_rate": 10.07,
+      "double_fault_rate": 2.88,
+      "total_serve_pts": 278,
+      "total_aces": 28,
+      "total_dfs": 8,
+      "matches": 4,
+      "gender": "M"
+    },
+    "Michael Llodra": {
+      "ace_rate": 14.89,
+      "double_fault_rate": 4.26,
+      "total_serve_pts": 235,
+      "total_aces": 35,
+      "total_dfs": 10,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Andy Roddick": {
+      "ace_rate": 15.15,
+      "double_fault_rate": 2.57,
+      "total_serve_pts": 8864,
+      "total_aces": 1343,
+      "total_dfs": 228,
+      "matches": 98,
+      "gender": "M"
+    },
+    "Bjorn Phau": {
+      "ace_rate": 4.0,
+      "double_fault_rate": 4.67,
+      "total_serve_pts": 150,
+      "total_aces": 6,
+      "total_dfs": 7,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Nikolay Davydenko": {
+      "ace_rate": 4.66,
+      "double_fault_rate": 2.98,
+      "total_serve_pts": 3324,
+      "total_aces": 155,
+      "total_dfs": 99,
+      "matches": 40,
+      "gender": "M"
+    },
+    "David Nalbandian": {
+      "ace_rate": 3.65,
+      "double_fault_rate": 3.09,
+      "total_serve_pts": 3040,
+      "total_aces": 111,
+      "total_dfs": 94,
+      "matches": 34,
+      "gender": "M"
+    },
+    "Stefan Edberg": {
+      "ace_rate": 3.83,
+      "double_fault_rate": 4.34,
+      "total_serve_pts": 16146,
+      "total_aces": 619,
+      "total_dfs": 700,
+      "matches": 173,
+      "gender": "M"
+    },
+    "Thomas Muster": {
+      "ace_rate": 3.5,
+      "double_fault_rate": 2.52,
+      "total_serve_pts": 2343,
+      "total_aces": 82,
+      "total_dfs": 59,
+      "matches": 24,
+      "gender": "M"
+    },
+    "Ivan Ljubicic": {
+      "ace_rate": 15.39,
+      "double_fault_rate": 2.95,
+      "total_serve_pts": 1254,
+      "total_aces": 193,
+      "total_dfs": 37,
+      "matches": 12,
+      "gender": "M"
+    },
+    "Mardy Fish": {
+      "ace_rate": 11.7,
+      "double_fault_rate": 4.39,
+      "total_serve_pts": 889,
+      "total_aces": 104,
+      "total_dfs": 39,
+      "matches": 10,
+      "gender": "M"
+    },
+    "James Blake": {
+      "ace_rate": 6.7,
+      "double_fault_rate": 3.83,
+      "total_serve_pts": 2090,
+      "total_aces": 140,
+      "total_dfs": 80,
+      "matches": 23,
+      "gender": "M"
+    },
+    "Robin Soderling": {
+      "ace_rate": 10.06,
+      "double_fault_rate": 3.63,
+      "total_serve_pts": 1709,
+      "total_aces": 172,
+      "total_dfs": 62,
+      "matches": 20,
+      "gender": "M"
+    },
+    "Philipp Petzschner": {
+      "ace_rate": 12.73,
+      "double_fault_rate": 1.82,
+      "total_serve_pts": 220,
+      "total_aces": 28,
+      "total_dfs": 4,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Fernando Gonzalez": {
+      "ace_rate": 8.54,
+      "double_fault_rate": 3.82,
+      "total_serve_pts": 2799,
+      "total_aces": 239,
+      "total_dfs": 107,
+      "matches": 30,
+      "gender": "M"
+    },
+    "Igor Andreev": {
+      "ace_rate": 2.16,
+      "double_fault_rate": 3.6,
+      "total_serve_pts": 278,
+      "total_aces": 6,
+      "total_dfs": 10,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Marat Safin": {
+      "ace_rate": 11.12,
+      "double_fault_rate": 2.2,
+      "total_serve_pts": 4767,
+      "total_aces": 530,
+      "total_dfs": 105,
+      "matches": 47,
+      "gender": "M"
+    },
+    "Juan Carlos Ferrero": {
+      "ace_rate": 5.89,
+      "double_fault_rate": 3.46,
+      "total_serve_pts": 2021,
+      "total_aces": 119,
+      "total_dfs": 70,
+      "matches": 23,
+      "gender": "M"
+    },
+    "Nicolas Kiefer": {
+      "ace_rate": 9.21,
+      "double_fault_rate": 5.4,
+      "total_serve_pts": 630,
+      "total_aces": 58,
+      "total_dfs": 34,
+      "matches": 8,
+      "gender": "M"
+    },
+    "Mario Ancic": {
+      "ace_rate": 7.47,
+      "double_fault_rate": 3.22,
+      "total_serve_pts": 683,
+      "total_aces": 51,
+      "total_dfs": 22,
+      "matches": 9,
+      "gender": "M"
+    },
+    "Rainer Schuettler": {
+      "ace_rate": 5.0,
+      "double_fault_rate": 2.92,
+      "total_serve_pts": 480,
+      "total_aces": 24,
+      "total_dfs": 14,
+      "matches": 6,
+      "gender": "M"
+    },
+    "Benjamin Becker": {
+      "ace_rate": 11.03,
+      "double_fault_rate": 4.14,
+      "total_serve_pts": 145,
+      "total_aces": 16,
+      "total_dfs": 6,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Carlos Moya": {
+      "ace_rate": 5.51,
+      "double_fault_rate": 3.24,
+      "total_serve_pts": 2686,
+      "total_aces": 148,
+      "total_dfs": 87,
+      "matches": 28,
+      "gender": "M"
+    },
+    "Filippo Volandri": {
+      "ace_rate": 2.32,
+      "double_fault_rate": 2.61,
+      "total_serve_pts": 345,
+      "total_aces": 8,
+      "total_dfs": 9,
+      "matches": 4,
+      "gender": "M"
+    },
+    "Guillermo Canas": {
+      "ace_rate": 8.97,
+      "double_fault_rate": 3.42,
+      "total_serve_pts": 234,
+      "total_aces": 21,
+      "total_dfs": 8,
+      "matches": 4,
+      "gender": "M"
+    },
+    "Gustavo Kuerten": {
+      "ace_rate": 10.02,
+      "double_fault_rate": 2.27,
+      "total_serve_pts": 2514,
+      "total_aces": 252,
+      "total_dfs": 57,
+      "matches": 24,
+      "gender": "M"
+    },
+    "Nicolas Massu": {
+      "ace_rate": 6.7,
+      "double_fault_rate": 3.62,
+      "total_serve_pts": 552,
+      "total_aces": 37,
+      "total_dfs": 20,
+      "matches": 6,
+      "gender": "M"
+    },
+    "Dominik Hrbaty": {
+      "ace_rate": 6.36,
+      "double_fault_rate": 4.24,
+      "total_serve_pts": 236,
+      "total_aces": 15,
+      "total_dfs": 10,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Tim Henman": {
+      "ace_rate": 5.56,
+      "double_fault_rate": 4.73,
+      "total_serve_pts": 2536,
+      "total_aces": 141,
+      "total_dfs": 120,
+      "matches": 26,
+      "gender": "M"
+    },
+    "Takao Suzuki": {
+      "ace_rate": 5.09,
+      "double_fault_rate": 2.78,
+      "total_serve_pts": 216,
+      "total_aces": 11,
+      "total_dfs": 6,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Andre Agassi": {
+      "ace_rate": 5.37,
+      "double_fault_rate": 2.72,
+      "total_serve_pts": 16634,
+      "total_aces": 894,
+      "total_dfs": 452,
+      "matches": 176,
+      "gender": "M"
+    },
+    "Andrei Pavel": {
+      "ace_rate": 7.71,
+      "double_fault_rate": 2.57,
+      "total_serve_pts": 428,
+      "total_aces": 33,
+      "total_dfs": 11,
+      "matches": 4,
+      "gender": "M"
+    },
+    "Arnaud Clement": {
+      "ace_rate": 4.25,
+      "double_fault_rate": 5.35,
+      "total_serve_pts": 729,
+      "total_aces": 31,
+      "total_dfs": 39,
+      "matches": 6,
+      "gender": "M"
+    },
+    "Jonas Bjorkman": {
+      "ace_rate": 5.85,
+      "double_fault_rate": 3.95,
+      "total_serve_pts": 735,
+      "total_aces": 43,
+      "total_dfs": 29,
+      "matches": 9,
+      "gender": "M"
+    },
+    "Paradorn Srichaphan": {
+      "ace_rate": 12.85,
+      "double_fault_rate": 4.39,
+      "total_serve_pts": 319,
+      "total_aces": 41,
+      "total_dfs": 14,
+      "matches": 4,
+      "gender": "M"
+    },
+    "Fabrice Santoro": {
+      "ace_rate": 4.47,
+      "double_fault_rate": 1.87,
+      "total_serve_pts": 694,
+      "total_aces": 31,
+      "total_dfs": 13,
+      "matches": 7,
+      "gender": "M"
+    },
+    "Gaston Gaudio": {
+      "ace_rate": 2.12,
+      "double_fault_rate": 8.73,
+      "total_serve_pts": 378,
+      "total_aces": 8,
+      "total_dfs": 33,
+      "matches": 5,
+      "gender": "M"
+    },
+    "Guillermo Coria": {
+      "ace_rate": 2.61,
+      "double_fault_rate": 3.71,
+      "total_serve_pts": 1456,
+      "total_aces": 38,
+      "total_dfs": 54,
+      "matches": 14,
+      "gender": "M"
+    },
+    "Greg Rusedski": {
+      "ace_rate": 12.57,
+      "double_fault_rate": 5.46,
+      "total_serve_pts": 1464,
+      "total_aces": 184,
+      "total_dfs": 80,
+      "matches": 13,
+      "gender": "M"
+    },
+    "Thomas Johansson": {
+      "ace_rate": 11.52,
+      "double_fault_rate": 4.32,
+      "total_serve_pts": 903,
+      "total_aces": 104,
+      "total_dfs": 39,
+      "matches": 8,
+      "gender": "M"
+    },
+    "Max Mirnyi": {
+      "ace_rate": 11.74,
+      "double_fault_rate": 2.74,
+      "total_serve_pts": 511,
+      "total_aces": 60,
+      "total_dfs": 14,
+      "matches": 5,
+      "gender": "M"
+    },
+    "Irakli Labadze": {
+      "ace_rate": 5.04,
+      "double_fault_rate": 5.04,
+      "total_serve_pts": 139,
+      "total_aces": 7,
+      "total_dfs": 7,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Sebastien Grosjean": {
+      "ace_rate": 8.27,
+      "double_fault_rate": 2.55,
+      "total_serve_pts": 943,
+      "total_aces": 78,
+      "total_dfs": 24,
+      "matches": 11,
+      "gender": "M"
+    },
+    "Sjeng Schalken": {
+      "ace_rate": 2.57,
+      "double_fault_rate": 3.12,
+      "total_serve_pts": 545,
+      "total_aces": 14,
+      "total_dfs": 17,
+      "matches": 5,
+      "gender": "M"
+    },
+    "Martin Verkerk": {
+      "ace_rate": 12.7,
+      "double_fault_rate": 6.56,
+      "total_serve_pts": 244,
+      "total_aces": 31,
+      "total_dfs": 16,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Felix Mantilla": {
+      "ace_rate": 0.66,
+      "double_fault_rate": 3.07,
+      "total_serve_pts": 456,
+      "total_aces": 3,
+      "total_dfs": 14,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Jiri Novak": {
+      "ace_rate": 4.11,
+      "double_fault_rate": 2.62,
+      "total_serve_pts": 803,
+      "total_aces": 33,
+      "total_dfs": 21,
+      "matches": 9,
+      "gender": "M"
+    },
+    "Mark Philippoussis": {
+      "ace_rate": 17.07,
+      "double_fault_rate": 5.83,
+      "total_serve_pts": 1699,
+      "total_aces": 290,
+      "total_dfs": 99,
+      "matches": 15,
+      "gender": "M"
+    },
+    "Younes El Aynaoui": {
+      "ace_rate": 10.99,
+      "double_fault_rate": 2.95,
+      "total_serve_pts": 373,
+      "total_aces": 41,
+      "total_dfs": 11,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Wayne Ferreira": {
+      "ace_rate": 7.52,
+      "double_fault_rate": 3.63,
+      "total_serve_pts": 798,
+      "total_aces": 60,
+      "total_dfs": 29,
+      "matches": 10,
+      "gender": "M"
+    },
+    "Pete Sampras": {
+      "ace_rate": 14.32,
+      "double_fault_rate": 4.74,
+      "total_serve_pts": 16954,
+      "total_aces": 2427,
+      "total_dfs": 804,
+      "matches": 182,
+      "gender": "M"
+    },
+    "Xavier Malisse": {
+      "ace_rate": 9.54,
+      "double_fault_rate": 3.89,
+      "total_serve_pts": 283,
+      "total_aces": 27,
+      "total_dfs": 11,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Albert Costa": {
+      "ace_rate": 3.01,
+      "double_fault_rate": 4.15,
+      "total_serve_pts": 698,
+      "total_aces": 21,
+      "total_dfs": 29,
+      "matches": 7,
+      "gender": "M"
+    },
+    "Alex Corretja": {
+      "ace_rate": 4.46,
+      "double_fault_rate": 3.23,
+      "total_serve_pts": 1705,
+      "total_aces": 76,
+      "total_dfs": 55,
+      "matches": 17,
+      "gender": "M"
+    },
+    "Franco Squillari": {
+      "ace_rate": 2.96,
+      "double_fault_rate": 5.33,
+      "total_serve_pts": 169,
+      "total_aces": 5,
+      "total_dfs": 9,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Davide Sanguinetti": {
+      "ace_rate": 4.76,
+      "double_fault_rate": 3.57,
+      "total_serve_pts": 168,
+      "total_aces": 8,
+      "total_dfs": 6,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Yevgeny Kafelnikov": {
+      "ace_rate": 7.77,
+      "double_fault_rate": 5.06,
+      "total_serve_pts": 3693,
+      "total_aces": 287,
+      "total_dfs": 187,
+      "matches": 40,
+      "gender": "M"
+    },
+    "Patrick Rafter": {
+      "ace_rate": 8.86,
+      "double_fault_rate": 4.64,
+      "total_serve_pts": 2934,
+      "total_aces": 260,
+      "total_dfs": 136,
+      "matches": 32,
+      "gender": "M"
+    },
+    "Goran Ivanisevic": {
+      "ace_rate": 20.54,
+      "double_fault_rate": 6.39,
+      "total_serve_pts": 4304,
+      "total_aces": 884,
+      "total_dfs": 275,
+      "matches": 39,
+      "gender": "M"
+    },
+    "Marcelo Rios": {
+      "ace_rate": 5.57,
+      "double_fault_rate": 3.13,
+      "total_serve_pts": 1725,
+      "total_aces": 96,
+      "total_dfs": 54,
+      "matches": 20,
+      "gender": "M"
+    },
+    "Magnus Norman": {
+      "ace_rate": 7.62,
+      "double_fault_rate": 2.54,
+      "total_serve_pts": 512,
+      "total_aces": 39,
+      "total_dfs": 13,
+      "matches": 6,
+      "gender": "M"
+    },
+    "Jan Michael Gambill": {
+      "ace_rate": 11.19,
+      "double_fault_rate": 3.73,
+      "total_serve_pts": 134,
+      "total_aces": 15,
+      "total_dfs": 5,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Nicolas Lapentti": {
+      "ace_rate": 8.04,
+      "double_fault_rate": 5.36,
+      "total_serve_pts": 224,
+      "total_aces": 18,
+      "total_dfs": 12,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Nicolas Escude": {
+      "ace_rate": 5.18,
+      "double_fault_rate": 4.15,
+      "total_serve_pts": 193,
+      "total_aces": 10,
+      "total_dfs": 8,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Todd Martin": {
+      "ace_rate": 11.51,
+      "double_fault_rate": 4.01,
+      "total_serve_pts": 1868,
+      "total_aces": 215,
+      "total_dfs": 75,
+      "matches": 18,
+      "gender": "M"
+    },
+    "Thomas Enqvist": {
+      "ace_rate": 12.42,
+      "double_fault_rate": 4.99,
+      "total_serve_pts": 1103,
+      "total_aces": 137,
+      "total_dfs": 55,
+      "matches": 13,
+      "gender": "M"
+    },
+    "Richard Krajicek": {
+      "ace_rate": 16.81,
+      "double_fault_rate": 4.11,
+      "total_serve_pts": 2433,
+      "total_aces": 409,
+      "total_dfs": 100,
+      "matches": 23,
+      "gender": "M"
+    },
+    "Harel Levy": {
+      "ace_rate": 3.05,
+      "double_fault_rate": 3.05,
+      "total_serve_pts": 131,
+      "total_aces": 4,
+      "total_dfs": 4,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Marc Rosset": {
+      "ace_rate": 14.16,
+      "double_fault_rate": 5.74,
+      "total_serve_pts": 819,
+      "total_aces": 116,
+      "total_dfs": 47,
+      "matches": 8,
+      "gender": "M"
+    },
+    "Cedric Pioline": {
+      "ace_rate": 6.41,
+      "double_fault_rate": 3.78,
+      "total_serve_pts": 952,
+      "total_aces": 61,
+      "total_dfs": 36,
+      "matches": 10,
+      "gender": "M"
+    },
+    "Jan Kroslak": {
+      "ace_rate": 7.77,
+      "double_fault_rate": 4.66,
+      "total_serve_pts": 193,
+      "total_aces": 15,
+      "total_dfs": 9,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Boris Becker": {
+      "ace_rate": 10.97,
+      "double_fault_rate": 5.49,
+      "total_serve_pts": 12620,
+      "total_aces": 1385,
+      "total_dfs": 693,
+      "matches": 126,
+      "gender": "M"
+    },
+    "Andrei Medvedev": {
+      "ace_rate": 5.75,
+      "double_fault_rate": 3.54,
+      "total_serve_pts": 905,
+      "total_aces": 52,
+      "total_dfs": 32,
+      "matches": 10,
+      "gender": "M"
+    },
+    "Karol Kucera": {
+      "ace_rate": 6.58,
+      "double_fault_rate": 7.0,
+      "total_serve_pts": 243,
+      "total_aces": 16,
+      "total_dfs": 17,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Todd Woodbridge": {
+      "ace_rate": 5.28,
+      "double_fault_rate": 6.19,
+      "total_serve_pts": 436,
+      "total_aces": 23,
+      "total_dfs": 27,
+      "matches": 6,
+      "gender": "M"
+    },
+    "Magnus Larsson": {
+      "ace_rate": 14.64,
+      "double_fault_rate": 2.49,
+      "total_serve_pts": 362,
+      "total_aces": 53,
+      "total_dfs": 9,
+      "matches": 4,
+      "gender": "M"
+    },
+    "Andrea Gaudenzi": {
+      "ace_rate": 1.17,
+      "double_fault_rate": 1.75,
+      "total_serve_pts": 171,
+      "total_aces": 2,
+      "total_dfs": 3,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Jason Stoltenberg": {
+      "ace_rate": 5.53,
+      "double_fault_rate": 7.11,
+      "total_serve_pts": 253,
+      "total_aces": 14,
+      "total_dfs": 18,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Michael Chang": {
+      "ace_rate": 5.42,
+      "double_fault_rate": 2.47,
+      "total_serve_pts": 3081,
+      "total_aces": 167,
+      "total_dfs": 76,
+      "matches": 32,
+      "gender": "M"
+    },
+    "Petr Korda": {
+      "ace_rate": 5.31,
+      "double_fault_rate": 4.5,
+      "total_serve_pts": 1978,
+      "total_aces": 105,
+      "total_dfs": 89,
+      "matches": 20,
+      "gender": "M"
+    },
+    "Alberto Berasategui": {
+      "ace_rate": 0.9,
+      "double_fault_rate": 2.11,
+      "total_serve_pts": 332,
+      "total_aces": 3,
+      "total_dfs": 7,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Magnus Gustafsson": {
+      "ace_rate": 4.21,
+      "double_fault_rate": 7.28,
+      "total_serve_pts": 261,
+      "total_aces": 11,
+      "total_dfs": 19,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Chris Woodruff": {
+      "ace_rate": 17.84,
+      "double_fault_rate": 7.03,
+      "total_serve_pts": 185,
+      "total_aces": 33,
+      "total_dfs": 13,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Michael Stich": {
+      "ace_rate": 10.21,
+      "double_fault_rate": 5.4,
+      "total_serve_pts": 3036,
+      "total_aces": 310,
+      "total_dfs": 164,
+      "matches": 25,
+      "gender": "M"
+    },
+    "Sergi Bruguera": {
+      "ace_rate": 4.18,
+      "double_fault_rate": 2.04,
+      "total_serve_pts": 1866,
+      "total_aces": 78,
+      "total_dfs": 38,
+      "matches": 20,
+      "gender": "M"
+    },
+    "Omar Camporese": {
+      "ace_rate": 10.33,
+      "double_fault_rate": 1.85,
+      "total_serve_pts": 271,
+      "total_aces": 28,
+      "total_dfs": 5,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Jan Siemerink": {
+      "ace_rate": 4.73,
+      "double_fault_rate": 4.73,
+      "total_serve_pts": 148,
+      "total_aces": 7,
+      "total_dfs": 7,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Paul Haarhuis": {
+      "ace_rate": 7.25,
+      "double_fault_rate": 1.04,
+      "total_serve_pts": 193,
+      "total_aces": 14,
+      "total_dfs": 2,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Leander Paes": {
+      "ace_rate": 8.04,
+      "double_fault_rate": 1.51,
+      "total_serve_pts": 199,
+      "total_aces": 16,
+      "total_dfs": 3,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Alexander Volkov": {
+      "ace_rate": 6.41,
+      "double_fault_rate": 5.77,
+      "total_serve_pts": 156,
+      "total_aces": 10,
+      "total_dfs": 9,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Malivai Washington": {
+      "ace_rate": 7.09,
+      "double_fault_rate": 2.63,
+      "total_serve_pts": 494,
+      "total_aces": 35,
+      "total_dfs": 13,
+      "matches": 6,
+      "gender": "M"
+    },
+    "Jakob Hlasek": {
+      "ace_rate": 5.19,
+      "double_fault_rate": 3.9,
+      "total_serve_pts": 154,
+      "total_aces": 8,
+      "total_dfs": 6,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Richey Reneberg": {
+      "ace_rate": 5.83,
+      "double_fault_rate": 2.91,
+      "total_serve_pts": 206,
+      "total_aces": 12,
+      "total_dfs": 6,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Arnaud Boetsch": {
+      "ace_rate": 6.33,
+      "double_fault_rate": 3.8,
+      "total_serve_pts": 237,
+      "total_aces": 15,
+      "total_dfs": 9,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Andrei Chesnokov": {
+      "ace_rate": 3.9,
+      "double_fault_rate": 1.68,
+      "total_serve_pts": 1129,
+      "total_aces": 44,
+      "total_dfs": 19,
+      "matches": 9,
+      "gender": "M"
+    },
+    "Jim Courier": {
+      "ace_rate": 6.21,
+      "double_fault_rate": 3.01,
+      "total_serve_pts": 4088,
+      "total_aces": 254,
+      "total_dfs": 123,
+      "matches": 41,
+      "gender": "M"
+    },
+    "Mats Wilander": {
+      "ace_rate": 2.25,
+      "double_fault_rate": 1.07,
+      "total_serve_pts": 2977,
+      "total_aces": 67,
+      "total_dfs": 32,
+      "matches": 30,
+      "gender": "M"
+    },
+    "Jared Palmer": {
+      "ace_rate": 5.53,
+      "double_fault_rate": 5.99,
+      "total_serve_pts": 217,
+      "total_aces": 12,
+      "total_dfs": 13,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Aaron Krickstein": {
+      "ace_rate": 4.78,
+      "double_fault_rate": 1.35,
+      "total_serve_pts": 816,
+      "total_aces": 39,
+      "total_dfs": 11,
+      "matches": 8,
+      "gender": "M"
+    },
+    "Karel Novacek": {
+      "ace_rate": 5.07,
+      "double_fault_rate": 1.45,
+      "total_serve_pts": 276,
+      "total_aces": 14,
+      "total_dfs": 4,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Jaime Yzaga": {
+      "ace_rate": 1.95,
+      "double_fault_rate": 3.34,
+      "total_serve_pts": 359,
+      "total_aces": 7,
+      "total_dfs": 12,
+      "matches": 3,
+      "gender": "M"
+    },
+    "David Wheaton": {
+      "ace_rate": 10.71,
+      "double_fault_rate": 5.83,
+      "total_serve_pts": 532,
+      "total_aces": 57,
+      "total_dfs": 31,
+      "matches": 6,
+      "gender": "M"
+    },
+    "Ivan Lendl": {
+      "ace_rate": 7.67,
+      "double_fault_rate": 2.79,
+      "total_serve_pts": 11006,
+      "total_aces": 844,
+      "total_dfs": 307,
+      "matches": 120,
+      "gender": "M"
+    },
+    "Wally Masur": {
+      "ace_rate": 3.73,
+      "double_fault_rate": 2.71,
+      "total_serve_pts": 295,
+      "total_aces": 11,
+      "total_dfs": 8,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Mikael Pernfors": {
+      "ace_rate": 2.62,
+      "double_fault_rate": 2.4,
+      "total_serve_pts": 458,
+      "total_aces": 12,
+      "total_dfs": 11,
+      "matches": 5,
+      "gender": "M"
+    },
+    "Brad Gilbert": {
+      "ace_rate": 8.51,
+      "double_fault_rate": 4.96,
+      "total_serve_pts": 282,
+      "total_aces": 24,
+      "total_dfs": 14,
+      "matches": 4,
+      "gender": "M"
+    },
+    "Guy Forget": {
+      "ace_rate": 13.05,
+      "double_fault_rate": 1.44,
+      "total_serve_pts": 973,
+      "total_aces": 127,
+      "total_dfs": 14,
+      "matches": 10,
+      "gender": "M"
+    },
+    "Jordi Arrese": {
+      "ace_rate": 1.32,
+      "double_fault_rate": 4.39,
+      "total_serve_pts": 228,
+      "total_aces": 3,
+      "total_dfs": 10,
+      "matches": 2,
+      "gender": "M"
+    },
+    "John Mcenroe": {
+      "ace_rate": 6.84,
+      "double_fault_rate": 4.38,
+      "total_serve_pts": 5573,
+      "total_aces": 381,
+      "total_dfs": 244,
+      "matches": 52,
+      "gender": "M"
+    },
+    "Pat Cash": {
+      "ace_rate": 5.26,
+      "double_fault_rate": 3.91,
+      "total_serve_pts": 1406,
+      "total_aces": 74,
+      "total_dfs": 55,
+      "matches": 12,
+      "gender": "M"
+    },
+    "Henri Leconte": {
+      "ace_rate": 5.46,
+      "double_fault_rate": 4.71,
+      "total_serve_pts": 1062,
+      "total_aces": 58,
+      "total_dfs": 50,
+      "matches": 11,
+      "gender": "M"
+    },
+    "Carlos Costa": {
+      "ace_rate": 3.87,
+      "double_fault_rate": 2.58,
+      "total_serve_pts": 155,
+      "total_aces": 6,
+      "total_dfs": 4,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Jonas Svensson": {
+      "ace_rate": 2.35,
+      "double_fault_rate": 2.35,
+      "total_serve_pts": 596,
+      "total_aces": 14,
+      "total_dfs": 14,
+      "matches": 6,
+      "gender": "M"
+    },
+    "Jimmy Connors": {
+      "ace_rate": 1.81,
+      "double_fault_rate": 2.52,
+      "total_serve_pts": 3252,
+      "total_aces": 59,
+      "total_dfs": 82,
+      "matches": 33,
+      "gender": "M"
+    },
+    "Patrick Mcenroe": {
+      "ace_rate": 5.52,
+      "double_fault_rate": 1.95,
+      "total_serve_pts": 308,
+      "total_aces": 17,
+      "total_dfs": 6,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Emilio Sanchez": {
+      "ace_rate": 4.93,
+      "double_fault_rate": 0.29,
+      "total_serve_pts": 345,
+      "total_aces": 17,
+      "total_dfs": 1,
+      "matches": 4,
+      "gender": "M"
+    },
+    "Alberto Mancini": {
+      "ace_rate": 2.62,
+      "double_fault_rate": 3.66,
+      "total_serve_pts": 191,
+      "total_aces": 5,
+      "total_dfs": 7,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Bjorn Borg": {
+      "ace_rate": 4.72,
+      "double_fault_rate": 3.25,
+      "total_serve_pts": 1908,
+      "total_aces": 90,
+      "total_dfs": 62,
+      "matches": 20,
+      "gender": "M"
+    },
+    "Yannick Noah": {
+      "ace_rate": 7.47,
+      "double_fault_rate": 2.6,
+      "total_serve_pts": 576,
+      "total_aces": 43,
+      "total_dfs": 15,
+      "matches": 6,
+      "gender": "M"
+    },
+    "Andres Gomez": {
+      "ace_rate": 7.52,
+      "double_fault_rate": 2.77,
+      "total_serve_pts": 505,
+      "total_aces": 38,
+      "total_dfs": 14,
+      "matches": 5,
+      "gender": "M"
+    },
+    "Miloslav Mecir": {
+      "ace_rate": 1.15,
+      "double_fault_rate": 2.51,
+      "total_serve_pts": 955,
+      "total_aces": 11,
+      "total_dfs": 24,
+      "matches": 8,
+      "gender": "M"
+    },
+    "Tim Mayotte": {
+      "ace_rate": 2.59,
+      "double_fault_rate": 5.19,
+      "total_serve_pts": 424,
+      "total_aces": 11,
+      "total_dfs": 22,
+      "matches": 4,
+      "gender": "M"
+    },
+    "Kevin Curren": {
+      "ace_rate": 10.42,
+      "double_fault_rate": 4.51,
+      "total_serve_pts": 643,
+      "total_aces": 67,
+      "total_dfs": 29,
+      "matches": 6,
+      "gender": "M"
+    },
+    "Martin Jaite": {
+      "ace_rate": 0.92,
+      "double_fault_rate": 0.46,
+      "total_serve_pts": 217,
+      "total_aces": 2,
+      "total_dfs": 1,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Slobodan Zivojinovic": {
+      "ace_rate": 11.07,
+      "double_fault_rate": 3.82,
+      "total_serve_pts": 262,
+      "total_aces": 29,
+      "total_dfs": 10,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Johan Kriek": {
+      "ace_rate": 3.27,
+      "double_fault_rate": 6.12,
+      "total_serve_pts": 245,
+      "total_aces": 8,
+      "total_dfs": 15,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Jimmy Arias": {
+      "ace_rate": 4.06,
+      "double_fault_rate": 3.05,
+      "total_serve_pts": 197,
+      "total_aces": 8,
+      "total_dfs": 6,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Chris Lewis": {
+      "ace_rate": 3.26,
+      "double_fault_rate": 2.9,
+      "total_serve_pts": 276,
+      "total_aces": 9,
+      "total_dfs": 8,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Guillermo Vilas": {
+      "ace_rate": 2.0,
+      "double_fault_rate": 4.45,
+      "total_serve_pts": 449,
+      "total_aces": 9,
+      "total_dfs": 20,
+      "matches": 5,
+      "gender": "M"
+    },
+    "Vitas Gerulaitis": {
+      "ace_rate": 2.93,
+      "double_fault_rate": 3.16,
+      "total_serve_pts": 443,
+      "total_aces": 13,
+      "total_dfs": 14,
+      "matches": 4,
+      "gender": "M"
+    },
+    "Brian Gottfried": {
+      "ace_rate": 0.67,
+      "double_fault_rate": 1.34,
+      "total_serve_pts": 149,
+      "total_aces": 1,
+      "total_dfs": 2,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Adriano Panatta": {
+      "ace_rate": 3.42,
+      "double_fault_rate": 3.85,
+      "total_serve_pts": 234,
+      "total_aces": 8,
+      "total_dfs": 9,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Arthur Ashe": {
+      "ace_rate": 6.08,
+      "double_fault_rate": 4.73,
+      "total_serve_pts": 296,
+      "total_aces": 18,
+      "total_dfs": 14,
+      "matches": 3,
+      "gender": "M"
+    },
+    "John Newcombe": {
+      "ace_rate": 6.74,
+      "double_fault_rate": 4.82,
+      "total_serve_pts": 623,
+      "total_aces": 42,
+      "total_dfs": 30,
+      "matches": 5,
+      "gender": "M"
+    },
+    "Ken Rosewall": {
+      "ace_rate": 0.73,
+      "double_fault_rate": 7.3,
+      "total_serve_pts": 274,
+      "total_aces": 2,
+      "total_dfs": 20,
+      "matches": 3,
+      "gender": "M"
+    },
+    "Jan Kodes": {
+      "ace_rate": 1.91,
+      "double_fault_rate": 2.55,
+      "total_serve_pts": 157,
+      "total_aces": 3,
+      "total_dfs": 4,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Ilie Nastase": {
+      "ace_rate": 3.16,
+      "double_fault_rate": 1.9,
+      "total_serve_pts": 158,
+      "total_aces": 5,
+      "total_dfs": 3,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Stan Smith": {
+      "ace_rate": 4.44,
+      "double_fault_rate": 4.44,
+      "total_serve_pts": 225,
+      "total_aces": 10,
+      "total_dfs": 10,
+      "matches": 2,
+      "gender": "M"
+    },
+    "Rod Laver": {
+      "ace_rate": 5.24,
+      "double_fault_rate": 3.35,
+      "total_serve_pts": 477,
+      "total_aces": 25,
+      "total_dfs": 16,
+      "matches": 4,
+      "gender": "M"
+    },
+    "Magda Linette": {
+      "ace_rate": 3.56,
+      "double_fault_rate": 2.68,
+      "total_serve_pts": 2497,
+      "total_aces": 89,
+      "total_dfs": 67,
+      "matches": 34,
+      "gender": "W"
+    },
+    "Coco Gauff": {
+      "ace_rate": 5.96,
+      "double_fault_rate": 6.73,
+      "total_serve_pts": 4932,
+      "total_aces": 294,
+      "total_dfs": 332,
+      "matches": 76,
+      "gender": "W"
+    },
+    "Marta Kostyuk": {
+      "ace_rate": 3.52,
+      "double_fault_rate": 7.3,
+      "total_serve_pts": 2219,
+      "total_aces": 78,
+      "total_dfs": 162,
+      "matches": 30,
+      "gender": "W"
+    },
+    "Cristina Bucsa": {
+      "ace_rate": 1.44,
+      "double_fault_rate": 4.33,
+      "total_serve_pts": 762,
+      "total_aces": 11,
+      "total_dfs": 33,
+      "matches": 12,
+      "gender": "W"
+    },
+    "Amanda Anisimova": {
+      "ace_rate": 1.69,
+      "double_fault_rate": 5.13,
+      "total_serve_pts": 1833,
+      "total_aces": 31,
+      "total_dfs": 94,
+      "matches": 25,
+      "gender": "W"
+    },
+    "Sofia Kenin": {
+      "ace_rate": 2.2,
+      "double_fault_rate": 5.48,
+      "total_serve_pts": 4544,
+      "total_aces": 100,
+      "total_dfs": 249,
+      "matches": 59,
+      "gender": "W"
+    },
+    "Ekaterina Alexandrova": {
+      "ace_rate": 7.11,
+      "double_fault_rate": 7.52,
+      "total_serve_pts": 2966,
+      "total_aces": 211,
+      "total_dfs": 223,
+      "matches": 38,
+      "gender": "W"
+    },
+    "Karolina Muchova": {
+      "ace_rate": 5.57,
+      "double_fault_rate": 2.83,
+      "total_serve_pts": 3391,
+      "total_aces": 189,
+      "total_dfs": 96,
+      "matches": 46,
+      "gender": "W"
+    },
+    "Qinwen Zheng": {
+      "ace_rate": 8.43,
+      "double_fault_rate": 6.7,
+      "total_serve_pts": 2432,
+      "total_aces": 205,
+      "total_dfs": 163,
+      "matches": 34,
+      "gender": "W"
+    },
+    "Mirra Andreeva": {
+      "ace_rate": 3.65,
+      "double_fault_rate": 3.71,
+      "total_serve_pts": 1671,
+      "total_aces": 61,
+      "total_dfs": 62,
+      "matches": 23,
+      "gender": "W"
+    },
+    "Jasmine Paolini": {
+      "ace_rate": 2.02,
+      "double_fault_rate": 2.27,
+      "total_serve_pts": 2425,
+      "total_aces": 49,
+      "total_dfs": 55,
+      "matches": 33,
+      "gender": "W"
+    },
+    "Paula Badosa": {
+      "ace_rate": 5.22,
+      "double_fault_rate": 7.29,
+      "total_serve_pts": 2742,
+      "total_aces": 143,
+      "total_dfs": 200,
+      "matches": 36,
+      "gender": "W"
+    },
+    "Jessica Pegula": {
+      "ace_rate": 3.82,
+      "double_fault_rate": 3.48,
+      "total_serve_pts": 4400,
+      "total_aces": 168,
+      "total_dfs": 153,
+      "matches": 60,
+      "gender": "W"
+    },
+    "Victoria Mboko": {
+      "ace_rate": 6.57,
+      "double_fault_rate": 10.95,
+      "total_serve_pts": 137,
+      "total_aces": 9,
+      "total_dfs": 15,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Iva Jovic": {
+      "ace_rate": 0.42,
+      "double_fault_rate": 1.26,
+      "total_serve_pts": 239,
+      "total_aces": 1,
+      "total_dfs": 3,
+      "matches": 3,
+      "gender": "W"
+    },
+    "Viktoriya Tomova": {
+      "ace_rate": 1.71,
+      "double_fault_rate": 3.42,
+      "total_serve_pts": 117,
+      "total_aces": 2,
+      "total_dfs": 4,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Moyuka Uchijima": {
+      "ace_rate": 2.04,
+      "double_fault_rate": 5.31,
+      "total_serve_pts": 245,
+      "total_aces": 5,
+      "total_dfs": 13,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Arianne Hartono": {
+      "ace_rate": 2.49,
+      "double_fault_rate": 6.56,
+      "total_serve_pts": 1204,
+      "total_aces": 30,
+      "total_dfs": 79,
+      "matches": 16,
+      "gender": "W"
+    },
+    "Laura Siegemund": {
+      "ace_rate": 0.92,
+      "double_fault_rate": 6.0,
+      "total_serve_pts": 1632,
+      "total_aces": 15,
+      "total_dfs": 98,
+      "matches": 21,
+      "gender": "W"
+    },
+    "Heather Watson": {
+      "ace_rate": 5.31,
+      "double_fault_rate": 4.52,
+      "total_serve_pts": 753,
+      "total_aces": 40,
+      "total_dfs": 34,
+      "matches": 11,
+      "gender": "W"
+    },
+    "Xiyu Wang": {
+      "ace_rate": 3.69,
+      "double_fault_rate": 4.24,
+      "total_serve_pts": 731,
+      "total_aces": 27,
+      "total_dfs": 31,
+      "matches": 10,
+      "gender": "W"
+    },
+    "Polina Kudermetova": {
+      "ace_rate": 6.5,
+      "double_fault_rate": 8.13,
+      "total_serve_pts": 123,
+      "total_aces": 8,
+      "total_dfs": 10,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Yulia Putintseva": {
+      "ace_rate": 1.33,
+      "double_fault_rate": 4.1,
+      "total_serve_pts": 1732,
+      "total_aces": 23,
+      "total_dfs": 71,
+      "matches": 23,
+      "gender": "W"
+    },
+    "Olivia Gadecki": {
+      "ace_rate": 6.06,
+      "double_fault_rate": 6.06,
+      "total_serve_pts": 297,
+      "total_aces": 18,
+      "total_dfs": 18,
+      "matches": 5,
+      "gender": "W"
+    },
+    "Magdalena Frech": {
+      "ace_rate": 3.68,
+      "double_fault_rate": 2.36,
+      "total_serve_pts": 1061,
+      "total_aces": 39,
+      "total_dfs": 25,
+      "matches": 16,
+      "gender": "W"
+    },
+    "Camila Osorio": {
+      "ace_rate": 1.23,
+      "double_fault_rate": 6.36,
+      "total_serve_pts": 1053,
+      "total_aces": 13,
+      "total_dfs": 67,
+      "matches": 16,
+      "gender": "W"
+    },
+    "Jelena Ostapenko": {
+      "ace_rate": 4.59,
+      "double_fault_rate": 7.47,
+      "total_serve_pts": 3226,
+      "total_aces": 148,
+      "total_dfs": 241,
+      "matches": 47,
+      "gender": "W"
+    },
+    "Marina Stakusic": {
+      "ace_rate": 2.91,
+      "double_fault_rate": 11.65,
+      "total_serve_pts": 206,
+      "total_aces": 6,
+      "total_dfs": 24,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Danielle Collins": {
+      "ace_rate": 5.24,
+      "double_fault_rate": 6.2,
+      "total_serve_pts": 2728,
+      "total_aces": 143,
+      "total_dfs": 169,
+      "matches": 40,
+      "gender": "W"
+    },
+    "Aryna Sabalenka": {
+      "ace_rate": 6.44,
+      "double_fault_rate": 5.96,
+      "total_serve_pts": 2483,
+      "total_aces": 160,
+      "total_dfs": 148,
+      "matches": 36,
+      "gender": "W"
+    },
+    "Emma Navarro": {
+      "ace_rate": 2.53,
+      "double_fault_rate": 3.21,
+      "total_serve_pts": 1184,
+      "total_aces": 30,
+      "total_dfs": 38,
+      "matches": 19,
+      "gender": "W"
+    },
+    "Iga Swiatek": {
+      "ace_rate": 3.42,
+      "double_fault_rate": 3.11,
+      "total_serve_pts": 9640,
+      "total_aces": 330,
+      "total_dfs": 300,
+      "matches": 157,
+      "gender": "W"
+    },
+    "Diana Shnaider": {
+      "ace_rate": 3.02,
+      "double_fault_rate": 2.62,
+      "total_serve_pts": 496,
+      "total_aces": 15,
+      "total_dfs": 13,
+      "matches": 7,
+      "gender": "W"
+    },
+    "Donna Vekic": {
+      "ace_rate": 5.36,
+      "double_fault_rate": 6.71,
+      "total_serve_pts": 3414,
+      "total_aces": 183,
+      "total_dfs": 229,
+      "matches": 47,
+      "gender": "W"
+    },
+    "Elise Mertens": {
+      "ace_rate": 4.62,
+      "double_fault_rate": 7.03,
+      "total_serve_pts": 1992,
+      "total_aces": 92,
+      "total_dfs": 140,
+      "matches": 29,
+      "gender": "W"
+    },
+    "Caroline Wozniacki": {
+      "ace_rate": 3.52,
+      "double_fault_rate": 2.8,
+      "total_serve_pts": 9552,
+      "total_aces": 336,
+      "total_dfs": 267,
+      "matches": 143,
+      "gender": "W"
+    },
+    "Ashlyn Krueger": {
+      "ace_rate": 6.1,
+      "double_fault_rate": 5.21,
+      "total_serve_pts": 557,
+      "total_aces": 34,
+      "total_dfs": 29,
+      "matches": 9,
+      "gender": "W"
+    },
+    "Liudmila Samsonova": {
+      "ace_rate": 7.44,
+      "double_fault_rate": 5.92,
+      "total_serve_pts": 2246,
+      "total_aces": 167,
+      "total_dfs": 133,
+      "matches": 30,
+      "gender": "W"
+    },
+    "Anastasia Potapova": {
+      "ace_rate": 3.01,
+      "double_fault_rate": 7.16,
+      "total_serve_pts": 1396,
+      "total_aces": 42,
+      "total_dfs": 100,
+      "matches": 21,
+      "gender": "W"
+    },
+    "Anastasia Pavlyuchenkova": {
+      "ace_rate": 3.22,
+      "double_fault_rate": 7.18,
+      "total_serve_pts": 1866,
+      "total_aces": 60,
+      "total_dfs": 134,
+      "matches": 29,
+      "gender": "W"
+    },
+    "Jule Niemeier": {
+      "ace_rate": 4.88,
+      "double_fault_rate": 7.84,
+      "total_serve_pts": 574,
+      "total_aces": 28,
+      "total_dfs": 45,
+      "matches": 9,
+      "gender": "W"
+    },
+    "Elina Svitolina": {
+      "ace_rate": 4.42,
+      "double_fault_rate": 3.77,
+      "total_serve_pts": 8624,
+      "total_aces": 381,
+      "total_dfs": 325,
+      "matches": 118,
+      "gender": "W"
+    },
+    "Naomi Osaka": {
+      "ace_rate": 8.75,
+      "double_fault_rate": 3.7,
+      "total_serve_pts": 3922,
+      "total_aces": 343,
+      "total_dfs": 145,
+      "matches": 56,
+      "gender": "W"
+    },
+    "Renata Zarazua": {
+      "ace_rate": 1.2,
+      "double_fault_rate": 3.01,
+      "total_serve_pts": 166,
+      "total_aces": 2,
+      "total_dfs": 5,
+      "matches": 3,
+      "gender": "W"
+    },
+    "Lucia Bronzetti": {
+      "ace_rate": 3.77,
+      "double_fault_rate": 3.99,
+      "total_serve_pts": 451,
+      "total_aces": 17,
+      "total_dfs": 18,
+      "matches": 7,
+      "gender": "W"
+    },
+    "Shuai Zhang": {
+      "ace_rate": 1.58,
+      "double_fault_rate": 5.22,
+      "total_serve_pts": 1015,
+      "total_aces": 16,
+      "total_dfs": 53,
+      "matches": 15,
+      "gender": "W"
+    },
+    "Shelby Rogers": {
+      "ace_rate": 4.43,
+      "double_fault_rate": 3.34,
+      "total_serve_pts": 1288,
+      "total_aces": 57,
+      "total_dfs": 43,
+      "matches": 18,
+      "gender": "W"
+    },
+    "Bianca Andreescu": {
+      "ace_rate": 3.13,
+      "double_fault_rate": 4.37,
+      "total_serve_pts": 11848,
+      "total_aces": 371,
+      "total_dfs": 518,
+      "matches": 159,
+      "gender": "W"
+    },
+    "Emma Raducanu": {
+      "ace_rate": 3.45,
+      "double_fault_rate": 4.09,
+      "total_serve_pts": 2839,
+      "total_aces": 98,
+      "total_dfs": 116,
+      "matches": 42,
+      "gender": "W"
+    },
+    "Caroline Dolehide": {
+      "ace_rate": 4.0,
+      "double_fault_rate": 4.17,
+      "total_serve_pts": 600,
+      "total_aces": 24,
+      "total_dfs": 25,
+      "matches": 9,
+      "gender": "W"
+    },
+    "Nao Hibino": {
+      "ace_rate": 0.92,
+      "double_fault_rate": 5.5,
+      "total_serve_pts": 436,
+      "total_aces": 4,
+      "total_dfs": 24,
+      "matches": 6,
+      "gender": "W"
+    },
+    "Sara Sorribes Tormo": {
+      "ace_rate": 0.72,
+      "double_fault_rate": 4.95,
+      "total_serve_pts": 2082,
+      "total_aces": 15,
+      "total_dfs": 103,
+      "matches": 29,
+      "gender": "W"
+    },
+    "Varvara Gracheva": {
+      "ace_rate": 1.2,
+      "double_fault_rate": 4.52,
+      "total_serve_pts": 664,
+      "total_aces": 8,
+      "total_dfs": 30,
+      "matches": 10,
+      "gender": "W"
+    },
+    "Priscilla Hon": {
+      "ace_rate": 5.67,
+      "double_fault_rate": 5.67,
+      "total_serve_pts": 335,
+      "total_aces": 19,
+      "total_dfs": 19,
+      "matches": 4,
+      "gender": "W"
+    },
+    "Arantxa Rus": {
+      "ace_rate": 2.34,
+      "double_fault_rate": 4.17,
+      "total_serve_pts": 4266,
+      "total_aces": 100,
+      "total_dfs": 178,
+      "matches": 61,
+      "gender": "W"
+    },
+    "Ana Bogdan": {
+      "ace_rate": 2.49,
+      "double_fault_rate": 2.93,
+      "total_serve_pts": 683,
+      "total_aces": 17,
+      "total_dfs": 20,
+      "matches": 9,
+      "gender": "W"
+    },
+    "Linda Noskova": {
+      "ace_rate": 4.47,
+      "double_fault_rate": 5.59,
+      "total_serve_pts": 1610,
+      "total_aces": 72,
+      "total_dfs": 90,
+      "matches": 22,
+      "gender": "W"
+    },
+    "Ena Shibahara": {
+      "ace_rate": 7.14,
+      "double_fault_rate": 7.14,
+      "total_serve_pts": 140,
+      "total_aces": 10,
+      "total_dfs": 10,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Yue Yuan": {
+      "ace_rate": 2.89,
+      "double_fault_rate": 1.53,
+      "total_serve_pts": 588,
+      "total_aces": 17,
+      "total_dfs": 9,
+      "matches": 7,
+      "gender": "W"
+    },
+    "Rebecca Marino": {
+      "ace_rate": 10.8,
+      "double_fault_rate": 3.19,
+      "total_serve_pts": 1130,
+      "total_aces": 122,
+      "total_dfs": 36,
+      "matches": 17,
+      "gender": "W"
+    },
+    "Suzan Lamens": {
+      "ace_rate": 3.41,
+      "double_fault_rate": 9.09,
+      "total_serve_pts": 616,
+      "total_aces": 21,
+      "total_dfs": 56,
+      "matches": 9,
+      "gender": "W"
+    },
+    "Diane Parry": {
+      "ace_rate": 3.7,
+      "double_fault_rate": 3.24,
+      "total_serve_pts": 865,
+      "total_aces": 32,
+      "total_dfs": 28,
+      "matches": 12,
+      "gender": "W"
+    },
+    "Elina Avanesyan": {
+      "ace_rate": 0.61,
+      "double_fault_rate": 2.3,
+      "total_serve_pts": 652,
+      "total_aces": 4,
+      "total_dfs": 15,
+      "matches": 8,
+      "gender": "W"
+    },
+    "Peyton Stearns": {
+      "ace_rate": 0.78,
+      "double_fault_rate": 3.52,
+      "total_serve_pts": 512,
+      "total_aces": 4,
+      "total_dfs": 18,
+      "matches": 6,
+      "gender": "W"
+    },
+    "Nadia Podoroska": {
+      "ace_rate": 2.36,
+      "double_fault_rate": 3.37,
+      "total_serve_pts": 593,
+      "total_aces": 14,
+      "total_dfs": 20,
+      "matches": 9,
+      "gender": "W"
+    },
+    "Karolina Pliskova": {
+      "ace_rate": 8.64,
+      "double_fault_rate": 5.64,
+      "total_serve_pts": 5831,
+      "total_aces": 504,
+      "total_dfs": 329,
+      "matches": 76,
+      "gender": "W"
+    },
+    "Lesia Tsurenko": {
+      "ace_rate": 1.21,
+      "double_fault_rate": 5.19,
+      "total_serve_pts": 1157,
+      "total_aces": 14,
+      "total_dfs": 60,
+      "matches": 17,
+      "gender": "W"
+    },
+    "Marie Bouzkova": {
+      "ace_rate": 2.14,
+      "double_fault_rate": 3.37,
+      "total_serve_pts": 2199,
+      "total_aces": 47,
+      "total_dfs": 74,
+      "matches": 32,
+      "gender": "W"
+    },
+    "Anna Karolina Schmiedlova": {
+      "ace_rate": 2.92,
+      "double_fault_rate": 4.69,
+      "total_serve_pts": 789,
+      "total_aces": 23,
+      "total_dfs": 37,
+      "matches": 13,
+      "gender": "W"
+    },
+    "Angelique Kerber": {
+      "ace_rate": 1.58,
+      "double_fault_rate": 3.57,
+      "total_serve_pts": 5627,
+      "total_aces": 89,
+      "total_dfs": 201,
+      "matches": 78,
+      "gender": "W"
+    },
+    "Leylah Fernandez": {
+      "ace_rate": 2.89,
+      "double_fault_rate": 5.16,
+      "total_serve_pts": 2075,
+      "total_aces": 60,
+      "total_dfs": 107,
+      "matches": 30,
+      "gender": "W"
+    },
+    "Jaqueline Cristian": {
+      "ace_rate": 4.34,
+      "double_fault_rate": 3.47,
+      "total_serve_pts": 576,
+      "total_aces": 25,
+      "total_dfs": 20,
+      "matches": 7,
+      "gender": "W"
+    },
+    "Clara Tauson": {
+      "ace_rate": 4.59,
+      "double_fault_rate": 4.59,
+      "total_serve_pts": 1133,
+      "total_aces": 52,
+      "total_dfs": 52,
+      "matches": 16,
+      "gender": "W"
+    },
+    "Irina Camelia Begu": {
+      "ace_rate": 2.68,
+      "double_fault_rate": 6.53,
+      "total_serve_pts": 857,
+      "total_aces": 23,
+      "total_dfs": 56,
+      "matches": 12,
+      "gender": "W"
+    },
+    "Alexis Blokhina": {
+      "ace_rate": 0.85,
+      "double_fault_rate": 4.24,
+      "total_serve_pts": 118,
+      "total_aces": 1,
+      "total_dfs": 5,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Himeno Sakatsume": {
+      "ace_rate": 0.0,
+      "double_fault_rate": 1.59,
+      "total_serve_pts": 126,
+      "total_aces": 0,
+      "total_dfs": 2,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Victoria Jimenez Kasintseva": {
+      "ace_rate": 2.27,
+      "double_fault_rate": 4.95,
+      "total_serve_pts": 485,
+      "total_aces": 11,
+      "total_dfs": 24,
+      "matches": 7,
+      "gender": "W"
+    },
+    "Alexandra Eala": {
+      "ace_rate": 1.87,
+      "double_fault_rate": 7.46,
+      "total_serve_pts": 268,
+      "total_aces": 5,
+      "total_dfs": 20,
+      "matches": 6,
+      "gender": "W"
+    },
+    "Kayla Cross": {
+      "ace_rate": 4.41,
+      "double_fault_rate": 11.76,
+      "total_serve_pts": 136,
+      "total_aces": 6,
+      "total_dfs": 16,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Stacey Fung": {
+      "ace_rate": 3.14,
+      "double_fault_rate": 4.71,
+      "total_serve_pts": 191,
+      "total_aces": 6,
+      "total_dfs": 9,
+      "matches": 3,
+      "gender": "W"
+    },
+    "Linda Fruhvirtova": {
+      "ace_rate": 3.12,
+      "double_fault_rate": 7.31,
+      "total_serve_pts": 1313,
+      "total_aces": 41,
+      "total_dfs": 96,
+      "matches": 19,
+      "gender": "W"
+    },
+    "Carson Branstine": {
+      "ace_rate": 0.0,
+      "double_fault_rate": 3.2,
+      "total_serve_pts": 125,
+      "total_aces": 0,
+      "total_dfs": 4,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Bianca Jolie Fernandez": {
+      "ace_rate": 0.0,
+      "double_fault_rate": 11.71,
+      "total_serve_pts": 111,
+      "total_aces": 0,
+      "total_dfs": 13,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Barbora Krejcikova": {
+      "ace_rate": 7.0,
+      "double_fault_rate": 5.51,
+      "total_serve_pts": 1614,
+      "total_aces": 113,
+      "total_dfs": 89,
+      "matches": 22,
+      "gender": "W"
+    },
+    "Elena Rybakina": {
+      "ace_rate": 8.94,
+      "double_fault_rate": 4.03,
+      "total_serve_pts": 5439,
+      "total_aces": 486,
+      "total_dfs": 219,
+      "matches": 75,
+      "gender": "W"
+    },
+    "Lulu Sun": {
+      "ace_rate": 5.45,
+      "double_fault_rate": 3.53,
+      "total_serve_pts": 312,
+      "total_aces": 17,
+      "total_dfs": 11,
+      "matches": 4,
+      "gender": "W"
+    },
+    "Anna Kalinskaya": {
+      "ace_rate": 1.64,
+      "double_fault_rate": 3.72,
+      "total_serve_pts": 1587,
+      "total_aces": 26,
+      "total_dfs": 59,
+      "matches": 21,
+      "gender": "W"
+    },
+    "Madison Keys": {
+      "ace_rate": 8.95,
+      "double_fault_rate": 2.84,
+      "total_serve_pts": 3453,
+      "total_aces": 309,
+      "total_dfs": 98,
+      "matches": 51,
+      "gender": "W"
+    },
+    "Ons Jabeur": {
+      "ace_rate": 5.84,
+      "double_fault_rate": 3.14,
+      "total_serve_pts": 3217,
+      "total_aces": 188,
+      "total_dfs": 101,
+      "matches": 43,
+      "gender": "W"
+    },
+    "Maria Sakkari": {
+      "ace_rate": 4.77,
+      "double_fault_rate": 4.59,
+      "total_serve_pts": 4008,
+      "total_aces": 191,
+      "total_dfs": 184,
+      "matches": 53,
+      "gender": "W"
+    },
+    "Petra Martic": {
+      "ace_rate": 5.22,
+      "double_fault_rate": 4.54,
+      "total_serve_pts": 1763,
+      "total_aces": 92,
+      "total_dfs": 80,
+      "matches": 25,
+      "gender": "W"
+    },
+    "Greet Minnen": {
+      "ace_rate": 2.45,
+      "double_fault_rate": 1.83,
+      "total_serve_pts": 327,
+      "total_aces": 8,
+      "total_dfs": 6,
+      "matches": 4,
+      "gender": "W"
+    },
+    "Anca Alexia Todoni": {
+      "ace_rate": 4.55,
+      "double_fault_rate": 1.82,
+      "total_serve_pts": 110,
+      "total_aces": 5,
+      "total_dfs": 2,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Panna Udvardy": {
+      "ace_rate": 5.28,
+      "double_fault_rate": 8.68,
+      "total_serve_pts": 265,
+      "total_aces": 14,
+      "total_dfs": 23,
+      "matches": 4,
+      "gender": "W"
+    },
+    "Mccartney Kessler": {
+      "ace_rate": 4.2,
+      "double_fault_rate": 5.04,
+      "total_serve_pts": 119,
+      "total_aces": 5,
+      "total_dfs": 6,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Olga Danilovic": {
+      "ace_rate": 3.2,
+      "double_fault_rate": 4.51,
+      "total_serve_pts": 843,
+      "total_aces": 27,
+      "total_dfs": 38,
+      "matches": 11,
+      "gender": "W"
+    },
+    "Linda Klimovicova": {
+      "ace_rate": 3.74,
+      "double_fault_rate": 4.21,
+      "total_serve_pts": 428,
+      "total_aces": 16,
+      "total_dfs": 18,
+      "matches": 7,
+      "gender": "W"
+    },
+    "Leonie Kung": {
+      "ace_rate": 2.98,
+      "double_fault_rate": 2.98,
+      "total_serve_pts": 235,
+      "total_aces": 7,
+      "total_dfs": 7,
+      "matches": 4,
+      "gender": "W"
+    },
+    "Nahia Berecoechea": {
+      "ace_rate": 0.57,
+      "double_fault_rate": 8.52,
+      "total_serve_pts": 176,
+      "total_aces": 1,
+      "total_dfs": 15,
+      "matches": 3,
+      "gender": "W"
+    },
+    "Radka Zelnickova": {
+      "ace_rate": 7.14,
+      "double_fault_rate": 6.04,
+      "total_serve_pts": 182,
+      "total_aces": 13,
+      "total_dfs": 11,
+      "matches": 3,
+      "gender": "W"
+    },
+    "Kayla Day": {
+      "ace_rate": 5.46,
+      "double_fault_rate": 3.45,
+      "total_serve_pts": 348,
+      "total_aces": 19,
+      "total_dfs": 12,
+      "matches": 5,
+      "gender": "W"
+    },
+    "Dalma Galfi": {
+      "ace_rate": 5.24,
+      "double_fault_rate": 1.61,
+      "total_serve_pts": 248,
+      "total_aces": 13,
+      "total_dfs": 4,
+      "matches": 3,
+      "gender": "W"
+    },
+    "Aleksandra Krunic": {
+      "ace_rate": 1.86,
+      "double_fault_rate": 3.18,
+      "total_serve_pts": 377,
+      "total_aces": 7,
+      "total_dfs": 12,
+      "matches": 6,
+      "gender": "W"
+    },
+    "Celine Naef": {
+      "ace_rate": 4.6,
+      "double_fault_rate": 3.35,
+      "total_serve_pts": 239,
+      "total_aces": 11,
+      "total_dfs": 8,
+      "matches": 3,
+      "gender": "W"
+    },
+    "Eva Vedder": {
+      "ace_rate": 4.04,
+      "double_fault_rate": 4.48,
+      "total_serve_pts": 223,
+      "total_aces": 9,
+      "total_dfs": 10,
+      "matches": 3,
+      "gender": "W"
+    },
+    "Marketa Vondrousova": {
+      "ace_rate": 2.9,
+      "double_fault_rate": 6.39,
+      "total_serve_pts": 2691,
+      "total_aces": 78,
+      "total_dfs": 172,
+      "matches": 40,
+      "gender": "W"
+    },
+    "Elisabetta Cocciaretto": {
+      "ace_rate": 1.33,
+      "double_fault_rate": 3.05,
+      "total_serve_pts": 525,
+      "total_aces": 7,
+      "total_dfs": 16,
+      "matches": 7,
+      "gender": "W"
+    },
+    "Victoria Azarenka": {
+      "ace_rate": 3.84,
+      "double_fault_rate": 5.78,
+      "total_serve_pts": 6247,
+      "total_aces": 240,
+      "total_dfs": 361,
+      "matches": 89,
+      "gender": "W"
+    },
+    "Caroline Garcia": {
+      "ace_rate": 6.82,
+      "double_fault_rate": 4.2,
+      "total_serve_pts": 2521,
+      "total_aces": 172,
+      "total_dfs": 106,
+      "matches": 38,
+      "gender": "W"
+    },
+    "Daria Kasatkina": {
+      "ace_rate": 1.94,
+      "double_fault_rate": 6.18,
+      "total_serve_pts": 3608,
+      "total_aces": 70,
+      "total_dfs": 223,
+      "matches": 50,
+      "gender": "W"
+    },
+    "Leolia Jeanjean": {
+      "ace_rate": 0.89,
+      "double_fault_rate": 8.04,
+      "total_serve_pts": 112,
+      "total_aces": 1,
+      "total_dfs": 9,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Clara Burel": {
+      "ace_rate": 3.47,
+      "double_fault_rate": 7.1,
+      "total_serve_pts": 634,
+      "total_aces": 22,
+      "total_dfs": 45,
+      "matches": 9,
+      "gender": "W"
+    },
+    "Alize Cornet": {
+      "ace_rate": 1.6,
+      "double_fault_rate": 7.39,
+      "total_serve_pts": 2191,
+      "total_aces": 35,
+      "total_dfs": 162,
+      "matches": 32,
+      "gender": "W"
+    },
+    "Mayar Sherif": {
+      "ace_rate": 2.73,
+      "double_fault_rate": 1.45,
+      "total_serve_pts": 550,
+      "total_aces": 15,
+      "total_dfs": 8,
+      "matches": 9,
+      "gender": "W"
+    },
+    "Katerina Siniakova": {
+      "ace_rate": 2.07,
+      "double_fault_rate": 6.21,
+      "total_serve_pts": 1595,
+      "total_aces": 33,
+      "total_dfs": 99,
+      "matches": 23,
+      "gender": "W"
+    },
+    "Kimberly Birrell": {
+      "ace_rate": 1.16,
+      "double_fault_rate": 8.6,
+      "total_serve_pts": 430,
+      "total_aces": 5,
+      "total_dfs": 37,
+      "matches": 6,
+      "gender": "W"
+    },
+    "Raluka Serban": {
+      "ace_rate": 1.08,
+      "double_fault_rate": 8.06,
+      "total_serve_pts": 186,
+      "total_aces": 2,
+      "total_dfs": 15,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Sara Errani": {
+      "ace_rate": 0.11,
+      "double_fault_rate": 4.2,
+      "total_serve_pts": 1810,
+      "total_aces": 2,
+      "total_dfs": 76,
+      "matches": 27,
+      "gender": "W"
+    },
+    "Katie Boulter": {
+      "ace_rate": 4.75,
+      "double_fault_rate": 6.39,
+      "total_serve_pts": 673,
+      "total_aces": 32,
+      "total_dfs": 43,
+      "matches": 9,
+      "gender": "W"
+    },
+    "Rebecca Sramkova": {
+      "ace_rate": 4.18,
+      "double_fault_rate": 1.39,
+      "total_serve_pts": 359,
+      "total_aces": 15,
+      "total_dfs": 5,
+      "matches": 5,
+      "gender": "W"
+    },
+    "Anna Blinkova": {
+      "ace_rate": 2.73,
+      "double_fault_rate": 5.73,
+      "total_serve_pts": 768,
+      "total_aces": 21,
+      "total_dfs": 44,
+      "matches": 11,
+      "gender": "W"
+    },
+    "Bernarda Pera": {
+      "ace_rate": 2.33,
+      "double_fault_rate": 6.07,
+      "total_serve_pts": 988,
+      "total_aces": 23,
+      "total_dfs": 60,
+      "matches": 12,
+      "gender": "W"
+    },
+    "Veronika Kudermetova": {
+      "ace_rate": 7.02,
+      "double_fault_rate": 3.05,
+      "total_serve_pts": 2195,
+      "total_aces": 154,
+      "total_dfs": 67,
+      "matches": 29,
+      "gender": "W"
+    },
+    "Xin Yu Wang": {
+      "ace_rate": 3.84,
+      "double_fault_rate": 4.55,
+      "total_serve_pts": 703,
+      "total_aces": 27,
+      "total_dfs": 32,
+      "matches": 10,
+      "gender": "W"
+    },
+    "Beatriz Haddad Maia": {
+      "ace_rate": 2.59,
+      "double_fault_rate": 4.41,
+      "total_serve_pts": 1043,
+      "total_aces": 27,
+      "total_dfs": 46,
+      "matches": 13,
+      "gender": "W"
+    },
+    "Sara Bejlek": {
+      "ace_rate": 0.38,
+      "double_fault_rate": 9.06,
+      "total_serve_pts": 265,
+      "total_aces": 1,
+      "total_dfs": 24,
+      "matches": 5,
+      "gender": "W"
+    },
+    "Maria Lourdes Carle": {
+      "ace_rate": 0.47,
+      "double_fault_rate": 5.66,
+      "total_serve_pts": 212,
+      "total_aces": 1,
+      "total_dfs": 12,
+      "matches": 3,
+      "gender": "W"
+    },
+    "Robin Montgomery": {
+      "ace_rate": 1.71,
+      "double_fault_rate": 5.13,
+      "total_serve_pts": 117,
+      "total_aces": 2,
+      "total_dfs": 6,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Sloane Stephens": {
+      "ace_rate": 2.0,
+      "double_fault_rate": 2.75,
+      "total_serve_pts": 2295,
+      "total_aces": 46,
+      "total_dfs": 63,
+      "matches": 34,
+      "gender": "W"
+    },
+    "Anhelina Kalinina": {
+      "ace_rate": 2.82,
+      "double_fault_rate": 4.76,
+      "total_serve_pts": 1240,
+      "total_aces": 35,
+      "total_dfs": 59,
+      "matches": 17,
+      "gender": "W"
+    },
+    "Sorana Cirstea": {
+      "ace_rate": 3.85,
+      "double_fault_rate": 3.07,
+      "total_serve_pts": 1791,
+      "total_aces": 69,
+      "total_dfs": 55,
+      "matches": 25,
+      "gender": "W"
+    },
+    "Daria Saville": {
+      "ace_rate": 1.97,
+      "double_fault_rate": 5.91,
+      "total_serve_pts": 1117,
+      "total_aces": 22,
+      "total_dfs": 66,
+      "matches": 14,
+      "gender": "W"
+    },
+    "Katie Volynets": {
+      "ace_rate": 1.93,
+      "double_fault_rate": 2.64,
+      "total_serve_pts": 986,
+      "total_aces": 19,
+      "total_dfs": 26,
+      "matches": 13,
+      "gender": "W"
+    },
+    "Taylor Townsend": {
+      "ace_rate": 4.94,
+      "double_fault_rate": 2.72,
+      "total_serve_pts": 809,
+      "total_aces": 40,
+      "total_dfs": 22,
+      "matches": 11,
+      "gender": "W"
+    },
+    "Oceane Dodin": {
+      "ace_rate": 5.5,
+      "double_fault_rate": 10.15,
+      "total_serve_pts": 473,
+      "total_aces": 26,
+      "total_dfs": 48,
+      "matches": 8,
+      "gender": "W"
+    },
+    "Maria Timofeeva": {
+      "ace_rate": 2.82,
+      "double_fault_rate": 2.82,
+      "total_serve_pts": 177,
+      "total_aces": 5,
+      "total_dfs": 5,
+      "matches": 3,
+      "gender": "W"
+    },
+    "Camila Giorgi": {
+      "ace_rate": 4.33,
+      "double_fault_rate": 9.56,
+      "total_serve_pts": 2657,
+      "total_aces": 115,
+      "total_dfs": 254,
+      "matches": 38,
+      "gender": "W"
+    },
+    "Brenda Fruhvirtova": {
+      "ace_rate": 2.01,
+      "double_fault_rate": 3.61,
+      "total_serve_pts": 498,
+      "total_aces": 10,
+      "total_dfs": 18,
+      "matches": 8,
+      "gender": "W"
+    },
+    "Mai Hontama": {
+      "ace_rate": 0.54,
+      "double_fault_rate": 5.91,
+      "total_serve_pts": 186,
+      "total_aces": 1,
+      "total_dfs": 11,
+      "matches": 3,
+      "gender": "W"
+    },
+    "Anna Bondar": {
+      "ace_rate": 7.22,
+      "double_fault_rate": 3.35,
+      "total_serve_pts": 568,
+      "total_aces": 41,
+      "total_dfs": 19,
+      "matches": 9,
+      "gender": "W"
+    },
+    "Anastasia Tikhonova": {
+      "ace_rate": 6.29,
+      "double_fault_rate": 5.14,
+      "total_serve_pts": 175,
+      "total_aces": 11,
+      "total_dfs": 9,
+      "matches": 3,
+      "gender": "W"
+    },
+    "Lin Zhu": {
+      "ace_rate": 2.56,
+      "double_fault_rate": 3.02,
+      "total_serve_pts": 861,
+      "total_aces": 22,
+      "total_dfs": 26,
+      "matches": 11,
+      "gender": "W"
+    },
+    "Dayana Yastremska": {
+      "ace_rate": 4.42,
+      "double_fault_rate": 7.41,
+      "total_serve_pts": 1970,
+      "total_aces": 87,
+      "total_dfs": 146,
+      "matches": 29,
+      "gender": "W"
+    },
+    "Alina Charaeva": {
+      "ace_rate": 3.33,
+      "double_fault_rate": 10.0,
+      "total_serve_pts": 90,
+      "total_aces": 3,
+      "total_dfs": 9,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Harriet Dart": {
+      "ace_rate": 1.95,
+      "double_fault_rate": 5.54,
+      "total_serve_pts": 668,
+      "total_aces": 13,
+      "total_dfs": 37,
+      "matches": 10,
+      "gender": "W"
+    },
+    "Qiang Wang": {
+      "ace_rate": 2.55,
+      "double_fault_rate": 2.8,
+      "total_serve_pts": 785,
+      "total_aces": 20,
+      "total_dfs": 22,
+      "matches": 11,
+      "gender": "W"
+    },
+    "Yafan Wang": {
+      "ace_rate": 1.8,
+      "double_fault_rate": 5.25,
+      "total_serve_pts": 610,
+      "total_aces": 11,
+      "total_dfs": 32,
+      "matches": 7,
+      "gender": "W"
+    },
+    "Fiona Ferro": {
+      "ace_rate": 1.73,
+      "double_fault_rate": 3.26,
+      "total_serve_pts": 521,
+      "total_aces": 9,
+      "total_dfs": 17,
+      "matches": 8,
+      "gender": "W"
+    },
+    "Su Wei Hsieh": {
+      "ace_rate": 1.13,
+      "double_fault_rate": 4.3,
+      "total_serve_pts": 1860,
+      "total_aces": 21,
+      "total_dfs": 80,
+      "matches": 24,
+      "gender": "W"
+    },
+    "Ajla Tomljanovic": {
+      "ace_rate": 3.25,
+      "double_fault_rate": 5.41,
+      "total_serve_pts": 1293,
+      "total_aces": 42,
+      "total_dfs": 70,
+      "matches": 19,
+      "gender": "W"
+    },
+    "Aneta Laboutkova": {
+      "ace_rate": 1.9,
+      "double_fault_rate": 4.76,
+      "total_serve_pts": 105,
+      "total_aces": 2,
+      "total_dfs": 5,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Martina Trevisan": {
+      "ace_rate": 0.92,
+      "double_fault_rate": 5.94,
+      "total_serve_pts": 758,
+      "total_aces": 7,
+      "total_dfs": 45,
+      "matches": 13,
+      "gender": "W"
+    },
+    "Belinda Bencic": {
+      "ace_rate": 4.01,
+      "double_fault_rate": 5.53,
+      "total_serve_pts": 4011,
+      "total_aces": 161,
+      "total_dfs": 222,
+      "matches": 59,
+      "gender": "W"
+    },
+    "Jennifer Brady": {
+      "ace_rate": 6.74,
+      "double_fault_rate": 4.29,
+      "total_serve_pts": 1351,
+      "total_aces": 91,
+      "total_dfs": 58,
+      "matches": 18,
+      "gender": "W"
+    },
+    "Petra Kvitova": {
+      "ace_rate": 6.54,
+      "double_fault_rate": 5.86,
+      "total_serve_pts": 6651,
+      "total_aces": 435,
+      "total_dfs": 390,
+      "matches": 95,
+      "gender": "W"
+    },
+    "Barbora Strycova": {
+      "ace_rate": 3.02,
+      "double_fault_rate": 4.9,
+      "total_serve_pts": 960,
+      "total_aces": 29,
+      "total_dfs": 47,
+      "matches": 14,
+      "gender": "W"
+    },
+    "Kaia Kanepi": {
+      "ace_rate": 6.45,
+      "double_fault_rate": 4.69,
+      "total_serve_pts": 853,
+      "total_aces": 55,
+      "total_dfs": 40,
+      "matches": 10,
+      "gender": "W"
+    },
+    "Elsa Jacquemot": {
+      "ace_rate": 3.4,
+      "double_fault_rate": 7.92,
+      "total_serve_pts": 265,
+      "total_aces": 9,
+      "total_dfs": 21,
+      "matches": 3,
+      "gender": "W"
+    },
+    "Rebeka Masarova": {
+      "ace_rate": 7.59,
+      "double_fault_rate": 1.69,
+      "total_serve_pts": 237,
+      "total_aces": 18,
+      "total_dfs": 4,
+      "matches": 4,
+      "gender": "W"
+    },
+    "Rebecca Peterson": {
+      "ace_rate": 2.39,
+      "double_fault_rate": 5.16,
+      "total_serve_pts": 795,
+      "total_aces": 19,
+      "total_dfs": 41,
+      "matches": 11,
+      "gender": "W"
+    },
+    "Liv Hovde": {
+      "ace_rate": 0.81,
+      "double_fault_rate": 4.07,
+      "total_serve_pts": 123,
+      "total_aces": 1,
+      "total_dfs": 5,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Noma Noha Akugue": {
+      "ace_rate": 1.04,
+      "double_fault_rate": 5.7,
+      "total_serve_pts": 193,
+      "total_aces": 2,
+      "total_dfs": 11,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Yuriko Miyazaki": {
+      "ace_rate": 0.68,
+      "double_fault_rate": 6.85,
+      "total_serve_pts": 146,
+      "total_aces": 1,
+      "total_dfs": 10,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Claire Liu": {
+      "ace_rate": 2.84,
+      "double_fault_rate": 4.96,
+      "total_serve_pts": 282,
+      "total_aces": 8,
+      "total_dfs": 14,
+      "matches": 4,
+      "gender": "W"
+    },
+    "Nigina Abduraimova": {
+      "ace_rate": 4.41,
+      "double_fault_rate": 10.29,
+      "total_serve_pts": 136,
+      "total_aces": 6,
+      "total_dfs": 14,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Elvina Kalieva": {
+      "ace_rate": 4.44,
+      "double_fault_rate": 6.67,
+      "total_serve_pts": 135,
+      "total_aces": 6,
+      "total_dfs": 9,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Kateryna Baindl": {
+      "ace_rate": 1.4,
+      "double_fault_rate": 3.79,
+      "total_serve_pts": 713,
+      "total_aces": 10,
+      "total_dfs": 27,
+      "matches": 10,
+      "gender": "W"
+    },
+    "Erika Andreeva": {
+      "ace_rate": 1.27,
+      "double_fault_rate": 4.46,
+      "total_serve_pts": 157,
+      "total_aces": 2,
+      "total_dfs": 7,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Madison Brengle": {
+      "ace_rate": 0.71,
+      "double_fault_rate": 4.67,
+      "total_serve_pts": 985,
+      "total_aces": 7,
+      "total_dfs": 46,
+      "matches": 14,
+      "gender": "W"
+    },
+    "Anett Kontaveit": {
+      "ace_rate": 4.12,
+      "double_fault_rate": 4.04,
+      "total_serve_pts": 2671,
+      "total_aces": 110,
+      "total_dfs": 108,
+      "matches": 38,
+      "gender": "W"
+    },
+    "Venus Williams": {
+      "ace_rate": 4.59,
+      "double_fault_rate": 5.34,
+      "total_serve_pts": 6249,
+      "total_aces": 287,
+      "total_dfs": 334,
+      "matches": 82,
+      "gender": "W"
+    },
+    "Maryna Zanevska": {
+      "ace_rate": 2.92,
+      "double_fault_rate": 9.62,
+      "total_serve_pts": 343,
+      "total_aces": 10,
+      "total_dfs": 33,
+      "matches": 5,
+      "gender": "W"
+    },
+    "Sonay Kartal": {
+      "ace_rate": 1.64,
+      "double_fault_rate": 2.19,
+      "total_serve_pts": 183,
+      "total_aces": 3,
+      "total_dfs": 4,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Aliaksandra Sasnovich": {
+      "ace_rate": 3.11,
+      "double_fault_rate": 6.16,
+      "total_serve_pts": 1673,
+      "total_aces": 52,
+      "total_dfs": 103,
+      "matches": 26,
+      "gender": "W"
+    },
+    "Viktoria Hruncakova": {
+      "ace_rate": 6.67,
+      "double_fault_rate": 5.78,
+      "total_serve_pts": 675,
+      "total_aces": 45,
+      "total_dfs": 39,
+      "matches": 9,
+      "gender": "W"
+    },
+    "Anna Lena Friedsam": {
+      "ace_rate": 3.68,
+      "double_fault_rate": 3.26,
+      "total_serve_pts": 706,
+      "total_aces": 26,
+      "total_dfs": 23,
+      "matches": 10,
+      "gender": "W"
+    },
+    "Danka Kovinic": {
+      "ace_rate": 5.47,
+      "double_fault_rate": 6.45,
+      "total_serve_pts": 512,
+      "total_aces": 28,
+      "total_dfs": 33,
+      "matches": 9,
+      "gender": "W"
+    },
+    "Julia Grabher": {
+      "ace_rate": 2.43,
+      "double_fault_rate": 7.06,
+      "total_serve_pts": 453,
+      "total_aces": 11,
+      "total_dfs": 32,
+      "matches": 7,
+      "gender": "W"
+    },
+    "Storm Hunter": {
+      "ace_rate": 1.8,
+      "double_fault_rate": 6.17,
+      "total_serve_pts": 389,
+      "total_aces": 7,
+      "total_dfs": 24,
+      "matches": 5,
+      "gender": "W"
+    },
+    "Nuria Parrizas Diaz": {
+      "ace_rate": 0.89,
+      "double_fault_rate": 3.0,
+      "total_serve_pts": 901,
+      "total_aces": 8,
+      "total_dfs": 27,
+      "matches": 12,
+      "gender": "W"
+    },
+    "Kamilla Rakhimova": {
+      "ace_rate": 3.35,
+      "double_fault_rate": 2.51,
+      "total_serve_pts": 239,
+      "total_aces": 8,
+      "total_dfs": 6,
+      "matches": 3,
+      "gender": "W"
+    },
+    "Jil Teichmann": {
+      "ace_rate": 2.4,
+      "double_fault_rate": 3.96,
+      "total_serve_pts": 2043,
+      "total_aces": 49,
+      "total_dfs": 81,
+      "matches": 25,
+      "gender": "W"
+    },
+    "Julia Riera": {
+      "ace_rate": 2.01,
+      "double_fault_rate": 2.01,
+      "total_serve_pts": 149,
+      "total_aces": 3,
+      "total_dfs": 3,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Tatjana Maria": {
+      "ace_rate": 5.86,
+      "double_fault_rate": 3.8,
+      "total_serve_pts": 922,
+      "total_aces": 54,
+      "total_dfs": 35,
+      "matches": 12,
+      "gender": "W"
+    },
+    "Kristina Mladenovic": {
+      "ace_rate": 4.61,
+      "double_fault_rate": 6.98,
+      "total_serve_pts": 1475,
+      "total_aces": 68,
+      "total_dfs": 103,
+      "matches": 19,
+      "gender": "W"
+    },
+    "Katherine Sebov": {
+      "ace_rate": 0.68,
+      "double_fault_rate": 4.76,
+      "total_serve_pts": 147,
+      "total_aces": 1,
+      "total_dfs": 7,
+      "matches": 3,
+      "gender": "W"
+    },
+    "Fernanda Contreras Gomez": {
+      "ace_rate": 6.92,
+      "double_fault_rate": 1.26,
+      "total_serve_pts": 159,
+      "total_aces": 11,
+      "total_dfs": 2,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Elizabeth Mandlik": {
+      "ace_rate": 4.58,
+      "double_fault_rate": 8.4,
+      "total_serve_pts": 131,
+      "total_aces": 6,
+      "total_dfs": 11,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Daria Snigur": {
+      "ace_rate": 1.44,
+      "double_fault_rate": 2.4,
+      "total_serve_pts": 208,
+      "total_aces": 3,
+      "total_dfs": 5,
+      "matches": 4,
+      "gender": "W"
+    },
+    "Alycia Parks": {
+      "ace_rate": 7.54,
+      "double_fault_rate": 11.73,
+      "total_serve_pts": 358,
+      "total_aces": 27,
+      "total_dfs": 42,
+      "matches": 6,
+      "gender": "W"
+    },
+    "Evgeniya Rodina": {
+      "ace_rate": 0.0,
+      "double_fault_rate": 4.45,
+      "total_serve_pts": 247,
+      "total_aces": 0,
+      "total_dfs": 11,
+      "matches": 4,
+      "gender": "W"
+    },
+    "Tamara Korpatsch": {
+      "ace_rate": 2.18,
+      "double_fault_rate": 6.55,
+      "total_serve_pts": 229,
+      "total_aces": 5,
+      "total_dfs": 15,
+      "matches": 3,
+      "gender": "W"
+    },
+    "Weronika Falkowska": {
+      "ace_rate": 7.14,
+      "double_fault_rate": 1.02,
+      "total_serve_pts": 98,
+      "total_aces": 7,
+      "total_dfs": 1,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Mara Guth": {
+      "ace_rate": 1.01,
+      "double_fault_rate": 7.07,
+      "total_serve_pts": 99,
+      "total_aces": 1,
+      "total_dfs": 7,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Lauren Davis": {
+      "ace_rate": 1.14,
+      "double_fault_rate": 5.14,
+      "total_serve_pts": 1051,
+      "total_aces": 12,
+      "total_dfs": 54,
+      "matches": 16,
+      "gender": "W"
+    },
+    "Garbine Muguruza": {
+      "ace_rate": 5.07,
+      "double_fault_rate": 4.54,
+      "total_serve_pts": 6211,
+      "total_aces": 315,
+      "total_dfs": 282,
+      "matches": 92,
+      "gender": "W"
+    },
+    "Mirjam Bjorklund": {
+      "ace_rate": 0.93,
+      "double_fault_rate": 0.93,
+      "total_serve_pts": 108,
+      "total_aces": 1,
+      "total_dfs": 1,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Kaja Juvan": {
+      "ace_rate": 3.03,
+      "double_fault_rate": 2.42,
+      "total_serve_pts": 1157,
+      "total_aces": 35,
+      "total_dfs": 28,
+      "matches": 16,
+      "gender": "W"
+    },
+    "Tamara Zidansek": {
+      "ace_rate": 0.57,
+      "double_fault_rate": 3.12,
+      "total_serve_pts": 1057,
+      "total_aces": 6,
+      "total_dfs": 33,
+      "matches": 11,
+      "gender": "W"
+    },
+    "Oksana Selekhmeteva": {
+      "ace_rate": 1.56,
+      "double_fault_rate": 5.3,
+      "total_serve_pts": 321,
+      "total_aces": 5,
+      "total_dfs": 17,
+      "matches": 4,
+      "gender": "W"
+    },
+    "Eva Lys": {
+      "ace_rate": 1.07,
+      "double_fault_rate": 6.95,
+      "total_serve_pts": 187,
+      "total_aces": 2,
+      "total_dfs": 13,
+      "matches": 3,
+      "gender": "W"
+    },
+    "Kristina Kucova": {
+      "ace_rate": 0.32,
+      "double_fault_rate": 4.81,
+      "total_serve_pts": 312,
+      "total_aces": 1,
+      "total_dfs": 15,
+      "matches": 4,
+      "gender": "W"
+    },
+    "Eugenie Bouchard": {
+      "ace_rate": 2.9,
+      "double_fault_rate": 4.01,
+      "total_serve_pts": 4138,
+      "total_aces": 120,
+      "total_dfs": 166,
+      "matches": 60,
+      "gender": "W"
+    },
+    "Elena Gabriela Ruse": {
+      "ace_rate": 4.23,
+      "double_fault_rate": 6.04,
+      "total_serve_pts": 331,
+      "total_aces": 14,
+      "total_dfs": 20,
+      "matches": 5,
+      "gender": "W"
+    },
+    "Katie Swan": {
+      "ace_rate": 9.81,
+      "double_fault_rate": 4.67,
+      "total_serve_pts": 214,
+      "total_aces": 21,
+      "total_dfs": 10,
+      "matches": 4,
+      "gender": "W"
+    },
+    "Maddison Inglis": {
+      "ace_rate": 5.83,
+      "double_fault_rate": 6.31,
+      "total_serve_pts": 206,
+      "total_aces": 12,
+      "total_dfs": 13,
+      "matches": 3,
+      "gender": "W"
+    },
+    "Bibiane Schoofs": {
+      "ace_rate": 1.33,
+      "double_fault_rate": 7.71,
+      "total_serve_pts": 376,
+      "total_aces": 5,
+      "total_dfs": 29,
+      "matches": 6,
+      "gender": "W"
+    },
+    "Katrina Scott": {
+      "ace_rate": 5.68,
+      "double_fault_rate": 4.17,
+      "total_serve_pts": 264,
+      "total_aces": 15,
+      "total_dfs": 11,
+      "matches": 4,
+      "gender": "W"
+    },
+    "Joanna Garland": {
+      "ace_rate": 2.86,
+      "double_fault_rate": 0.95,
+      "total_serve_pts": 105,
+      "total_aces": 3,
+      "total_dfs": 1,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Alison Van Uytvanck": {
+      "ace_rate": 4.59,
+      "double_fault_rate": 3.24,
+      "total_serve_pts": 740,
+      "total_aces": 34,
+      "total_dfs": 24,
+      "matches": 10,
+      "gender": "W"
+    },
+    "Sabine Lisicki": {
+      "ace_rate": 9.16,
+      "double_fault_rate": 7.14,
+      "total_serve_pts": 1583,
+      "total_aces": 145,
+      "total_dfs": 113,
+      "matches": 21,
+      "gender": "W"
+    },
+    "Lesley Pattinama Kerkhove": {
+      "ace_rate": 1.55,
+      "double_fault_rate": 6.56,
+      "total_serve_pts": 839,
+      "total_aces": 13,
+      "total_dfs": 55,
+      "matches": 11,
+      "gender": "W"
+    },
+    "Viktorija Golubic": {
+      "ace_rate": 0.73,
+      "double_fault_rate": 4.26,
+      "total_serve_pts": 1103,
+      "total_aces": 8,
+      "total_dfs": 47,
+      "matches": 15,
+      "gender": "W"
+    },
+    "Tereza Martincova": {
+      "ace_rate": 1.59,
+      "double_fault_rate": 3.54,
+      "total_serve_pts": 565,
+      "total_aces": 9,
+      "total_dfs": 20,
+      "matches": 9,
+      "gender": "W"
+    },
+    "Aliona Bolsova": {
+      "ace_rate": 2.05,
+      "double_fault_rate": 4.62,
+      "total_serve_pts": 195,
+      "total_aces": 4,
+      "total_dfs": 9,
+      "matches": 3,
+      "gender": "W"
+    },
+    "Yanina Wickmayer": {
+      "ace_rate": 1.9,
+      "double_fault_rate": 4.94,
+      "total_serve_pts": 263,
+      "total_aces": 5,
+      "total_dfs": 13,
+      "matches": 5,
+      "gender": "W"
+    },
+    "Alison Riske Amritraj": {
+      "ace_rate": 1.79,
+      "double_fault_rate": 4.8,
+      "total_serve_pts": 1792,
+      "total_aces": 32,
+      "total_dfs": 86,
+      "matches": 27,
+      "gender": "W"
+    },
+    "Serena Williams": {
+      "ace_rate": 11.95,
+      "double_fault_rate": 4.55,
+      "total_serve_pts": 9019,
+      "total_aces": 1078,
+      "total_dfs": 410,
+      "matches": 137,
+      "gender": "W"
+    },
+    "Andrea Petkovic": {
+      "ace_rate": 3.35,
+      "double_fault_rate": 4.57,
+      "total_serve_pts": 1225,
+      "total_aces": 41,
+      "total_dfs": 56,
+      "matches": 18,
+      "gender": "W"
+    },
+    "Harmony Tan": {
+      "ace_rate": 1.56,
+      "double_fault_rate": 4.48,
+      "total_serve_pts": 513,
+      "total_aces": 8,
+      "total_dfs": 23,
+      "matches": 7,
+      "gender": "W"
+    },
+    "Maja Chwalinska": {
+      "ace_rate": 0.0,
+      "double_fault_rate": 3.21,
+      "total_serve_pts": 187,
+      "total_aces": 0,
+      "total_dfs": 6,
+      "matches": 3,
+      "gender": "W"
+    },
+    "Jaimee Fourlis": {
+      "ace_rate": 2.23,
+      "double_fault_rate": 2.79,
+      "total_serve_pts": 179,
+      "total_aces": 4,
+      "total_dfs": 5,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Simona Waltert": {
+      "ace_rate": 1.49,
+      "double_fault_rate": 6.44,
+      "total_serve_pts": 202,
+      "total_aces": 3,
+      "total_dfs": 13,
+      "matches": 3,
+      "gender": "W"
+    },
+    "Kirsten Flipkens": {
+      "ace_rate": 3.19,
+      "double_fault_rate": 2.52,
+      "total_serve_pts": 753,
+      "total_aces": 24,
+      "total_dfs": 19,
+      "matches": 10,
+      "gender": "W"
+    },
+    "Simona Halep": {
+      "ace_rate": 2.39,
+      "double_fault_rate": 5.06,
+      "total_serve_pts": 1087,
+      "total_aces": 26,
+      "total_dfs": 55,
+      "matches": 15,
+      "gender": "W"
+    },
+    "Emina Bektas": {
+      "ace_rate": 9.92,
+      "double_fault_rate": 1.53,
+      "total_serve_pts": 131,
+      "total_aces": 13,
+      "total_dfs": 2,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Catherine Harrison": {
+      "ace_rate": 3.62,
+      "double_fault_rate": 9.42,
+      "total_serve_pts": 138,
+      "total_aces": 5,
+      "total_dfs": 13,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Irina Bara": {
+      "ace_rate": 0.2,
+      "double_fault_rate": 7.33,
+      "total_serve_pts": 491,
+      "total_aces": 1,
+      "total_dfs": 36,
+      "matches": 7,
+      "gender": "W"
+    },
+    "Ysaline Bonaventure": {
+      "ace_rate": 2.2,
+      "double_fault_rate": 9.37,
+      "total_serve_pts": 363,
+      "total_aces": 8,
+      "total_dfs": 34,
+      "matches": 5,
+      "gender": "W"
+    },
+    "Kathinka Von Deichmann": {
+      "ace_rate": 0.69,
+      "double_fault_rate": 6.9,
+      "total_serve_pts": 145,
+      "total_aces": 1,
+      "total_dfs": 10,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Samantha Stosur": {
+      "ace_rate": 5.86,
+      "double_fault_rate": 4.89,
+      "total_serve_pts": 1757,
+      "total_aces": 103,
+      "total_dfs": 86,
+      "matches": 25,
+      "gender": "W"
+    },
+    "Monica Puig": {
+      "ace_rate": 3.39,
+      "double_fault_rate": 5.42,
+      "total_serve_pts": 590,
+      "total_aces": 20,
+      "total_dfs": 32,
+      "matches": 10,
+      "gender": "W"
+    },
+    "Pemra Ozgen": {
+      "ace_rate": 0.67,
+      "double_fault_rate": 0.67,
+      "total_serve_pts": 149,
+      "total_aces": 1,
+      "total_dfs": 1,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Mihaela Buzarnescu": {
+      "ace_rate": 0.77,
+      "double_fault_rate": 6.18,
+      "total_serve_pts": 518,
+      "total_aces": 4,
+      "total_dfs": 32,
+      "matches": 7,
+      "gender": "W"
+    },
+    "Laura Pigossi": {
+      "ace_rate": 0.46,
+      "double_fault_rate": 1.85,
+      "total_serve_pts": 216,
+      "total_aces": 1,
+      "total_dfs": 4,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Astra Sharma": {
+      "ace_rate": 5.98,
+      "double_fault_rate": 5.98,
+      "total_serve_pts": 435,
+      "total_aces": 26,
+      "total_dfs": 26,
+      "matches": 5,
+      "gender": "W"
+    },
+    "Ana Konjuh": {
+      "ace_rate": 4.73,
+      "double_fault_rate": 6.55,
+      "total_serve_pts": 656,
+      "total_aces": 31,
+      "total_dfs": 43,
+      "matches": 9,
+      "gender": "W"
+    },
+    "Paula Ormaechea": {
+      "ace_rate": 2.68,
+      "double_fault_rate": 2.01,
+      "total_serve_pts": 149,
+      "total_aces": 4,
+      "total_dfs": 3,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Ashleigh Barty": {
+      "ace_rate": 8.47,
+      "double_fault_rate": 3.77,
+      "total_serve_pts": 3552,
+      "total_aces": 301,
+      "total_dfs": 134,
+      "matches": 50,
+      "gender": "W"
+    },
+    "Indy De Vroome": {
+      "ace_rate": 4.12,
+      "double_fault_rate": 14.09,
+      "total_serve_pts": 291,
+      "total_aces": 12,
+      "total_dfs": 41,
+      "matches": 3,
+      "gender": "W"
+    },
+    "Urszula Radwanska": {
+      "ace_rate": 1.35,
+      "double_fault_rate": 5.41,
+      "total_serve_pts": 222,
+      "total_aces": 3,
+      "total_dfs": 12,
+      "matches": 3,
+      "gender": "W"
+    },
+    "Carla Suarez Navarro": {
+      "ace_rate": 1.33,
+      "double_fault_rate": 2.49,
+      "total_serve_pts": 2413,
+      "total_aces": 32,
+      "total_dfs": 60,
+      "matches": 34,
+      "gender": "W"
+    },
+    "Polona Hercog": {
+      "ace_rate": 2.92,
+      "double_fault_rate": 4.86,
+      "total_serve_pts": 1337,
+      "total_aces": 39,
+      "total_dfs": 65,
+      "matches": 17,
+      "gender": "W"
+    },
+    "Kim Clijsters": {
+      "ace_rate": 3.51,
+      "double_fault_rate": 6.96,
+      "total_serve_pts": 1653,
+      "total_aces": 58,
+      "total_dfs": 115,
+      "matches": 21,
+      "gender": "W"
+    },
+    "Richel Hogenkamp": {
+      "ace_rate": 0.7,
+      "double_fault_rate": 3.49,
+      "total_serve_pts": 430,
+      "total_aces": 3,
+      "total_dfs": 15,
+      "matches": 5,
+      "gender": "W"
+    },
+    "Mona Barthel": {
+      "ace_rate": 3.69,
+      "double_fault_rate": 6.33,
+      "total_serve_pts": 569,
+      "total_aces": 21,
+      "total_dfs": 36,
+      "matches": 9,
+      "gender": "W"
+    },
+    "Misaki Doi": {
+      "ace_rate": 1.65,
+      "double_fault_rate": 3.99,
+      "total_serve_pts": 726,
+      "total_aces": 12,
+      "total_dfs": 29,
+      "matches": 9,
+      "gender": "W"
+    },
+    "Kiki Bertens": {
+      "ace_rate": 7.05,
+      "double_fault_rate": 5.9,
+      "total_serve_pts": 8451,
+      "total_aces": 596,
+      "total_dfs": 499,
+      "matches": 121,
+      "gender": "W"
+    },
+    "Ekaterine Gorgodze": {
+      "ace_rate": 0.99,
+      "double_fault_rate": 3.96,
+      "total_serve_pts": 202,
+      "total_aces": 2,
+      "total_dfs": 8,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Weronika Baszak": {
+      "ace_rate": 1.75,
+      "double_fault_rate": 4.09,
+      "total_serve_pts": 171,
+      "total_aces": 3,
+      "total_dfs": 7,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Amina Anshba": {
+      "ace_rate": 0.0,
+      "double_fault_rate": 2.52,
+      "total_serve_pts": 159,
+      "total_aces": 0,
+      "total_dfs": 4,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Kateryna Bondarenko": {
+      "ace_rate": 1.63,
+      "double_fault_rate": 6.27,
+      "total_serve_pts": 367,
+      "total_aces": 6,
+      "total_dfs": 23,
+      "matches": 5,
+      "gender": "W"
+    },
+    "Quirine Lemoine": {
+      "ace_rate": 2.68,
+      "double_fault_rate": 6.25,
+      "total_serve_pts": 224,
+      "total_aces": 6,
+      "total_dfs": 14,
+      "matches": 3,
+      "gender": "W"
+    },
+    "Vitalia Diatchenko": {
+      "ace_rate": 3.01,
+      "double_fault_rate": 8.27,
+      "total_serve_pts": 266,
+      "total_aces": 8,
+      "total_dfs": 22,
+      "matches": 5,
+      "gender": "W"
+    },
+    "Svetlana Kuznetsova": {
+      "ace_rate": 4.14,
+      "double_fault_rate": 4.22,
+      "total_serve_pts": 2439,
+      "total_aces": 101,
+      "total_dfs": 103,
+      "matches": 29,
+      "gender": "W"
+    },
+    "Christina Mchale": {
+      "ace_rate": 1.97,
+      "double_fault_rate": 5.9,
+      "total_serve_pts": 610,
+      "total_aces": 12,
+      "total_dfs": 36,
+      "matches": 8,
+      "gender": "W"
+    },
+    "Georgina Garcia Perez": {
+      "ace_rate": 9.54,
+      "double_fault_rate": 2.29,
+      "total_serve_pts": 262,
+      "total_aces": 25,
+      "total_dfs": 6,
+      "matches": 3,
+      "gender": "W"
+    },
+    "Irina Khromacheva": {
+      "ace_rate": 1.41,
+      "double_fault_rate": 8.45,
+      "total_serve_pts": 142,
+      "total_aces": 2,
+      "total_dfs": 12,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Anastasija Sevastova": {
+      "ace_rate": 3.32,
+      "double_fault_rate": 3.42,
+      "total_serve_pts": 1023,
+      "total_aces": 34,
+      "total_dfs": 35,
+      "matches": 14,
+      "gender": "W"
+    },
+    "Ulrikke Eikeri": {
+      "ace_rate": 2.34,
+      "double_fault_rate": 3.12,
+      "total_serve_pts": 128,
+      "total_aces": 3,
+      "total_dfs": 4,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Ann Li": {
+      "ace_rate": 3.6,
+      "double_fault_rate": 5.41,
+      "total_serve_pts": 111,
+      "total_aces": 4,
+      "total_dfs": 6,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Carol Zhao": {
+      "ace_rate": 2.94,
+      "double_fault_rate": 8.82,
+      "total_serve_pts": 102,
+      "total_aces": 3,
+      "total_dfs": 9,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Zarina Diyas": {
+      "ace_rate": 1.19,
+      "double_fault_rate": 5.0,
+      "total_serve_pts": 420,
+      "total_aces": 5,
+      "total_dfs": 21,
+      "matches": 7,
+      "gender": "W"
+    },
+    "Destanee Aiava": {
+      "ace_rate": 5.47,
+      "double_fault_rate": 6.25,
+      "total_serve_pts": 128,
+      "total_aces": 7,
+      "total_dfs": 8,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Chloe Paquet": {
+      "ace_rate": 6.45,
+      "double_fault_rate": 7.37,
+      "total_serve_pts": 217,
+      "total_aces": 14,
+      "total_dfs": 16,
+      "matches": 3,
+      "gender": "W"
+    },
+    "Tsvetana Pironkova": {
+      "ace_rate": 3.49,
+      "double_fault_rate": 3.49,
+      "total_serve_pts": 573,
+      "total_aces": 20,
+      "total_dfs": 20,
+      "matches": 8,
+      "gender": "W"
+    },
+    "Julia Goerges": {
+      "ace_rate": 6.72,
+      "double_fault_rate": 3.61,
+      "total_serve_pts": 1636,
+      "total_aces": 110,
+      "total_dfs": 59,
+      "matches": 23,
+      "gender": "W"
+    },
+    "Monica Niculescu": {
+      "ace_rate": 0.99,
+      "double_fault_rate": 1.89,
+      "total_serve_pts": 1007,
+      "total_aces": 10,
+      "total_dfs": 19,
+      "matches": 14,
+      "gender": "W"
+    },
+    "Katarina Zavatska": {
+      "ace_rate": 0.0,
+      "double_fault_rate": 2.36,
+      "total_serve_pts": 127,
+      "total_aces": 0,
+      "total_dfs": 3,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Johanna Konta": {
+      "ace_rate": 5.75,
+      "double_fault_rate": 2.91,
+      "total_serve_pts": 1339,
+      "total_aces": 77,
+      "total_dfs": 39,
+      "matches": 18,
+      "gender": "W"
+    },
+    "Varvara Flink": {
+      "ace_rate": 1.27,
+      "double_fault_rate": 8.86,
+      "total_serve_pts": 79,
+      "total_aces": 1,
+      "total_dfs": 7,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Saisai Zheng": {
+      "ace_rate": 2.33,
+      "double_fault_rate": 4.49,
+      "total_serve_pts": 602,
+      "total_aces": 14,
+      "total_dfs": 27,
+      "matches": 9,
+      "gender": "W"
+    },
+    "Vera Zvonareva": {
+      "ace_rate": 2.54,
+      "double_fault_rate": 5.25,
+      "total_serve_pts": 591,
+      "total_aces": 15,
+      "total_dfs": 31,
+      "matches": 9,
+      "gender": "W"
+    },
+    "Yaroslava Shvedova": {
+      "ace_rate": 5.93,
+      "double_fault_rate": 2.22,
+      "total_serve_pts": 135,
+      "total_aces": 8,
+      "total_dfs": 3,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Patricia Maria Tig": {
+      "ace_rate": 2.3,
+      "double_fault_rate": 6.21,
+      "total_serve_pts": 435,
+      "total_aces": 10,
+      "total_dfs": 27,
+      "matches": 7,
+      "gender": "W"
+    },
+    "Catherine Cartan Bellis": {
+      "ace_rate": 1.57,
+      "double_fault_rate": 3.14,
+      "total_serve_pts": 191,
+      "total_aces": 3,
+      "total_dfs": 6,
+      "matches": 3,
+      "gender": "W"
+    },
+    "Arina Rodionova": {
+      "ace_rate": 3.29,
+      "double_fault_rate": 3.29,
+      "total_serve_pts": 213,
+      "total_aces": 7,
+      "total_dfs": 7,
+      "matches": 3,
+      "gender": "W"
+    },
+    "Maria Sharapova": {
+      "ace_rate": 5.75,
+      "double_fault_rate": 8.39,
+      "total_serve_pts": 6507,
+      "total_aces": 374,
+      "total_dfs": 546,
+      "matches": 94,
+      "gender": "W"
+    },
+    "Kristie Ahn": {
+      "ace_rate": 1.53,
+      "double_fault_rate": 3.82,
+      "total_serve_pts": 131,
+      "total_aces": 2,
+      "total_dfs": 5,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Lizette Cabrera": {
+      "ace_rate": 0.0,
+      "double_fault_rate": 4.79,
+      "total_serve_pts": 188,
+      "total_aces": 0,
+      "total_dfs": 9,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Kristyna Pliskova": {
+      "ace_rate": 9.42,
+      "double_fault_rate": 5.38,
+      "total_serve_pts": 223,
+      "total_aces": 21,
+      "total_dfs": 12,
+      "matches": 3,
+      "gender": "W"
+    },
+    "Shuai Peng": {
+      "ace_rate": 3.44,
+      "double_fault_rate": 3.66,
+      "total_serve_pts": 465,
+      "total_aces": 16,
+      "total_dfs": 17,
+      "matches": 7,
+      "gender": "W"
+    },
+    "Risa Ozaki": {
+      "ace_rate": 0.63,
+      "double_fault_rate": 1.9,
+      "total_serve_pts": 158,
+      "total_aces": 1,
+      "total_dfs": 3,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Francesca Di Lorenzo": {
+      "ace_rate": 0.92,
+      "double_fault_rate": 1.83,
+      "total_serve_pts": 109,
+      "total_aces": 1,
+      "total_dfs": 2,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Whitney Osuigwe": {
+      "ace_rate": 1.08,
+      "double_fault_rate": 5.91,
+      "total_serve_pts": 186,
+      "total_aces": 2,
+      "total_dfs": 11,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Margarita Gasparyan": {
+      "ace_rate": 5.25,
+      "double_fault_rate": 5.01,
+      "total_serve_pts": 419,
+      "total_aces": 22,
+      "total_dfs": 21,
+      "matches": 6,
+      "gender": "W"
+    },
+    "Ivana Jorovic": {
+      "ace_rate": 7.32,
+      "double_fault_rate": 7.32,
+      "total_serve_pts": 123,
+      "total_aces": 9,
+      "total_dfs": 9,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Caty Mcnally": {
+      "ace_rate": 4.13,
+      "double_fault_rate": 8.68,
+      "total_serve_pts": 242,
+      "total_aces": 10,
+      "total_dfs": 21,
+      "matches": 3,
+      "gender": "W"
+    },
+    "Magdalena Rybarikova": {
+      "ace_rate": 5.7,
+      "double_fault_rate": 3.56,
+      "total_serve_pts": 421,
+      "total_aces": 24,
+      "total_dfs": 15,
+      "matches": 8,
+      "gender": "W"
+    },
+    "Timea Bacsinszky": {
+      "ace_rate": 2.01,
+      "double_fault_rate": 3.67,
+      "total_serve_pts": 844,
+      "total_aces": 17,
+      "total_dfs": 31,
+      "matches": 14,
+      "gender": "W"
+    },
+    "Mandy Minella": {
+      "ace_rate": 2.0,
+      "double_fault_rate": 4.0,
+      "total_serve_pts": 150,
+      "total_aces": 3,
+      "total_dfs": 6,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Natalia Vikhlyantseva": {
+      "ace_rate": 3.48,
+      "double_fault_rate": 9.06,
+      "total_serve_pts": 287,
+      "total_aces": 10,
+      "total_dfs": 26,
+      "matches": 4,
+      "gender": "W"
+    },
+    "Johanna Larsson": {
+      "ace_rate": 2.13,
+      "double_fault_rate": 5.05,
+      "total_serve_pts": 376,
+      "total_aces": 8,
+      "total_dfs": 19,
+      "matches": 7,
+      "gender": "W"
+    },
+    "Pauline Parmentier": {
+      "ace_rate": 3.56,
+      "double_fault_rate": 4.53,
+      "total_serve_pts": 309,
+      "total_aces": 11,
+      "total_dfs": 14,
+      "matches": 5,
+      "gender": "W"
+    },
+    "Dominika Cibulkova": {
+      "ace_rate": 0.97,
+      "double_fault_rate": 5.56,
+      "total_serve_pts": 1959,
+      "total_aces": 19,
+      "total_dfs": 109,
+      "matches": 27,
+      "gender": "W"
+    },
+    "Lara Arruabarrena": {
+      "ace_rate": 0.0,
+      "double_fault_rate": 3.57,
+      "total_serve_pts": 168,
+      "total_aces": 0,
+      "total_dfs": 6,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Ankita Raina": {
+      "ace_rate": 0.0,
+      "double_fault_rate": 0.0,
+      "total_serve_pts": 110,
+      "total_aces": 0,
+      "total_dfs": 0,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Stefanie Voegele": {
+      "ace_rate": 5.56,
+      "double_fault_rate": 3.7,
+      "total_serve_pts": 108,
+      "total_aces": 6,
+      "total_dfs": 4,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Tereza Smitkova": {
+      "ace_rate": 6.88,
+      "double_fault_rate": 5.62,
+      "total_serve_pts": 320,
+      "total_aces": 22,
+      "total_dfs": 18,
+      "matches": 4,
+      "gender": "W"
+    },
+    "Timea Babos": {
+      "ace_rate": 2.45,
+      "double_fault_rate": 4.08,
+      "total_serve_pts": 245,
+      "total_aces": 6,
+      "total_dfs": 10,
+      "matches": 4,
+      "gender": "W"
+    },
+    "Ying Ying Duan": {
+      "ace_rate": 1.6,
+      "double_fault_rate": 3.21,
+      "total_serve_pts": 187,
+      "total_aces": 3,
+      "total_dfs": 6,
+      "matches": 3,
+      "gender": "W"
+    },
+    "Valentini Grammatikopoulou": {
+      "ace_rate": 2.54,
+      "double_fault_rate": 5.93,
+      "total_serve_pts": 118,
+      "total_aces": 3,
+      "total_dfs": 7,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Nicole Gibbs": {
+      "ace_rate": 2.69,
+      "double_fault_rate": 6.1,
+      "total_serve_pts": 557,
+      "total_aces": 15,
+      "total_dfs": 34,
+      "matches": 8,
+      "gender": "W"
+    },
+    "Kate Makarova": {
+      "ace_rate": 3.75,
+      "double_fault_rate": 2.91,
+      "total_serve_pts": 1066,
+      "total_aces": 40,
+      "total_dfs": 31,
+      "matches": 14,
+      "gender": "W"
+    },
+    "Coco Vandeweghe": {
+      "ace_rate": 9.63,
+      "double_fault_rate": 5.38,
+      "total_serve_pts": 966,
+      "total_aces": 93,
+      "total_dfs": 52,
+      "matches": 14,
+      "gender": "W"
+    },
+    "Kurumi Nara": {
+      "ace_rate": 0.83,
+      "double_fault_rate": 2.89,
+      "total_serve_pts": 242,
+      "total_aces": 2,
+      "total_dfs": 7,
+      "matches": 4,
+      "gender": "W"
+    },
+    "Luksika Kumkhum": {
+      "ace_rate": 0.68,
+      "double_fault_rate": 6.08,
+      "total_serve_pts": 148,
+      "total_aces": 1,
+      "total_dfs": 9,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Agnieszka Radwanska": {
+      "ace_rate": 3.07,
+      "double_fault_rate": 1.9,
+      "total_serve_pts": 3683,
+      "total_aces": 113,
+      "total_dfs": 70,
+      "matches": 49,
+      "gender": "W"
+    },
+    "Carina Witthoeft": {
+      "ace_rate": 4.13,
+      "double_fault_rate": 7.34,
+      "total_serve_pts": 436,
+      "total_aces": 18,
+      "total_dfs": 32,
+      "matches": 7,
+      "gender": "W"
+    },
+    "Francesca Schiavone": {
+      "ace_rate": 2.71,
+      "double_fault_rate": 4.82,
+      "total_serve_pts": 850,
+      "total_aces": 23,
+      "total_dfs": 41,
+      "matches": 10,
+      "gender": "W"
+    },
+    "Lucie Safarova": {
+      "ace_rate": 7.05,
+      "double_fault_rate": 4.56,
+      "total_serve_pts": 1887,
+      "total_aces": 133,
+      "total_dfs": 86,
+      "matches": 26,
+      "gender": "W"
+    },
+    "Roberta Vinci": {
+      "ace_rate": 3.45,
+      "double_fault_rate": 2.59,
+      "total_serve_pts": 579,
+      "total_aces": 20,
+      "total_dfs": 15,
+      "matches": 8,
+      "gender": "W"
+    },
+    "Denisa Allertova": {
+      "ace_rate": 1.61,
+      "double_fault_rate": 5.65,
+      "total_serve_pts": 124,
+      "total_aces": 2,
+      "total_dfs": 7,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Annika Beck": {
+      "ace_rate": 1.22,
+      "double_fault_rate": 7.72,
+      "total_serve_pts": 246,
+      "total_aces": 3,
+      "total_dfs": 19,
+      "matches": 3,
+      "gender": "W"
+    },
+    "Louisa Chirico": {
+      "ace_rate": 3.07,
+      "double_fault_rate": 6.14,
+      "total_serve_pts": 521,
+      "total_aces": 16,
+      "total_dfs": 32,
+      "matches": 8,
+      "gender": "W"
+    },
+    "Michaella Krajicek": {
+      "ace_rate": 10.67,
+      "double_fault_rate": 3.33,
+      "total_serve_pts": 300,
+      "total_aces": 32,
+      "total_dfs": 10,
+      "matches": 4,
+      "gender": "W"
+    },
+    "Mirjana Lucic": {
+      "ace_rate": 3.95,
+      "double_fault_rate": 7.46,
+      "total_serve_pts": 228,
+      "total_aces": 9,
+      "total_dfs": 17,
+      "matches": 4,
+      "gender": "W"
+    },
+    "Jelena Jankovic": {
+      "ace_rate": 3.29,
+      "double_fault_rate": 5.12,
+      "total_serve_pts": 1581,
+      "total_aces": 52,
+      "total_dfs": 81,
+      "matches": 24,
+      "gender": "W"
+    },
+    "Elena Vesnina": {
+      "ace_rate": 4.11,
+      "double_fault_rate": 7.12,
+      "total_serve_pts": 365,
+      "total_aces": 15,
+      "total_dfs": 26,
+      "matches": 6,
+      "gender": "W"
+    },
+    "Varvara Lepchenko": {
+      "ace_rate": 4.92,
+      "double_fault_rate": 7.95,
+      "total_serve_pts": 264,
+      "total_aces": 13,
+      "total_dfs": 21,
+      "matches": 4,
+      "gender": "W"
+    },
+    "Ana Ivanovic": {
+      "ace_rate": 5.39,
+      "double_fault_rate": 6.12,
+      "total_serve_pts": 3301,
+      "total_aces": 178,
+      "total_dfs": 202,
+      "matches": 47,
+      "gender": "W"
+    },
+    "Irina Falconi": {
+      "ace_rate": 0.0,
+      "double_fault_rate": 7.69,
+      "total_serve_pts": 182,
+      "total_aces": 0,
+      "total_dfs": 14,
+      "matches": 3,
+      "gender": "W"
+    },
+    "Vania King": {
+      "ace_rate": 2.97,
+      "double_fault_rate": 9.9,
+      "total_serve_pts": 101,
+      "total_aces": 3,
+      "total_dfs": 10,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Bethanie Mattek Sands": {
+      "ace_rate": 0.68,
+      "double_fault_rate": 5.41,
+      "total_serve_pts": 148,
+      "total_aces": 1,
+      "total_dfs": 8,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Flavia Pennetta": {
+      "ace_rate": 4.32,
+      "double_fault_rate": 3.1,
+      "total_serve_pts": 902,
+      "total_aces": 39,
+      "total_dfs": 28,
+      "matches": 12,
+      "gender": "W"
+    },
+    "Mariana Duque Marino": {
+      "ace_rate": 7.55,
+      "double_fault_rate": 3.14,
+      "total_serve_pts": 159,
+      "total_aces": 12,
+      "total_dfs": 5,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Petra Cetkovska": {
+      "ace_rate": 1.72,
+      "double_fault_rate": 6.03,
+      "total_serve_pts": 232,
+      "total_aces": 4,
+      "total_dfs": 14,
+      "matches": 3,
+      "gender": "W"
+    },
+    "Andrea Hlavackova": {
+      "ace_rate": 5.45,
+      "double_fault_rate": 3.96,
+      "total_serve_pts": 202,
+      "total_aces": 11,
+      "total_dfs": 8,
+      "matches": 4,
+      "gender": "W"
+    },
+    "Silvia Soler Espinosa": {
+      "ace_rate": 0.69,
+      "double_fault_rate": 4.17,
+      "total_serve_pts": 144,
+      "total_aces": 1,
+      "total_dfs": 6,
+      "matches": 3,
+      "gender": "W"
+    },
+    "Daniela Hantuchova": {
+      "ace_rate": 2.95,
+      "double_fault_rate": 6.25,
+      "total_serve_pts": 576,
+      "total_aces": 17,
+      "total_dfs": 36,
+      "matches": 9,
+      "gender": "W"
+    },
+    "Jarmila Gajdosova": {
+      "ace_rate": 6.27,
+      "double_fault_rate": 5.37,
+      "total_serve_pts": 335,
+      "total_aces": 21,
+      "total_dfs": 18,
+      "matches": 5,
+      "gender": "W"
+    },
+    "Klara Koukalova": {
+      "ace_rate": 1.93,
+      "double_fault_rate": 4.13,
+      "total_serve_pts": 363,
+      "total_aces": 7,
+      "total_dfs": 15,
+      "matches": 6,
+      "gender": "W"
+    },
+    "Casey Dellacqua": {
+      "ace_rate": 1.77,
+      "double_fault_rate": 5.31,
+      "total_serve_pts": 113,
+      "total_aces": 2,
+      "total_dfs": 6,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Shahar Peer": {
+      "ace_rate": 0.86,
+      "double_fault_rate": 6.01,
+      "total_serve_pts": 233,
+      "total_aces": 2,
+      "total_dfs": 14,
+      "matches": 4,
+      "gender": "W"
+    },
+    "Aleksandra Wozniak": {
+      "ace_rate": 3.0,
+      "double_fault_rate": 10.0,
+      "total_serve_pts": 100,
+      "total_aces": 3,
+      "total_dfs": 10,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Alexandra Stevenson": {
+      "ace_rate": 5.68,
+      "double_fault_rate": 10.23,
+      "total_serve_pts": 88,
+      "total_aces": 5,
+      "total_dfs": 9,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Na Li": {
+      "ace_rate": 2.46,
+      "double_fault_rate": 4.23,
+      "total_serve_pts": 1016,
+      "total_aces": 25,
+      "total_dfs": 43,
+      "matches": 13,
+      "gender": "W"
+    },
+    "Lourdes Dominguez Lino": {
+      "ace_rate": 0.0,
+      "double_fault_rate": 3.45,
+      "total_serve_pts": 87,
+      "total_aces": 0,
+      "total_dfs": 3,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Anastasia Rodionova": {
+      "ace_rate": 2.68,
+      "double_fault_rate": 2.68,
+      "total_serve_pts": 112,
+      "total_aces": 3,
+      "total_dfs": 3,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Alla Kudryavtseva": {
+      "ace_rate": 3.31,
+      "double_fault_rate": 6.61,
+      "total_serve_pts": 121,
+      "total_aces": 4,
+      "total_dfs": 8,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Jamie Hampton": {
+      "ace_rate": 3.02,
+      "double_fault_rate": 4.52,
+      "total_serve_pts": 199,
+      "total_aces": 6,
+      "total_dfs": 9,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Laura Robson": {
+      "ace_rate": 7.74,
+      "double_fault_rate": 9.91,
+      "total_serve_pts": 323,
+      "total_aces": 25,
+      "total_dfs": 32,
+      "matches": 4,
+      "gender": "W"
+    },
+    "Marion Bartoli": {
+      "ace_rate": 1.01,
+      "double_fault_rate": 9.09,
+      "total_serve_pts": 396,
+      "total_aces": 4,
+      "total_dfs": 36,
+      "matches": 7,
+      "gender": "W"
+    },
+    "Maria Kirilenko": {
+      "ace_rate": 1.53,
+      "double_fault_rate": 3.82,
+      "total_serve_pts": 262,
+      "total_aces": 4,
+      "total_dfs": 10,
+      "matches": 4,
+      "gender": "W"
+    },
+    "Nadia Petrova": {
+      "ace_rate": 10.31,
+      "double_fault_rate": 5.01,
+      "total_serve_pts": 359,
+      "total_aces": 37,
+      "total_dfs": 18,
+      "matches": 6,
+      "gender": "W"
+    },
+    "Kimiko Date Krumm": {
+      "ace_rate": 0.62,
+      "double_fault_rate": 3.7,
+      "total_serve_pts": 324,
+      "total_aces": 2,
+      "total_dfs": 12,
+      "matches": 4,
+      "gender": "W"
+    },
+    "Ksenia Pervak": {
+      "ace_rate": 1.89,
+      "double_fault_rate": 8.49,
+      "total_serve_pts": 106,
+      "total_aces": 2,
+      "total_dfs": 9,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Maria Jose Martinez Sanchez": {
+      "ace_rate": 0.75,
+      "double_fault_rate": 3.76,
+      "total_serve_pts": 133,
+      "total_aces": 1,
+      "total_dfs": 5,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Aravane Rezai": {
+      "ace_rate": 4.0,
+      "double_fault_rate": 9.33,
+      "total_serve_pts": 150,
+      "total_aces": 6,
+      "total_dfs": 14,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Gisela Dulko": {
+      "ace_rate": 2.31,
+      "double_fault_rate": 4.62,
+      "total_serve_pts": 130,
+      "total_aces": 3,
+      "total_dfs": 6,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Dinara Safina": {
+      "ace_rate": 3.22,
+      "double_fault_rate": 10.21,
+      "total_serve_pts": 901,
+      "total_aces": 29,
+      "total_dfs": 92,
+      "matches": 12,
+      "gender": "W"
+    },
+    "Elena Dementieva": {
+      "ace_rate": 1.52,
+      "double_fault_rate": 5.3,
+      "total_serve_pts": 528,
+      "total_aces": 8,
+      "total_dfs": 28,
+      "matches": 7,
+      "gender": "W"
+    },
+    "Alisa Kleybanova": {
+      "ace_rate": 3.7,
+      "double_fault_rate": 2.65,
+      "total_serve_pts": 189,
+      "total_aces": 7,
+      "total_dfs": 5,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Justine Henin": {
+      "ace_rate": 3.73,
+      "double_fault_rate": 6.61,
+      "total_serve_pts": 2223,
+      "total_aces": 83,
+      "total_dfs": 147,
+      "matches": 34,
+      "gender": "W"
+    },
+    "Patty Schnyder": {
+      "ace_rate": 4.13,
+      "double_fault_rate": 0.46,
+      "total_serve_pts": 218,
+      "total_aces": 9,
+      "total_dfs": 1,
+      "matches": 3,
+      "gender": "W"
+    },
+    "Amelie Mauresmo": {
+      "ace_rate": 4.66,
+      "double_fault_rate": 4.16,
+      "total_serve_pts": 1417,
+      "total_aces": 66,
+      "total_dfs": 59,
+      "matches": 17,
+      "gender": "W"
+    },
+    "Jelena Dokic": {
+      "ace_rate": 2.3,
+      "double_fault_rate": 9.22,
+      "total_serve_pts": 434,
+      "total_aces": 10,
+      "total_dfs": 40,
+      "matches": 6,
+      "gender": "W"
+    },
+    "Tatiana Golovin": {
+      "ace_rate": 3.77,
+      "double_fault_rate": 3.77,
+      "total_serve_pts": 106,
+      "total_aces": 4,
+      "total_dfs": 4,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Martina Hingis": {
+      "ace_rate": 2.41,
+      "double_fault_rate": 3.17,
+      "total_serve_pts": 2243,
+      "total_aces": 54,
+      "total_dfs": 71,
+      "matches": 31,
+      "gender": "W"
+    },
+    "Lindsay Davenport": {
+      "ace_rate": 5.89,
+      "double_fault_rate": 4.18,
+      "total_serve_pts": 1699,
+      "total_aces": 100,
+      "total_dfs": 71,
+      "matches": 23,
+      "gender": "W"
+    },
+    "Mary Pierce": {
+      "ace_rate": 2.76,
+      "double_fault_rate": 3.33,
+      "total_serve_pts": 1050,
+      "total_aces": 29,
+      "total_dfs": 35,
+      "matches": 17,
+      "gender": "W"
+    },
+    "Anastasia Myskina": {
+      "ace_rate": 2.76,
+      "double_fault_rate": 5.51,
+      "total_serve_pts": 399,
+      "total_aces": 11,
+      "total_dfs": 22,
+      "matches": 5,
+      "gender": "W"
+    },
+    "Monica Seles": {
+      "ace_rate": 3.11,
+      "double_fault_rate": 3.64,
+      "total_serve_pts": 2282,
+      "total_aces": 71,
+      "total_dfs": 83,
+      "matches": 30,
+      "gender": "W"
+    },
+    "Jennifer Capriati": {
+      "ace_rate": 2.86,
+      "double_fault_rate": 5.48,
+      "total_serve_pts": 840,
+      "total_aces": 24,
+      "total_dfs": 46,
+      "matches": 10,
+      "gender": "W"
+    },
+    "Conchita Martinez": {
+      "ace_rate": 1.51,
+      "double_fault_rate": 2.64,
+      "total_serve_pts": 530,
+      "total_aces": 8,
+      "total_dfs": 14,
+      "matches": 7,
+      "gender": "W"
+    },
+    "Anna Kournikova": {
+      "ace_rate": 1.79,
+      "double_fault_rate": 5.36,
+      "total_serve_pts": 112,
+      "total_aces": 2,
+      "total_dfs": 6,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Steffi Graf": {
+      "ace_rate": 4.01,
+      "double_fault_rate": 2.87,
+      "total_serve_pts": 5604,
+      "total_aces": 225,
+      "total_dfs": 161,
+      "matches": 78,
+      "gender": "W"
+    },
+    "Jana Novotna": {
+      "ace_rate": 3.39,
+      "double_fault_rate": 4.6,
+      "total_serve_pts": 826,
+      "total_aces": 28,
+      "total_dfs": 38,
+      "matches": 12,
+      "gender": "W"
+    },
+    "Amanda Coetzer": {
+      "ace_rate": 0.0,
+      "double_fault_rate": 4.88,
+      "total_serve_pts": 164,
+      "total_aces": 0,
+      "total_dfs": 8,
+      "matches": 3,
+      "gender": "W"
+    },
+    "Nathalie Tauziat": {
+      "ace_rate": 3.87,
+      "double_fault_rate": 4.52,
+      "total_serve_pts": 155,
+      "total_aces": 6,
+      "total_dfs": 7,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Natalia Zvereva": {
+      "ace_rate": 2.37,
+      "double_fault_rate": 3.55,
+      "total_serve_pts": 169,
+      "total_aces": 4,
+      "total_dfs": 6,
+      "matches": 3,
+      "gender": "W"
+    },
+    "Arantxa Sanchez Vicario": {
+      "ace_rate": 1.5,
+      "double_fault_rate": 2.11,
+      "total_serve_pts": 1662,
+      "total_aces": 25,
+      "total_dfs": 35,
+      "matches": 23,
+      "gender": "W"
+    },
+    "Gabriela Sabatini": {
+      "ace_rate": 1.87,
+      "double_fault_rate": 3.51,
+      "total_serve_pts": 855,
+      "total_aces": 16,
+      "total_dfs": 30,
+      "matches": 13,
+      "gender": "W"
+    },
+    "Martina Navratilova": {
+      "ace_rate": 3.07,
+      "double_fault_rate": 3.07,
+      "total_serve_pts": 2511,
+      "total_aces": 77,
+      "total_dfs": 77,
+      "matches": 31,
+      "gender": "W"
+    },
+    "Helena Sukova": {
+      "ace_rate": 4.39,
+      "double_fault_rate": 7.68,
+      "total_serve_pts": 547,
+      "total_aces": 24,
+      "total_dfs": 42,
+      "matches": 7,
+      "gender": "W"
+    },
+    "Mary Joe Fernandez": {
+      "ace_rate": 0.9,
+      "double_fault_rate": 2.24,
+      "total_serve_pts": 223,
+      "total_aces": 2,
+      "total_dfs": 5,
+      "matches": 3,
+      "gender": "W"
+    },
+    "Zina Garrison": {
+      "ace_rate": 0.86,
+      "double_fault_rate": 4.9,
+      "total_serve_pts": 347,
+      "total_aces": 3,
+      "total_dfs": 17,
+      "matches": 5,
+      "gender": "W"
+    },
+    "Manuela Maleeva Fragniere": {
+      "ace_rate": 0.89,
+      "double_fault_rate": 4.46,
+      "total_serve_pts": 112,
+      "total_aces": 1,
+      "total_dfs": 5,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Chris Evert": {
+      "ace_rate": 0.23,
+      "double_fault_rate": 3.2,
+      "total_serve_pts": 1750,
+      "total_aces": 4,
+      "total_dfs": 56,
+      "matches": 24,
+      "gender": "W"
+    },
+    "Katerina Maleeva": {
+      "ace_rate": 0.0,
+      "double_fault_rate": 2.42,
+      "total_serve_pts": 124,
+      "total_aces": 0,
+      "total_dfs": 3,
+      "matches": 2,
+      "gender": "W"
+    },
+    "Hana Mandlikova": {
+      "ace_rate": 4.82,
+      "double_fault_rate": 5.54,
+      "total_serve_pts": 415,
+      "total_aces": 20,
+      "total_dfs": 23,
+      "matches": 6,
+      "gender": "W"
+    },
+    "Claudia Kohde Kilsch": {
+      "ace_rate": 1.03,
+      "double_fault_rate": 9.23,
+      "total_serve_pts": 195,
+      "total_aces": 2,
+      "total_dfs": 18,
+      "matches": 2,
+      "gender": "W"
+    }
+  },
+  "rally_distributions": {
+    "M": {
+      "raw_counts": {
+        "Total": 1014303,
+        "1-3": 600725,
+        "4-6": 222311,
+        "7-9": 99915,
+        "10": 91351,
+        "1-3-1": 306244,
+        "4-6-1": 111501,
+        "7-9-1": 49397,
+        "10-1": 44728,
+        "1-3-2": 294481,
+        "4-6-2": 110810,
+        "7-9-2": 50518,
+        "10-2": 46623
+      },
+      "percentages": {
+        "Total": 33.33335524220754,
+        "1-3": 19.741812681097386,
+        "4-6": 7.305875598564136,
+        "7-9": 3.283537748606842,
+        "10": 3.00209635062787,
+        "1-3-1": 10.064191905963607,
+        "4-6-1": 3.6642920733364512,
+        "7-9-1": 1.6233489883193932,
+        "10-1": 1.4699101878565464,
+        "1-3-2": 9.677620775133779,
+        "4-6-2": 3.641583525227685,
+        "7-9-2": 1.660188760287449,
+        "10-2": 1.5321861627713236
+      },
+      "total_points": 3042907
+    },
+    "W": {
+      "raw_counts": {
+        "Total": 433518,
+        "1-3": 238846,
+        "4-6": 106999,
+        "7-9": 49814,
+        "10": 37859,
+        "1-3-1": 122278,
+        "4-6-1": 54021,
+        "7-9-1": 25201,
+        "10-1": 18735,
+        "1-3-2": 116568,
+        "4-6-2": 52978,
+        "7-9-2": 24613,
+        "10-2": 19124
+      },
+      "percentages": {
+        "Total": 33.33333333333333,
+        "1-3": 18.36494293970108,
+        "4-6": 8.227186260624318,
+        "7-9": 3.830213893463862,
+        "10": 2.910990239544071,
+        "1-3-1": 9.40199330439182,
+        "4-6-1": 4.153691426884235,
+        "7-9-1": 1.9377126978195447,
+        "10-1": 1.4405399545116926,
+        "1-3-2": 8.96294963530926,
+        "4-6-2": 4.073494833740083,
+        "7-9-2": 1.8925011956443176,
+        "10-2": 1.4704502850323784
+      },
+      "total_points": 1300554
+    }
+  },
+  "summary": {
+    "players_with_real_data": 914,
+    "men_players": 532,
+    "women_players": 382
+  }
+}

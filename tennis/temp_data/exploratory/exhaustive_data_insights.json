@@ -1,0 +1,514 @@
+{
+  "temporal": {
+    "era_analysis": {
+      "to-2009": {
+        "total_points": 290365,
+        "avg_notation_length": 30.25,
+        "unique_matches": 1508
+      },
+      "2010s": {
+        "total_points": 329847,
+        "avg_notation_length": 42.258426966292134,
+        "unique_matches": 2061
+      },
+      "2020s": {
+        "total_points": 401892,
+        "avg_notation_length": 3.8575063613231553,
+        "unique_matches": 2436
+      }
+    }
+  },
+  "surface": {
+    "surface_analysis": {
+      "Hard": {
+        "total_points": 639437,
+        "unique_matches": 3845,
+        "avg_notation_length": 30.951923076923077,
+        "tournaments": 237,
+        "rounds": {
+          "SF": 112665,
+          "F": 110373,
+          "R32": 97548,
+          "R16": 81791,
+          "QF": 79920,
+          "R64": 60156,
+          "R128": 49027,
+          "RR": 42664,
+          "Q1": 1843,
+          "Q3": 1375,
+          "Q2": 991,
+          "BR": 990,
+          "PO": 94
+        }
+      },
+      "Clay": {
+        "total_points": 245182,
+        "unique_matches": 1483,
+        "avg_notation_length": 17.54054054054054,
+        "tournaments": 150,
+        "rounds": {
+          "F": 46472,
+          "R32": 38175,
+          "SF": 37713,
+          "QF": 33498,
+          "R16": 32516,
+          "R64": 29994,
+          "R128": 16445,
+          "RR": 7858,
+          "Q1": 1617,
+          "Q2": 401,
+          "Q3": 331,
+          "BR": 162
+        }
+      },
+      "Grass": {
+        "total_points": 137296,
+        "unique_matches": 676,
+        "avg_notation_length": 43.78829389788294,
+        "tournaments": 25,
+        "rounds": {
+          "SF": 27949,
+          "F": 23530,
+          "R16": 19878,
+          "QF": 18978,
+          "R128": 17565,
+          "R32": 16181,
+          "R64": 11681,
+          "RR": 1134,
+          "Q3": 145,
+          "BR": 133,
+          "Q2": 122
+        }
+      }
+    }
+  },
+  "players": {
+    "tier_analysis": {
+      "5": {
+        "count": 1286,
+        "avg_ace_rate": 3.234191290824261,
+        "avg_df_rate": 4.6425038880248835,
+        "avg_matches": 3.7589424572317265,
+        "gender_split": {
+          "M": 782,
+          "W": 504
+        }
+      },
+      "2": {
+        "count": 24,
+        "avg_ace_rate": 6.291250000000001,
+        "avg_df_rate": 3.125,
+        "avg_matches": 144.08333333333334,
+        "gender_split": {
+          "M": 18,
+          "W": 6
+        }
+      },
+      "4": {
+        "count": 143,
+        "avg_ace_rate": 3.88965034965035,
+        "avg_df_rate": 4.032867132867133,
+        "avg_matches": 31.125874125874127,
+        "gender_split": {
+          "M": 82,
+          "W": 61
+        }
+      },
+      "3": {
+        "count": 46,
+        "avg_ace_rate": 4.651304347826087,
+        "avg_df_rate": 3.597391304347826,
+        "avg_matches": 70.97826086956522,
+        "gender_split": {
+          "M": 26,
+          "W": 20
+        }
+      },
+      "1": {
+        "count": 6,
+        "avg_ace_rate": 7.706666666666666,
+        "avg_df_rate": 2.388333333333333,
+        "avg_matches": 374.3333333333333,
+        "gender_split": {
+          "M": 6
+        }
+      }
+    },
+    "extreme_players": {
+      "highest_ace_rate": [
+        "Rafael Nadal",
+        {
+          "ace_rate": 8.52,
+          "double_fault_rate": 2.69,
+          "first_serve_percentage": 63.0,
+          "service_points_won": 66.0,
+          "return_points_won": 34.0,
+          "rank": 4,
+          "matches": 398,
+          "gender": "M",
+          "rank_tier": 1,
+          "surface_preferences": {
+            "Hard": 0.507537688442211,
+            "Clay": 0.39949748743718594,
+            "Grass": 0.09296482412060302
+          }
+        }
+      ],
+      "lowest_ace_rate": [
+        "Linda Klimovicova",
+        {
+          "ace_rate": 1.6,
+          "double_fault_rate": 3.8,
+          "first_serve_percentage": 58.0,
+          "service_points_won": 51.0,
+          "return_points_won": 49.0,
+          "rank": 201,
+          "matches": 7,
+          "gender": "W",
+          "rank_tier": 5,
+          "surface_preferences": {
+            "Hard": 1.0
+          }
+        }
+      ],
+      "highest_df_rate": [
+        "Joanne Zuger",
+        {
+          "ace_rate": 2.39,
+          "double_fault_rate": 5.78,
+          "first_serve_percentage": 65.9,
+          "service_points_won": 56.9,
+          "return_points_won": 43.1,
+          "rank": 300,
+          "matches": 1,
+          "gender": "W",
+          "rank_tier": 5,
+          "surface_preferences": {
+            "Clay": 1.0
+          }
+        }
+      ],
+      "lowest_df_rate": [
+        "Andy Murray",
+        {
+          "ace_rate": 6.72,
+          "double_fault_rate": 2.02,
+          "first_serve_percentage": 59.4,
+          "service_points_won": 62.4,
+          "return_points_won": 37.6,
+          "rank": 19,
+          "matches": 245,
+          "gender": "M",
+          "rank_tier": 1,
+          "surface_preferences": {
+            "Clay": 0.1306122448979592,
+            "Hard": 0.7183673469387755,
+            "Grass": 0.1510204081632653
+          }
+        }
+      ],
+      "most_matches": [
+        "Roger Federer",
+        {
+          "ace_rate": 7.72,
+          "double_fault_rate": 2.4,
+          "first_serve_percentage": 61.4,
+          "service_points_won": 64.4,
+          "return_points_won": 35.6,
+          "rank": 4,
+          "matches": 607,
+          "gender": "M",
+          "rank_tier": 1,
+          "surface_preferences": {
+            "Grass": 0.17462932454695224,
+            "Clay": 0.18451400329489293,
+            "Hard": 0.6408566721581549
+          }
+        }
+      ]
+    }
+  },
+  "notation": {
+    "notation_patterns": {
+      "total_characters": 530761,
+      "unique_characters": 89,
+      "most_common_chars": [
+        [
+          " ",
+          89445
+        ],
+        [
+          "e",
+          49549
+        ],
+        [
+          "t",
+          37344
+        ],
+        [
+          "o",
+          31825
+        ],
+        [
+          "n",
+          28901
+        ],
+        [
+          "a",
+          28813
+        ],
+        [
+          "r",
+          26484
+        ],
+        [
+          "i",
+          25912
+        ],
+        [
+          "s",
+          23296
+        ],
+        [
+          "h",
+          21912
+        ],
+        [
+          "l",
+          19208
+        ],
+        [
+          "d",
+          15454
+        ],
+        [
+          "c",
+          11421
+        ],
+        [
+          "g",
+          11328
+        ],
+        [
+          "f",
+          10303
+        ],
+        [
+          "u",
+          9986
+        ],
+        [
+          "m",
+          8328
+        ],
+        [
+          "p",
+          8308
+        ],
+        [
+          "w",
+          7833
+        ],
+        [
+          "b",
+          7137
+        ]
+      ],
+      "avg_notation_length": 53.0761,
+      "notation_length_distribution": {
+        "7": 830,
+        "14": 278,
+        "24": 230,
+        "22": 198,
+        "28": 173,
+        "23": 165,
+        "9": 160,
+        "27": 157,
+        "26": 155,
+        "20": 151
+      }
+    }
+  },
+  "context": {
+    "tournament_analysis": {
+      "US Open": {
+        "matches": 450,
+        "surfaces": {
+          "Hard": 442,
+          "Grass": 5,
+          "Clay": 3
+        },
+        "rounds": {
+          "R128": 85,
+          "SF": 81,
+          "QF": 61,
+          "R64": 60,
+          "R32": 56,
+          "R16": 52,
+          "F": 49,
+          "Q3": 4,
+          "Q2": 1,
+          "Q1": 1
+        }
+      },
+      "Australian Open": {
+        "matches": 444,
+        "surfaces": {
+          "Hard": 430,
+          "Grass": 14
+        },
+        "rounds": {
+          "R128": 94,
+          "SF": 72,
+          "QF": 66,
+          "R32": 55,
+          "R16": 55,
+          "R64": 53,
+          "F": 41,
+          "Q1": 5,
+          "Q3": 2,
+          "Q2": 1
+        }
+      },
+      "Wimbledon": {
+        "matches": 387,
+        "surfaces": {
+          "Grass": 385,
+          "Hard": 2
+        },
+        "rounds": {
+          "SF": 85,
+          "R128": 66,
+          "QF": 59,
+          "R64": 49,
+          "F": 48,
+          "R16": 41,
+          "R32": 38,
+          "Q2": 1
+        }
+      },
+      "Roland Garros": {
+        "matches": 326,
+        "surfaces": {
+          "Clay": 326
+        },
+        "rounds": {
+          "R128": 64,
+          "SF": 62,
+          "QF": 46,
+          "F": 44,
+          "R64": 35,
+          "R32": 35,
+          "R16": 30,
+          "Q1": 6,
+          "Q2": 2,
+          "Q3": 2
+        }
+      },
+      "Indian Wells Masters": {
+        "matches": 262,
+        "surfaces": {
+          "Hard": 262
+        },
+        "rounds": {
+          "R64": 65,
+          "R32": 56,
+          "SF": 38,
+          "F": 27,
+          "R16": 27,
+          "R128": 26,
+          "QF": 23
+        }
+      },
+      "Miami Masters": {
+        "matches": 217,
+        "surfaces": {
+          "Hard": 217
+        },
+        "rounds": {
+          "R64": 52,
+          "R32": 39,
+          "F": 29,
+          "R16": 29,
+          "QF": 26,
+          "SF": 22,
+          "R128": 18,
+          "Q2": 1,
+          "Q1": 1
+        }
+      },
+      "Tour Finals": {
+        "matches": 208,
+        "surfaces": {
+          "Hard": 208
+        },
+        "rounds": {
+          "RR": 127,
+          "SF": 48,
+          "F": 33
+        }
+      },
+      "Paris Masters": {
+        "matches": 197,
+        "surfaces": {
+          "Hard": 197
+        },
+        "rounds": {
+          "SF": 54,
+          "R32": 36,
+          "F": 32,
+          "R16": 26,
+          "R64": 25,
+          "QF": 24
+        }
+      },
+      "Monte Carlo Masters": {
+        "matches": 186,
+        "surfaces": {
+          "Clay": 185,
+          "Hard": 1
+        },
+        "rounds": {
+          "R64": 38,
+          "R32": 36,
+          "SF": 32,
+          "R16": 29,
+          "QF": 27,
+          "F": 23,
+          "Q1": 1
+        }
+      },
+      "Canada Masters": {
+        "matches": 184,
+        "surfaces": {
+          "Hard": 184
+        },
+        "rounds": {
+          "SF": 55,
+          "F": 31,
+          "R32": 27,
+          "R64": 26,
+          "R16": 24,
+          "QF": 20,
+          "Q1": 1
+        }
+      }
+    },
+    "round_analysis": {
+      "SF": 1045,
+      "F": 1039,
+      "R32": 990,
+      "R16": 821,
+      "QF": 786,
+      "R64": 597,
+      "R128": 375,
+      "RR": 328,
+      "Q1": 24,
+      "Q3": 13,
+      "Q2": 11,
+      "BR": 7,
+      "Unipol Arena": 1,
+      "PO": 1
+    }
+  }
+}

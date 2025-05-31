@@ -1,0 +1,26 @@
+{
+  "Hard": {
+    "players_analyzed": 111,
+    "ace_variance_mean": 3.201682535297064,
+    "ace_variance_std": 1.5683583048149239,
+    "df_variance_mean": 0.9174738523297026,
+    "df_variance_std": 0.4391347565016596,
+    "overall_variance": 2.0595781938133833
+  },
+  "Clay": {
+    "players_analyzed": 40,
+    "ace_variance_mean": 2.7230184885383992,
+    "ace_variance_std": 1.2774035692821186,
+    "df_variance_mean": 0.9455463666598862,
+    "df_variance_std": 0.38391564207314416,
+    "overall_variance": 1.8342824275991427
+  },
+  "Grass": {
+    "players_analyzed": 26,
+    "ace_variance_mean": 2.4475147091028324,
+    "ace_variance_std": 1.127616523446769,
+    "df_variance_mean": 0.6860540189771658,
+    "df_variance_std": 0.3021318050965605,
+    "overall_variance": 1.5667843640399992
+  }
+}

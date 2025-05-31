@@ -1,0 +1,2442 @@
+{
+  "Roger Federer": {
+    "matches_analyzed": 200,
+    "ace_variance": 7.205,
+    "df_variance": 0.641,
+    "overall_variance": 3.923,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 0.92,
+    "mean_df_rate": 57.51
+  },
+  "Nikolay Davydenko": {
+    "matches_analyzed": 4,
+    "ace_variance": 0.0,
+    "df_variance": 0.136,
+    "overall_variance": 0.068,
+    "variance_level": "low",
+    "variance_multiplier": 0.08,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 88.02
+  },
+  "Rafael Nadal": {
+    "matches_analyzed": 152,
+    "ace_variance": 4.986,
+    "df_variance": 0.678,
+    "overall_variance": 2.832,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 0.6,
+    "mean_df_rate": 58.65
+  },
+  "Lleyton Hewitt": {
+    "matches_analyzed": 7,
+    "ace_variance": 2.224,
+    "df_variance": 0.364,
+    "overall_variance": 1.294,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 0.99,
+    "mean_df_rate": 70.05
+  },
+  "Jo Wilfried Tsonga": {
+    "matches_analyzed": 46,
+    "ace_variance": 3.767,
+    "df_variance": 0.598,
+    "overall_variance": 2.182,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 1.08,
+    "mean_df_rate": 65.71
+  },
+  "John Isner": {
+    "matches_analyzed": 57,
+    "ace_variance": 3.527,
+    "df_variance": 0.76,
+    "overall_variance": 2.144,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 1.38,
+    "mean_df_rate": 51.65
+  },
+  "Andy Murray": {
+    "matches_analyzed": 136,
+    "ace_variance": 3.661,
+    "df_variance": 0.752,
+    "overall_variance": 2.207,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 1.67,
+    "mean_df_rate": 50.88
+  },
+  "Marin Cilic": {
+    "matches_analyzed": 54,
+    "ace_variance": 5.482,
+    "df_variance": 0.942,
+    "overall_variance": 3.212,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 0.72,
+    "mean_df_rate": 43.73
+  },
+  "Robin Soderling": {
+    "matches_analyzed": 7,
+    "ace_variance": 0.0,
+    "df_variance": 0.489,
+    "overall_variance": 0.245,
+    "variance_level": "low",
+    "variance_multiplier": 0.08,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 65.71
+  },
+  "Mikhail Youzhny": {
+    "matches_analyzed": 7,
+    "ace_variance": 0.0,
+    "df_variance": 0.723,
+    "overall_variance": 0.361,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 53.57
+  },
+  "Novak Djokovic": {
+    "matches_analyzed": 207,
+    "ace_variance": 4.349,
+    "df_variance": 0.782,
+    "overall_variance": 2.566,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 0.24,
+    "mean_df_rate": 52.02
+  },
+  "Ernests Gulbis": {
+    "matches_analyzed": 10,
+    "ace_variance": 2.956,
+    "df_variance": 0.698,
+    "overall_variance": 1.827,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 6.67,
+    "mean_df_rate": 64.62
+  },
+  "Andy Roddick": {
+    "matches_analyzed": 10,
+    "ace_variance": 2.922,
+    "df_variance": 0.801,
+    "overall_variance": 1.862,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 3.75,
+    "mean_df_rate": 52.22
+  },
+  "Tomas Berdych": {
+    "matches_analyzed": 38,
+    "ace_variance": 3.432,
+    "df_variance": 0.714,
+    "overall_variance": 2.073,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 0.42,
+    "mean_df_rate": 52.07
+  },
+  "Fernando Verdasco": {
+    "matches_analyzed": 18,
+    "ace_variance": 2.618,
+    "df_variance": 0.646,
+    "overall_variance": 1.632,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 1.08,
+    "mean_df_rate": 56.36
+  },
+  "David Ferrer": {
+    "matches_analyzed": 34,
+    "ace_variance": 3.503,
+    "df_variance": 0.677,
+    "overall_variance": 2.09,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 0.69,
+    "mean_df_rate": 56.61
+  },
+  "Alejandro Falla": {
+    "matches_analyzed": 5,
+    "ace_variance": 0.0,
+    "df_variance": 0.566,
+    "overall_variance": 0.283,
+    "variance_level": "low",
+    "variance_multiplier": 0.08,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 34.76
+  },
+  "Sam Querrey": {
+    "matches_analyzed": 13,
+    "ace_variance": 2.411,
+    "df_variance": 0.97,
+    "overall_variance": 1.69,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 2.04,
+    "mean_df_rate": 38.98
+  },
+  "Marcos Baghdatis": {
+    "matches_analyzed": 10,
+    "ace_variance": 1.974,
+    "df_variance": 0.638,
+    "overall_variance": 1.306,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 6.97,
+    "mean_df_rate": 57.86
+  },
+  "David Nalbandian": {
+    "matches_analyzed": 3,
+    "ace_variance": 0.0,
+    "df_variance": 0.763,
+    "overall_variance": 0.382,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 43.75
+  },
+  "Mardy Fish": {
+    "matches_analyzed": 4,
+    "ace_variance": 0.0,
+    "df_variance": 0.699,
+    "overall_variance": 0.349,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 57.5
+  },
+  "Stan Wawrinka": {
+    "matches_analyzed": 63,
+    "ace_variance": 4.711,
+    "df_variance": 0.496,
+    "overall_variance": 2.603,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 2.68,
+    "mean_df_rate": 69.83
+  },
+  "Gael Monfils": {
+    "matches_analyzed": 82,
+    "ace_variance": 3.721,
+    "df_variance": 0.774,
+    "overall_variance": 2.248,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 3.27,
+    "mean_df_rate": 49.07
+  },
+  "Juan Monaco": {
+    "matches_analyzed": 3,
+    "ace_variance": 0.0,
+    "df_variance": 1.41,
+    "overall_variance": 0.705,
+    "variance_level": "high",
+    "variance_multiplier": 0.18,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 33.33
+  },
+  "Florian Mayer": {
+    "matches_analyzed": 3,
+    "ace_variance": 0.0,
+    "df_variance": 0.0,
+    "overall_variance": 0.0,
+    "variance_level": "low",
+    "variance_multiplier": 0.08,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 100.0
+  },
+  "Gilles Simon": {
+    "matches_analyzed": 36,
+    "ace_variance": 2.111,
+    "df_variance": 0.584,
+    "overall_variance": 1.347,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 5.8,
+    "mean_df_rate": 57.17
+  },
+  "Viktor Troicki": {
+    "matches_analyzed": 6,
+    "ace_variance": 2.14,
+    "df_variance": 0.571,
+    "overall_variance": 1.356,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 2.22,
+    "mean_df_rate": 69.44
+  },
+  "Alexandr Dolgopolov": {
+    "matches_analyzed": 14,
+    "ace_variance": 3.121,
+    "df_variance": 0.526,
+    "overall_variance": 1.824,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 4.02,
+    "mean_df_rate": 62.0
+  },
+  "Janko Tipsarevic": {
+    "matches_analyzed": 23,
+    "ace_variance": 4.08,
+    "df_variance": 0.519,
+    "overall_variance": 2.3,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 0.67,
+    "mean_df_rate": 42.71
+  },
+  "Juan Martin Del Potro": {
+    "matches_analyzed": 69,
+    "ace_variance": 3.869,
+    "df_variance": 0.493,
+    "overall_variance": 2.181,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 0.65,
+    "mean_df_rate": 69.94
+  },
+  "Richard Gasquet": {
+    "matches_analyzed": 35,
+    "ace_variance": 4.438,
+    "df_variance": 0.979,
+    "overall_variance": 2.708,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 2.5,
+    "mean_df_rate": 45.53
+  },
+  "Nicolas Almagro": {
+    "matches_analyzed": 6,
+    "ace_variance": 2.192,
+    "df_variance": 0.713,
+    "overall_variance": 1.453,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 5.0,
+    "mean_df_rate": 56.94
+  },
+  "Carlos Berlocq": {
+    "matches_analyzed": 5,
+    "ace_variance": 0.0,
+    "df_variance": 0.671,
+    "overall_variance": 0.335,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 58.15
+  },
+  "Donald Young": {
+    "matches_analyzed": 4,
+    "ace_variance": 0.0,
+    "df_variance": 0.662,
+    "overall_variance": 0.331,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 62.5
+  },
+  "Dominic Thiem": {
+    "matches_analyzed": 81,
+    "ace_variance": 6.017,
+    "df_variance": 0.67,
+    "overall_variance": 3.344,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 1.04,
+    "mean_df_rate": 58.1
+  },
+  "Kei Nishikori": {
+    "matches_analyzed": 37,
+    "ace_variance": 3.928,
+    "df_variance": 0.6,
+    "overall_variance": 2.264,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 2.08,
+    "mean_df_rate": 64.08
+  },
+  "Milos Raonic": {
+    "matches_analyzed": 55,
+    "ace_variance": 4.248,
+    "df_variance": 0.578,
+    "overall_variance": 2.413,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 1.68,
+    "mean_df_rate": 63.53
+  },
+  "Julien Benneteau": {
+    "matches_analyzed": 3,
+    "ace_variance": 0.0,
+    "df_variance": 0.404,
+    "overall_variance": 0.202,
+    "variance_level": "low",
+    "variance_multiplier": 0.08,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 77.78
+  },
+  "Grigor Dimitrov": {
+    "matches_analyzed": 92,
+    "ace_variance": 3.625,
+    "df_variance": 0.876,
+    "overall_variance": 2.251,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 1.28,
+    "mean_df_rate": 48.23
+  },
+  "Ivo Karlovic": {
+    "matches_analyzed": 22,
+    "ace_variance": 1.743,
+    "df_variance": 1.009,
+    "overall_variance": 1.376,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 13.71,
+    "mean_df_rate": 39.49
+  },
+  "Tommy Haas": {
+    "matches_analyzed": 6,
+    "ace_variance": 0.0,
+    "df_variance": 0.747,
+    "overall_variance": 0.373,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 53.69
+  },
+  "Andreas Seppi": {
+    "matches_analyzed": 15,
+    "ace_variance": 3.254,
+    "df_variance": 0.639,
+    "overall_variance": 1.946,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 0.67,
+    "mean_df_rate": 55.11
+  },
+  "Lukas Rosol": {
+    "matches_analyzed": 5,
+    "ace_variance": 0.0,
+    "df_variance": 0.222,
+    "overall_variance": 0.111,
+    "variance_level": "low",
+    "variance_multiplier": 0.08,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 90.0
+  },
+  "Gilles Muller": {
+    "matches_analyzed": 7,
+    "ace_variance": 1.426,
+    "df_variance": 0.691,
+    "overall_variance": 1.058,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 9.99,
+    "mean_df_rate": 48.34
+  },
+  "Thomaz Bellucci": {
+    "matches_analyzed": 5,
+    "ace_variance": 0.0,
+    "df_variance": 0.668,
+    "overall_variance": 0.334,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 63.46
+  },
+  "Robin Haase": {
+    "matches_analyzed": 39,
+    "ace_variance": 3.473,
+    "df_variance": 0.687,
+    "overall_variance": 2.08,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 4.74,
+    "mean_df_rate": 40.92
+  },
+  "Philipp Kohlschreiber": {
+    "matches_analyzed": 21,
+    "ace_variance": 1.74,
+    "df_variance": 0.516,
+    "overall_variance": 1.128,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 17.02,
+    "mean_df_rate": 69.41
+  },
+  "Fabio Fognini": {
+    "matches_analyzed": 24,
+    "ace_variance": 3.674,
+    "df_variance": 0.676,
+    "overall_variance": 2.175,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 3.65,
+    "mean_df_rate": 61.35
+  },
+  "Denis Istomin": {
+    "matches_analyzed": 4,
+    "ace_variance": 1.677,
+    "df_variance": 0.397,
+    "overall_variance": 1.037,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 3.06,
+    "mean_df_rate": 67.26
+  },
+  "Vladimir Ivanov": {
+    "matches_analyzed": 3,
+    "ace_variance": 0.0,
+    "df_variance": 0.706,
+    "overall_variance": 0.353,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 66.67
+  },
+  "Jerzy Janowicz": {
+    "matches_analyzed": 7,
+    "ace_variance": 2.367,
+    "df_variance": 1.033,
+    "overall_variance": 1.7,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 2.86,
+    "mean_df_rate": 40.0
+  },
+  "Roberto Bautista Agut": {
+    "matches_analyzed": 44,
+    "ace_variance": 5.375,
+    "df_variance": 0.888,
+    "overall_variance": 3.131,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 0.45,
+    "mean_df_rate": 46.16
+  },
+  "Jeremy Chardy": {
+    "matches_analyzed": 13,
+    "ace_variance": 0.0,
+    "df_variance": 0.788,
+    "overall_variance": 0.394,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 48.33
+  },
+  "Thanasi Kokkinakis": {
+    "matches_analyzed": 15,
+    "ace_variance": 3.254,
+    "df_variance": 0.593,
+    "overall_variance": 1.923,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 0.67,
+    "mean_df_rate": 56.62
+  },
+  "Nick Kyrgios": {
+    "matches_analyzed": 87,
+    "ace_variance": 4.619,
+    "df_variance": 0.97,
+    "overall_variance": 2.794,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 1.17,
+    "mean_df_rate": 42.18
+  },
+  "Feliciano Lopez": {
+    "matches_analyzed": 34,
+    "ace_variance": 2.087,
+    "df_variance": 0.771,
+    "overall_variance": 1.429,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 6.13,
+    "mean_df_rate": 42.04
+  },
+  "Mischa Zverev": {
+    "matches_analyzed": 5,
+    "ace_variance": 1.93,
+    "df_variance": 0.58,
+    "overall_variance": 1.255,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 2.76,
+    "mean_df_rate": 47.24
+  },
+  "Steve Darcis": {
+    "matches_analyzed": 4,
+    "ace_variance": 1.659,
+    "df_variance": 0.653,
+    "overall_variance": 1.156,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 2.27,
+    "mean_df_rate": 40.15
+  },
+  "Sergiy Stakhovsky": {
+    "matches_analyzed": 9,
+    "ace_variance": 2.247,
+    "df_variance": 0.887,
+    "overall_variance": 1.567,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 13.89,
+    "mean_df_rate": 48.15
+  },
+  "Kevin Anderson": {
+    "matches_analyzed": 16,
+    "ace_variance": 0.0,
+    "df_variance": 0.643,
+    "overall_variance": 0.321,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 51.68
+  },
+  "Federico Delbonis": {
+    "matches_analyzed": 13,
+    "ace_variance": 0.0,
+    "df_variance": 0.959,
+    "overall_variance": 0.479,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 32.64
+  },
+  "Vasek Pospisil": {
+    "matches_analyzed": 10,
+    "ace_variance": 2.521,
+    "df_variance": 0.539,
+    "overall_variance": 1.53,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 0.53,
+    "mean_df_rate": 59.51
+  },
+  "Ricardas Berankis": {
+    "matches_analyzed": 4,
+    "ace_variance": 0.0,
+    "df_variance": 0.686,
+    "overall_variance": 0.343,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 45.83
+  },
+  "Tommy Robredo": {
+    "matches_analyzed": 6,
+    "ace_variance": 2.115,
+    "df_variance": 0.715,
+    "overall_variance": 1.415,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 1.75,
+    "mean_df_rate": 61.58
+  },
+  "Peter Gojowczyk": {
+    "matches_analyzed": 8,
+    "ace_variance": 2.432,
+    "df_variance": 0.683,
+    "overall_variance": 1.557,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 1.14,
+    "mean_df_rate": 52.99
+  },
+  "Marcel Granollers": {
+    "matches_analyzed": 6,
+    "ace_variance": 2.197,
+    "df_variance": 0.495,
+    "overall_variance": 1.346,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 5.56,
+    "mean_df_rate": 75.93
+  },
+  "Bernard Tomic": {
+    "matches_analyzed": 7,
+    "ace_variance": 0.0,
+    "df_variance": 0.645,
+    "overall_variance": 0.322,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 65.82
+  },
+  "Benoit Paire": {
+    "matches_analyzed": 25,
+    "ace_variance": 3.945,
+    "df_variance": 0.978,
+    "overall_variance": 2.462,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 0.41,
+    "mean_df_rate": 41.06
+  },
+  "Joao Sousa": {
+    "matches_analyzed": 9,
+    "ace_variance": 2.616,
+    "df_variance": 0.781,
+    "overall_variance": 1.699,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 1.23,
+    "mean_df_rate": 49.57
+  },
+  "Pablo Andujar": {
+    "matches_analyzed": 8,
+    "ace_variance": 2.579,
+    "df_variance": 1.324,
+    "overall_variance": 1.951,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 3.85,
+    "mean_df_rate": 25.83
+  },
+  "Taro Daniel": {
+    "matches_analyzed": 5,
+    "ace_variance": 1.923,
+    "df_variance": 1.242,
+    "overall_variance": 1.582,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 2.5,
+    "mean_df_rate": 35.0
+  },
+  "Paolo Lorenzi": {
+    "matches_analyzed": 5,
+    "ace_variance": 1.81,
+    "df_variance": 0.895,
+    "overall_variance": 1.352,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 0.95,
+    "mean_df_rate": 43.33
+  },
+  "Teymuraz Gabashvili": {
+    "matches_analyzed": 5,
+    "ace_variance": 1.977,
+    "df_variance": 0.187,
+    "overall_variance": 1.082,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 8.57,
+    "mean_df_rate": 91.43
+  },
+  "Albert Ramos": {
+    "matches_analyzed": 13,
+    "ace_variance": 3.101,
+    "df_variance": 0.929,
+    "overall_variance": 2.015,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 0.85,
+    "mean_df_rate": 45.27
+  },
+  "Dusan Lajovic": {
+    "matches_analyzed": 19,
+    "ace_variance": 0.0,
+    "df_variance": 0.905,
+    "overall_variance": 0.452,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 44.93
+  },
+  "Steven Diez": {
+    "matches_analyzed": 3,
+    "ace_variance": 0.0,
+    "df_variance": 1.41,
+    "overall_variance": 0.705,
+    "variance_level": "high",
+    "variance_multiplier": 0.18,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 33.33
+  },
+  "Pierre Hugues Herbert": {
+    "matches_analyzed": 8,
+    "ace_variance": 2.515,
+    "df_variance": 0.686,
+    "overall_variance": 1.6,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 1.92,
+    "mean_df_rate": 63.7
+  },
+  "Dustin Brown": {
+    "matches_analyzed": 13,
+    "ace_variance": 2.338,
+    "df_variance": 0.633,
+    "overall_variance": 1.486,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 2.32,
+    "mean_df_rate": 52.28
+  },
+  "Mikhail Kukushkin": {
+    "matches_analyzed": 13,
+    "ace_variance": 0.0,
+    "df_variance": 0.96,
+    "overall_variance": 0.48,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 44.34
+  },
+  "Victor Estrella": {
+    "matches_analyzed": 5,
+    "ace_variance": 1.878,
+    "df_variance": 1.559,
+    "overall_variance": 1.718,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 1.54,
+    "mean_df_rate": 20.92
+  },
+  "Tennys Sandgren": {
+    "matches_analyzed": 10,
+    "ace_variance": 2.542,
+    "df_variance": 0.594,
+    "overall_variance": 1.568,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 0.56,
+    "mean_df_rate": 47.2
+  },
+  "Alexander Zverev": {
+    "matches_analyzed": 91,
+    "ace_variance": 5.684,
+    "df_variance": 0.939,
+    "overall_variance": 3.312,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 1.17,
+    "mean_df_rate": 46.34
+  },
+  "David Goffin": {
+    "matches_analyzed": 31,
+    "ace_variance": 2.508,
+    "df_variance": 0.702,
+    "overall_variance": 1.605,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 5.69,
+    "mean_df_rate": 54.52
+  },
+  "Jack Sock": {
+    "matches_analyzed": 12,
+    "ace_variance": 2.171,
+    "df_variance": 0.578,
+    "overall_variance": 1.374,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 3.33,
+    "mean_df_rate": 74.17
+  },
+  "Malek Jaziri": {
+    "matches_analyzed": 6,
+    "ace_variance": 2.194,
+    "df_variance": 0.592,
+    "overall_variance": 1.393,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 5.21,
+    "mean_df_rate": 48.26
+  },
+  "Andrey Kuznetsov": {
+    "matches_analyzed": 3,
+    "ace_variance": 0.0,
+    "df_variance": 0.706,
+    "overall_variance": 0.353,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 66.67
+  },
+  "Steve Johnson": {
+    "matches_analyzed": 12,
+    "ace_variance": 0.0,
+    "df_variance": 0.64,
+    "overall_variance": 0.32,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 64.58
+  },
+  "Andreas Haider Maurer": {
+    "matches_analyzed": 4,
+    "ace_variance": 0.0,
+    "df_variance": 0.577,
+    "overall_variance": 0.288,
+    "variance_level": "low",
+    "variance_multiplier": 0.08,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 75.0
+  },
+  "Borna Coric": {
+    "matches_analyzed": 29,
+    "ace_variance": 4.621,
+    "df_variance": 0.835,
+    "overall_variance": 2.728,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 0.69,
+    "mean_df_rate": 51.01
+  },
+  "Diego Schwartzman": {
+    "matches_analyzed": 24,
+    "ace_variance": 4.106,
+    "df_variance": 0.95,
+    "overall_variance": 2.528,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 0.6,
+    "mean_df_rate": 37.67
+  },
+  "Pablo Cuevas": {
+    "matches_analyzed": 3,
+    "ace_variance": 0.0,
+    "df_variance": 1.397,
+    "overall_variance": 0.699,
+    "variance_level": "high",
+    "variance_multiplier": 0.18,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 8.33
+  },
+  "Leonardo Mayer": {
+    "matches_analyzed": 6,
+    "ace_variance": 2.146,
+    "df_variance": 0.765,
+    "overall_variance": 1.455,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 2.38,
+    "mean_df_rate": 41.57
+  },
+  "Pablo Carreno Busta": {
+    "matches_analyzed": 24,
+    "ace_variance": 2.528,
+    "df_variance": 1.219,
+    "overall_variance": 1.873,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 4.83,
+    "mean_df_rate": 33.88
+  },
+  "Lucas Pouille": {
+    "matches_analyzed": 17,
+    "ace_variance": 2.842,
+    "df_variance": 0.947,
+    "overall_variance": 1.894,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 4.41,
+    "mean_df_rate": 46.12
+  },
+  "Andrey Rublev": {
+    "matches_analyzed": 100,
+    "ace_variance": 4.975,
+    "df_variance": 1.793,
+    "overall_variance": 3.384,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 0.1,
+    "mean_df_rate": 19.05
+  },
+  "Damir Dzumhur": {
+    "matches_analyzed": 8,
+    "ace_variance": 0.0,
+    "df_variance": 0.747,
+    "overall_variance": 0.373,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 46.43
+  },
+  "Marius Copil": {
+    "matches_analyzed": 4,
+    "ace_variance": 0.0,
+    "df_variance": 1.1,
+    "overall_variance": 0.55,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 18.75
+  },
+  "Jiri Vesely": {
+    "matches_analyzed": 6,
+    "ace_variance": 2.109,
+    "df_variance": 1.517,
+    "overall_variance": 1.813,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 1.67,
+    "mean_df_rate": 15.0
+  },
+  "Martin Klizan": {
+    "matches_analyzed": 8,
+    "ace_variance": 2.564,
+    "df_variance": 1.057,
+    "overall_variance": 1.81,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 3.12,
+    "mean_df_rate": 43.75
+  },
+  "Hyeon Chung": {
+    "matches_analyzed": 6,
+    "ace_variance": 2.146,
+    "df_variance": 0.752,
+    "overall_variance": 1.449,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 2.38,
+    "mean_df_rate": 56.88
+  },
+  "Evgeny Donskoy": {
+    "matches_analyzed": 3,
+    "ace_variance": 0.0,
+    "df_variance": 0.309,
+    "overall_variance": 0.154,
+    "variance_level": "low",
+    "variance_multiplier": 0.08,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 82.05
+  },
+  "Aljaz Bedene": {
+    "matches_analyzed": 9,
+    "ace_variance": 0.0,
+    "df_variance": 0.581,
+    "overall_variance": 0.29,
+    "variance_level": "low",
+    "variance_multiplier": 0.08,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 68.06
+  },
+  "Nikola Milojevic": {
+    "matches_analyzed": 3,
+    "ace_variance": 0.0,
+    "df_variance": 0.706,
+    "overall_variance": 0.353,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 66.67
+  },
+  "Yuichi Sugita": {
+    "matches_analyzed": 3,
+    "ace_variance": 1.361,
+    "df_variance": 0.89,
+    "overall_variance": 1.126,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 2.56,
+    "mean_df_rate": 46.15
+  },
+  "Denis Shapovalov": {
+    "matches_analyzed": 60,
+    "ace_variance": 3.431,
+    "df_variance": 0.883,
+    "overall_variance": 2.157,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 4.02,
+    "mean_df_rate": 45.4
+  },
+  "Stefanos Tsitsipas": {
+    "matches_analyzed": 90,
+    "ace_variance": 3.62,
+    "df_variance": 0.976,
+    "overall_variance": 2.298,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 2.16,
+    "mean_df_rate": 42.34
+  },
+  "Alex De Minaur": {
+    "matches_analyzed": 52,
+    "ace_variance": 3.597,
+    "df_variance": 0.997,
+    "overall_variance": 2.297,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 3.37,
+    "mean_df_rate": 35.49
+  },
+  "Taylor Fritz": {
+    "matches_analyzed": 45,
+    "ace_variance": 4.453,
+    "df_variance": 1.198,
+    "overall_variance": 2.825,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 1.14,
+    "mean_df_rate": 31.9
+  },
+  "Daniel Evans": {
+    "matches_analyzed": 21,
+    "ace_variance": 3.899,
+    "df_variance": 0.819,
+    "overall_variance": 2.359,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 0.68,
+    "mean_df_rate": 44.21
+  },
+  "Tommy Paul": {
+    "matches_analyzed": 28,
+    "ace_variance": 3.973,
+    "df_variance": 1.725,
+    "overall_variance": 2.849,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 0.32,
+    "mean_df_rate": 14.07
+  },
+  "Daniil Medvedev": {
+    "matches_analyzed": 179,
+    "ace_variance": 3.876,
+    "df_variance": 1.159,
+    "overall_variance": 2.518,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 1.27,
+    "mean_df_rate": 29.8
+  },
+  "Facundo Bagnis": {
+    "matches_analyzed": 5,
+    "ace_variance": 0.0,
+    "df_variance": 0.509,
+    "overall_variance": 0.255,
+    "variance_level": "low",
+    "variance_multiplier": 0.08,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 61.67
+  },
+  "Felix Auger Aliassime": {
+    "matches_analyzed": 50,
+    "ace_variance": 3.543,
+    "df_variance": 0.962,
+    "overall_variance": 2.253,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 0.25,
+    "mean_df_rate": 44.55
+  },
+  "Thomas Fabbiano": {
+    "matches_analyzed": 6,
+    "ace_variance": 2.007,
+    "df_variance": 0.577,
+    "overall_variance": 1.292,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 0.88,
+    "mean_df_rate": 50.44
+  },
+  "Karim Mohamed Maamoun": {
+    "matches_analyzed": 5,
+    "ace_variance": 0.0,
+    "df_variance": 0.893,
+    "overall_variance": 0.446,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 50.0
+  },
+  "Oscar Otte": {
+    "matches_analyzed": 4,
+    "ace_variance": 1.723,
+    "df_variance": 0.884,
+    "overall_variance": 1.304,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 18.75,
+    "mean_df_rate": 42.5
+  },
+  "Quentin Halys": {
+    "matches_analyzed": 4,
+    "ace_variance": 0.0,
+    "df_variance": 1.725,
+    "overall_variance": 0.863,
+    "variance_level": "high",
+    "variance_multiplier": 0.18,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 25.0
+  },
+  "Karen Khachanov": {
+    "matches_analyzed": 39,
+    "ace_variance": 4.668,
+    "df_variance": 0.867,
+    "overall_variance": 2.768,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 1.65,
+    "mean_df_rate": 49.21
+  },
+  "Alexander Bublik": {
+    "matches_analyzed": 52,
+    "ace_variance": 2.303,
+    "df_variance": 1.144,
+    "overall_variance": 1.723,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 3.09,
+    "mean_df_rate": 30.98
+  },
+  "Roman Safiullin": {
+    "matches_analyzed": 7,
+    "ace_variance": 0.0,
+    "df_variance": 0.379,
+    "overall_variance": 0.19,
+    "variance_level": "low",
+    "variance_multiplier": 0.08,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 80.98
+  },
+  "Adrian Mannarino": {
+    "matches_analyzed": 23,
+    "ace_variance": 3.003,
+    "df_variance": 0.62,
+    "overall_variance": 1.811,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 2.28,
+    "mean_df_rate": 61.14
+  },
+  "Mackenzie Mcdonald": {
+    "matches_analyzed": 10,
+    "ace_variance": 0.0,
+    "df_variance": 0.942,
+    "overall_variance": 0.471,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 44.0
+  },
+  "Jan Lennard Struff": {
+    "matches_analyzed": 20,
+    "ace_variance": 2.884,
+    "df_variance": 1.55,
+    "overall_variance": 2.217,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 1.1,
+    "mean_df_rate": 24.38
+  },
+  "Marton Fucsovics": {
+    "matches_analyzed": 28,
+    "ace_variance": 0.0,
+    "df_variance": 0.957,
+    "overall_variance": 0.478,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 35.16
+  },
+  "Kyle Edmund": {
+    "matches_analyzed": 5,
+    "ace_variance": 0.0,
+    "df_variance": 0.856,
+    "overall_variance": 0.428,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 52.5
+  },
+  "Cristian Garin": {
+    "matches_analyzed": 18,
+    "ace_variance": 3.783,
+    "df_variance": 1.111,
+    "overall_variance": 2.447,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 1.11,
+    "mean_df_rate": 36.25
+  },
+  "Jozef Kovalik": {
+    "matches_analyzed": 5,
+    "ace_variance": 1.97,
+    "df_variance": 0.652,
+    "overall_variance": 1.311,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 6.67,
+    "mean_df_rate": 51.11
+  },
+  "Tallon Griekspoor": {
+    "matches_analyzed": 67,
+    "ace_variance": 2.565,
+    "df_variance": 0.869,
+    "overall_variance": 1.717,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 3.67,
+    "mean_df_rate": 32.18
+  },
+  "Yoshihito Nishioka": {
+    "matches_analyzed": 19,
+    "ace_variance": 2.867,
+    "df_variance": 0.901,
+    "overall_variance": 1.884,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 1.01,
+    "mean_df_rate": 49.24
+  },
+  "Maximilian Marterer": {
+    "matches_analyzed": 4,
+    "ace_variance": 1.725,
+    "df_variance": 1.705,
+    "overall_variance": 1.715,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 25.0,
+    "mean_df_rate": 6.25
+  },
+  "Jaume Munar": {
+    "matches_analyzed": 9,
+    "ace_variance": 0.0,
+    "df_variance": 0.935,
+    "overall_variance": 0.468,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 23.65
+  },
+  "Marco Cecchinato": {
+    "matches_analyzed": 12,
+    "ace_variance": 2.251,
+    "df_variance": 0.909,
+    "overall_variance": 1.58,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 0.96,
+    "mean_df_rate": 35.44
+  },
+  "Matthew Ebden": {
+    "matches_analyzed": 3,
+    "ace_variance": 0.0,
+    "df_variance": 0.851,
+    "overall_variance": 0.426,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 27.38
+  },
+  "Denis Kudla": {
+    "matches_analyzed": 8,
+    "ace_variance": 0.0,
+    "df_variance": 0.676,
+    "overall_variance": 0.338,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 45.67
+  },
+  "Lukas Lacko": {
+    "matches_analyzed": 3,
+    "ace_variance": 0.0,
+    "df_variance": 0.899,
+    "overall_variance": 0.45,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 35.08
+  },
+  "Hubert Hurkacz": {
+    "matches_analyzed": 158,
+    "ace_variance": 4.554,
+    "df_variance": 0.414,
+    "overall_variance": 2.484,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 0.14,
+    "mean_df_rate": 79.94
+  },
+  "Ilya Ivashka": {
+    "matches_analyzed": 5,
+    "ace_variance": 0.0,
+    "df_variance": 0.695,
+    "overall_variance": 0.348,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 54.0
+  },
+  "Marcos Giron": {
+    "matches_analyzed": 12,
+    "ace_variance": 0.0,
+    "df_variance": 1.198,
+    "overall_variance": 0.599,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 31.67
+  },
+  "Frances Tiafoe": {
+    "matches_analyzed": 20,
+    "ace_variance": 2.582,
+    "df_variance": 1.468,
+    "overall_variance": 2.025,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 0.5,
+    "mean_df_rate": 17.56
+  },
+  "Nikoloz Basilashvili": {
+    "matches_analyzed": 17,
+    "ace_variance": 3.521,
+    "df_variance": 1.071,
+    "overall_variance": 2.296,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 0.74,
+    "mean_df_rate": 33.93
+  },
+  "John Millman": {
+    "matches_analyzed": 13,
+    "ace_variance": 2.899,
+    "df_variance": 0.563,
+    "overall_variance": 1.731,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 0.51,
+    "mean_df_rate": 54.87
+  },
+  "Nicolas Mahut": {
+    "matches_analyzed": 4,
+    "ace_variance": 1.718,
+    "df_variance": 0.428,
+    "overall_variance": 1.073,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 12.5,
+    "mean_df_rate": 61.88
+  },
+  "Soon Woo Kwon": {
+    "matches_analyzed": 4,
+    "ace_variance": 0.0,
+    "df_variance": 0.286,
+    "overall_variance": 0.143,
+    "variance_level": "low",
+    "variance_multiplier": 0.08,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 29.64
+  },
+  "Jelle Sels": {
+    "matches_analyzed": 7,
+    "ace_variance": 0.0,
+    "df_variance": 1.163,
+    "overall_variance": 0.582,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 27.14
+  },
+  "Filip Krajinovic": {
+    "matches_analyzed": 17,
+    "ace_variance": 3.419,
+    "df_variance": 0.912,
+    "overall_variance": 2.165,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 0.59,
+    "mean_df_rate": 47.3
+  },
+  "Guido Pella": {
+    "matches_analyzed": 8,
+    "ace_variance": 0.0,
+    "df_variance": 1.489,
+    "overall_variance": 0.745,
+    "variance_level": "high",
+    "variance_multiplier": 0.18,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 21.25
+  },
+  "Nicolas Jarry": {
+    "matches_analyzed": 24,
+    "ace_variance": 0.0,
+    "df_variance": 2.166,
+    "overall_variance": 1.083,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 15.28
+  },
+  "Jason Kubler": {
+    "matches_analyzed": 3,
+    "ace_variance": 0.0,
+    "df_variance": 0.552,
+    "overall_variance": 0.276,
+    "variance_level": "low",
+    "variance_multiplier": 0.08,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 29.52
+  },
+  "Matteo Berrettini": {
+    "matches_analyzed": 48,
+    "ace_variance": 3.572,
+    "df_variance": 1.088,
+    "overall_variance": 2.33,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 1.14,
+    "mean_df_rate": 39.91
+  },
+  "Cameron Norrie": {
+    "matches_analyzed": 18,
+    "ace_variance": 3.721,
+    "df_variance": 1.372,
+    "overall_variance": 2.546,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 0.93,
+    "mean_df_rate": 23.81
+  },
+  "Ugo Humbert": {
+    "matches_analyzed": 30,
+    "ace_variance": 0.0,
+    "df_variance": 1.473,
+    "overall_variance": 0.737,
+    "variance_level": "high",
+    "variance_multiplier": 0.18,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 28.61
+  },
+  "Alexei Popyrin": {
+    "matches_analyzed": 11,
+    "ace_variance": 2.611,
+    "df_variance": 1.972,
+    "overall_variance": 2.291,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 10.91,
+    "mean_df_rate": 15.0
+  },
+  "Pedro Cachin": {
+    "matches_analyzed": 5,
+    "ace_variance": 0.0,
+    "df_variance": 1.358,
+    "overall_variance": 0.679,
+    "variance_level": "high",
+    "variance_multiplier": 0.18,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 14.44
+  },
+  "Juan Ignacio Londero": {
+    "matches_analyzed": 4,
+    "ace_variance": 1.672,
+    "df_variance": 1.717,
+    "overall_variance": 1.694,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 2.78,
+    "mean_df_rate": 11.11
+  },
+  "Reilly Opelka": {
+    "matches_analyzed": 35,
+    "ace_variance": 4.034,
+    "df_variance": 1.305,
+    "overall_variance": 2.669,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 2.01,
+    "mean_df_rate": 21.59
+  },
+  "Dominik Koepfer": {
+    "matches_analyzed": 8,
+    "ace_variance": 0.0,
+    "df_variance": 0.856,
+    "overall_variance": 0.428,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 44.49
+  },
+  "Radu Albot": {
+    "matches_analyzed": 13,
+    "ace_variance": 3.273,
+    "df_variance": 0.703,
+    "overall_variance": 1.988,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 1.71,
+    "mean_df_rate": 50.56
+  },
+  "Corentin Moutet": {
+    "matches_analyzed": 9,
+    "ace_variance": 0.0,
+    "df_variance": 0.716,
+    "overall_variance": 0.358,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 49.94
+  },
+  "Marc Polmans": {
+    "matches_analyzed": 4,
+    "ace_variance": 0.0,
+    "df_variance": 0.639,
+    "overall_variance": 0.32,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 56.01
+  },
+  "Roberto Carballes Baena": {
+    "matches_analyzed": 15,
+    "ace_variance": 0.0,
+    "df_variance": 1.599,
+    "overall_variance": 0.799,
+    "variance_level": "high",
+    "variance_multiplier": 0.18,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 19.48
+  },
+  "Lorenzo Sonego": {
+    "matches_analyzed": 22,
+    "ace_variance": 3.146,
+    "df_variance": 0.945,
+    "overall_variance": 2.046,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 6.73,
+    "mean_df_rate": 44.56
+  },
+  "Brayden Schnur": {
+    "matches_analyzed": 4,
+    "ace_variance": 0.0,
+    "df_variance": 0.841,
+    "overall_variance": 0.421,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 21.88
+  },
+  "Thiago Monteiro": {
+    "matches_analyzed": 6,
+    "ace_variance": 2.21,
+    "df_variance": 0.975,
+    "overall_variance": 1.592,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 8.33,
+    "mean_df_rate": 43.06
+  },
+  "Lloyd Harris": {
+    "matches_analyzed": 6,
+    "ace_variance": 2.122,
+    "df_variance": 0.784,
+    "overall_variance": 1.453,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 1.85,
+    "mean_df_rate": 57.41
+  },
+  "Hugo Dellien": {
+    "matches_analyzed": 6,
+    "ace_variance": 0.0,
+    "df_variance": 0.616,
+    "overall_variance": 0.308,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 69.79
+  },
+  "Egor Gerasimov": {
+    "matches_analyzed": 6,
+    "ace_variance": 0.0,
+    "df_variance": 1.047,
+    "overall_variance": 0.523,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 37.04
+  },
+  "Thiago Seyboth Wild": {
+    "matches_analyzed": 8,
+    "ace_variance": 2.468,
+    "df_variance": 0.64,
+    "overall_variance": 1.554,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 1.39,
+    "mean_df_rate": 52.18
+  },
+  "Miomir Kecmanovic": {
+    "matches_analyzed": 27,
+    "ace_variance": 3.043,
+    "df_variance": 1.313,
+    "overall_variance": 2.178,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 0.62,
+    "mean_df_rate": 28.4
+  },
+  "Laslo Djere": {
+    "matches_analyzed": 12,
+    "ace_variance": 0.0,
+    "df_variance": 1.653,
+    "overall_variance": 0.826,
+    "variance_level": "high",
+    "variance_multiplier": 0.18,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 22.32
+  },
+  "Mikael Ymer": {
+    "matches_analyzed": 10,
+    "ace_variance": 0.0,
+    "df_variance": 0.97,
+    "overall_variance": 0.485,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 34.26
+  },
+  "Jordan Thompson": {
+    "matches_analyzed": 11,
+    "ace_variance": 0.0,
+    "df_variance": 0.79,
+    "overall_variance": 0.395,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 55.33
+  },
+  "Carlos Alcaraz": {
+    "matches_analyzed": 72,
+    "ace_variance": 0.0,
+    "df_variance": 1.14,
+    "overall_variance": 0.57,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 32.58
+  },
+  "Jannik Sinner": {
+    "matches_analyzed": 94,
+    "ace_variance": 4.839,
+    "df_variance": 0.791,
+    "overall_variance": 2.815,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 2.52,
+    "mean_df_rate": 54.57
+  },
+  "Federico Coria": {
+    "matches_analyzed": 4,
+    "ace_variance": 0.0,
+    "df_variance": 1.307,
+    "overall_variance": 0.654,
+    "variance_level": "high",
+    "variance_multiplier": 0.18,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 31.25
+  },
+  "Dennis Novak": {
+    "matches_analyzed": 3,
+    "ace_variance": 0.0,
+    "df_variance": 0.766,
+    "overall_variance": 0.383,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 17.78
+  },
+  "Alejandro Davidovich Fokina": {
+    "matches_analyzed": 30,
+    "ace_variance": 4.343,
+    "df_variance": 1.137,
+    "overall_variance": 2.74,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 0.42,
+    "mean_df_rate": 30.34
+  },
+  "Gijs Brouwer": {
+    "matches_analyzed": 15,
+    "ace_variance": 3.481,
+    "df_variance": 1.162,
+    "overall_variance": 2.321,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 1.33,
+    "mean_df_rate": 24.72
+  },
+  "Holger Rune": {
+    "matches_analyzed": 33,
+    "ace_variance": 0.0,
+    "df_variance": 0.969,
+    "overall_variance": 0.484,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 45.3
+  },
+  "Casper Ruud": {
+    "matches_analyzed": 61,
+    "ace_variance": 6.904,
+    "df_variance": 1.74,
+    "overall_variance": 4.322,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 0.82,
+    "mean_df_rate": 16.31
+  },
+  "Zhizhen Zhang": {
+    "matches_analyzed": 11,
+    "ace_variance": 0.0,
+    "df_variance": 1.008,
+    "overall_variance": 0.504,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 44.85
+  },
+  "Botic Van De Zandschulp": {
+    "matches_analyzed": 81,
+    "ace_variance": 2.852,
+    "df_variance": 0.876,
+    "overall_variance": 1.864,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 2.21,
+    "mean_df_rate": 35.33
+  },
+  "Bernabe Zapata Miralles": {
+    "matches_analyzed": 6,
+    "ace_variance": 0.0,
+    "df_variance": 0.942,
+    "overall_variance": 0.471,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 41.47
+  },
+  "Lorenzo Musetti": {
+    "matches_analyzed": 35,
+    "ace_variance": 3.983,
+    "df_variance": 0.947,
+    "overall_variance": 2.465,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 1.03,
+    "mean_df_rate": 44.25
+  },
+  "Attila Balazs": {
+    "matches_analyzed": 3,
+    "ace_variance": 0.0,
+    "df_variance": 0.565,
+    "overall_variance": 0.282,
+    "variance_level": "low",
+    "variance_multiplier": 0.08,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 55.56
+  },
+  "Aslan Karatsev": {
+    "matches_analyzed": 22,
+    "ace_variance": 3.625,
+    "df_variance": 1.477,
+    "overall_variance": 2.551,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 0.38,
+    "mean_df_rate": 20.6
+  },
+  "Pedro Martinez": {
+    "matches_analyzed": 9,
+    "ace_variance": 2.616,
+    "df_variance": 0.764,
+    "overall_variance": 1.69,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 1.23,
+    "mean_df_rate": 51.36
+  },
+  "Arthur Cazaux": {
+    "matches_analyzed": 5,
+    "ace_variance": 0.0,
+    "df_variance": 0.575,
+    "overall_variance": 0.287,
+    "variance_level": "low",
+    "variance_multiplier": 0.08,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 65.0
+  },
+  "Tomas Machac": {
+    "matches_analyzed": 7,
+    "ace_variance": 0.0,
+    "df_variance": 0.211,
+    "overall_variance": 0.105,
+    "variance_level": "low",
+    "variance_multiplier": 0.08,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 79.29
+  },
+  "Aleksandar Vukic": {
+    "matches_analyzed": 3,
+    "ace_variance": 1.41,
+    "df_variance": 1.41,
+    "overall_variance": 1.41,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 33.33,
+    "mean_df_rate": 33.33
+  },
+  "Marc Andrea Huesler": {
+    "matches_analyzed": 5,
+    "ace_variance": 1.942,
+    "df_variance": 0.956,
+    "overall_variance": 1.449,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 3.33,
+    "mean_df_rate": 12.86
+  },
+  "Francisco Cerundolo": {
+    "matches_analyzed": 14,
+    "ace_variance": 3.556,
+    "df_variance": 0.847,
+    "overall_variance": 2.201,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 7.14,
+    "mean_df_rate": 52.98
+  },
+  "Daniel Elahi Galan": {
+    "matches_analyzed": 7,
+    "ace_variance": 2.189,
+    "df_variance": 0.432,
+    "overall_variance": 1.31,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 0.84,
+    "mean_df_rate": 73.34
+  },
+  "Gregoire Barrere": {
+    "matches_analyzed": 7,
+    "ace_variance": 0.0,
+    "df_variance": 1.15,
+    "overall_variance": 0.575,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 29.35
+  },
+  "Zizou Bergs": {
+    "matches_analyzed": 5,
+    "ace_variance": 1.97,
+    "df_variance": 1.98,
+    "overall_variance": 1.975,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 6.67,
+    "mean_df_rate": 10.0
+  },
+  "Jesper De Jong": {
+    "matches_analyzed": 13,
+    "ace_variance": 2.963,
+    "df_variance": 0.718,
+    "overall_variance": 1.84,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 0.59,
+    "mean_df_rate": 25.05
+  },
+  "Brandon Nakashima": {
+    "matches_analyzed": 10,
+    "ace_variance": 0.0,
+    "df_variance": 1.223,
+    "overall_variance": 0.612,
+    "variance_level": "high",
+    "variance_multiplier": 0.18,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 25.83
+  },
+  "Hugo Gaston": {
+    "matches_analyzed": 6,
+    "ace_variance": 2.051,
+    "df_variance": 1.003,
+    "overall_variance": 1.527,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 1.11,
+    "mean_df_rate": 10.83
+  },
+  "Jiri Lehecka": {
+    "matches_analyzed": 16,
+    "ace_variance": 2.845,
+    "df_variance": 1.594,
+    "overall_variance": 2.22,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 4.38,
+    "mean_df_rate": 21.77
+  },
+  "Ben Shelton": {
+    "matches_analyzed": 14,
+    "ace_variance": 0.0,
+    "df_variance": 0.762,
+    "overall_variance": 0.381,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 50.61
+  },
+  "Benjamin Bonzi": {
+    "matches_analyzed": 6,
+    "ace_variance": 2.177,
+    "df_variance": 0.64,
+    "overall_variance": 1.408,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 3.7,
+    "mean_df_rate": 52.02
+  },
+  "Tim Van Rijthoven": {
+    "matches_analyzed": 14,
+    "ace_variance": 1.243,
+    "df_variance": 0.86,
+    "overall_variance": 1.052,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 5.48,
+    "mean_df_rate": 31.47
+  },
+  "Maxime Cressy": {
+    "matches_analyzed": 20,
+    "ace_variance": 2.96,
+    "df_variance": 1.557,
+    "overall_variance": 2.258,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 3.07,
+    "mean_df_rate": 22.9
+  },
+  "Jenson Brooksby": {
+    "matches_analyzed": 12,
+    "ace_variance": 2.993,
+    "df_variance": 1.154,
+    "overall_variance": 2.073,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 0.93,
+    "mean_df_rate": 25.95
+  },
+  "Arthur Rinderknech": {
+    "matches_analyzed": 10,
+    "ace_variance": 0.0,
+    "df_variance": 0.755,
+    "overall_variance": 0.377,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 62.0
+  },
+  "Alejandro Tabilo": {
+    "matches_analyzed": 9,
+    "ace_variance": 0.0,
+    "df_variance": 1.084,
+    "overall_variance": 0.542,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 32.41
+  },
+  "Andrea Vavassori": {
+    "matches_analyzed": 5,
+    "ace_variance": 0.0,
+    "df_variance": 0.398,
+    "overall_variance": 0.199,
+    "variance_level": "low",
+    "variance_multiplier": 0.08,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 67.5
+  },
+  "Pavel Kotov": {
+    "matches_analyzed": 4,
+    "ace_variance": 0.0,
+    "df_variance": 0.648,
+    "overall_variance": 0.324,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 55.19
+  },
+  "Sebastian Korda": {
+    "matches_analyzed": 15,
+    "ace_variance": 3.254,
+    "df_variance": 0.825,
+    "overall_variance": 2.039,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 0.67,
+    "mean_df_rate": 50.02
+  },
+  "Fabian Marozsan": {
+    "matches_analyzed": 8,
+    "ace_variance": 0.0,
+    "df_variance": 1.0,
+    "overall_variance": 0.5,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 44.58
+  },
+  "J J Wolf": {
+    "matches_analyzed": 6,
+    "ace_variance": 1.47,
+    "df_variance": 0.939,
+    "overall_variance": 1.204,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 5.19,
+    "mean_df_rate": 35.56
+  },
+  "Alex Molcan": {
+    "matches_analyzed": 7,
+    "ace_variance": 0.0,
+    "df_variance": 0.472,
+    "overall_variance": 0.236,
+    "variance_level": "low",
+    "variance_multiplier": 0.08,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 71.29
+  },
+  "Christopher Oconnell": {
+    "matches_analyzed": 6,
+    "ace_variance": 0.0,
+    "df_variance": 0.621,
+    "overall_variance": 0.311,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 62.88
+  },
+  "Jakub Mensik": {
+    "matches_analyzed": 7,
+    "ace_variance": 2.399,
+    "df_variance": 1.085,
+    "overall_variance": 1.742,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 4.76,
+    "mean_df_rate": 42.4
+  },
+  "Jack Draper": {
+    "matches_analyzed": 14,
+    "ace_variance": 2.386,
+    "df_variance": 0.895,
+    "overall_variance": 1.641,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 1.98,
+    "mean_df_rate": 50.71
+  },
+  "Sebastian Baez": {
+    "matches_analyzed": 19,
+    "ace_variance": 0.0,
+    "df_variance": 1.32,
+    "overall_variance": 0.66,
+    "variance_level": "high",
+    "variance_multiplier": 0.18,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 30.12
+  },
+  "Juan Manuel Cerundolo": {
+    "matches_analyzed": 3,
+    "ace_variance": 0.0,
+    "df_variance": 1.41,
+    "overall_variance": 0.705,
+    "variance_level": "high",
+    "variance_multiplier": 0.18,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 33.33
+  },
+  "Flavio Cobolli": {
+    "matches_analyzed": 6,
+    "ace_variance": 0.0,
+    "df_variance": 1.869,
+    "overall_variance": 0.935,
+    "variance_level": "high",
+    "variance_multiplier": 0.18,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 19.44
+  },
+  "Luca Nardi": {
+    "matches_analyzed": 3,
+    "ace_variance": 0.0,
+    "df_variance": 0.162,
+    "overall_variance": 0.081,
+    "variance_level": "low",
+    "variance_multiplier": 0.08,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 42.06
+  },
+  "Leandro Riedi": {
+    "matches_analyzed": 4,
+    "ace_variance": 0.0,
+    "df_variance": 1.228,
+    "overall_variance": 0.614,
+    "variance_level": "high",
+    "variance_multiplier": 0.18,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 32.14
+  },
+  "Emil Ruusuvuori": {
+    "matches_analyzed": 10,
+    "ace_variance": 0.0,
+    "df_variance": 0.778,
+    "overall_variance": 0.389,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 57.5
+  },
+  "Matteo Arnaldi": {
+    "matches_analyzed": 8,
+    "ace_variance": 0.0,
+    "df_variance": 1.04,
+    "overall_variance": 0.52,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 44.64
+  },
+  "Filip Misolic": {
+    "matches_analyzed": 3,
+    "ace_variance": 0.0,
+    "df_variance": 1.156,
+    "overall_variance": 0.578,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 38.1
+  },
+  "Christopher Eubanks": {
+    "matches_analyzed": 8,
+    "ace_variance": 0.0,
+    "df_variance": 1.214,
+    "overall_variance": 0.607,
+    "variance_level": "high",
+    "variance_multiplier": 0.18,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 26.1
+  },
+  "Paul Jubb": {
+    "matches_analyzed": 4,
+    "ace_variance": 0.0,
+    "df_variance": 0.451,
+    "overall_variance": 0.225,
+    "variance_level": "low",
+    "variance_multiplier": 0.08,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 63.32
+  },
+  "Camilo Ugo Carabelli": {
+    "matches_analyzed": 5,
+    "ace_variance": 1.99,
+    "df_variance": 1.095,
+    "overall_variance": 1.542,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 20.0,
+    "mean_df_rate": 33.45
+  },
+  "Mariano Navone": {
+    "matches_analyzed": 5,
+    "ace_variance": 0.0,
+    "df_variance": 1.543,
+    "overall_variance": 0.772,
+    "variance_level": "high",
+    "variance_multiplier": 0.18,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 25.0
+  },
+  "Max Purcell": {
+    "matches_analyzed": 5,
+    "ace_variance": 1.843,
+    "df_variance": 1.985,
+    "overall_variance": 1.914,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 1.18,
+    "mean_df_rate": 12.94
+  },
+  "Nuno Borges": {
+    "matches_analyzed": 5,
+    "ace_variance": 0.0,
+    "df_variance": 0.0,
+    "overall_variance": 0.0,
+    "variance_level": "low",
+    "variance_multiplier": 0.08,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 0.0
+  },
+  "Learner Tien": {
+    "matches_analyzed": 4,
+    "ace_variance": 0.0,
+    "df_variance": 0.887,
+    "overall_variance": 0.443,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 45.24
+  },
+  "Tomas Martin Etcheverry": {
+    "matches_analyzed": 9,
+    "ace_variance": 2.707,
+    "df_variance": 0.872,
+    "overall_variance": 1.79,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 2.22,
+    "mean_df_rate": 42.59
+  },
+  "Luca Van Assche": {
+    "matches_analyzed": 4,
+    "ace_variance": 0.0,
+    "df_variance": 1.307,
+    "overall_variance": 0.654,
+    "variance_level": "high",
+    "variance_multiplier": 0.18,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 31.25
+  },
+  "Alexander Shevchenko": {
+    "matches_analyzed": 6,
+    "ace_variance": 0.0,
+    "df_variance": 0.508,
+    "overall_variance": 0.254,
+    "variance_level": "low",
+    "variance_multiplier": 0.08,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 75.0
+  },
+  "Alexandre Muller": {
+    "matches_analyzed": 3,
+    "ace_variance": 0.0,
+    "df_variance": 1.402,
+    "overall_variance": 0.701,
+    "variance_level": "high",
+    "variance_multiplier": 0.18,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 11.11
+  },
+  "Yannick Hanfmann": {
+    "matches_analyzed": 4,
+    "ace_variance": 0.0,
+    "df_variance": 1.103,
+    "overall_variance": 0.551,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 37.5
+  },
+  "Daniel Altmaier": {
+    "matches_analyzed": 7,
+    "ace_variance": 0.0,
+    "df_variance": 0.954,
+    "overall_variance": 0.477,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 48.57
+  },
+  "Alex Michelsen": {
+    "matches_analyzed": 5,
+    "ace_variance": 1.942,
+    "df_variance": 0.967,
+    "overall_variance": 1.454,
+    "variance_level": "very_high",
+    "variance_multiplier": 0.25,
+    "mean_ace_rate": 3.33,
+    "mean_df_rate": 46.67
+  },
+  "Arthur Fils": {
+    "matches_analyzed": 26,
+    "ace_variance": 0.0,
+    "df_variance": 1.865,
+    "overall_variance": 0.932,
+    "variance_level": "high",
+    "variance_multiplier": 0.18,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 20.8
+  },
+  "Otto Virtanen": {
+    "matches_analyzed": 3,
+    "ace_variance": 0.0,
+    "df_variance": 0.707,
+    "overall_variance": 0.353,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 34.62
+  },
+  "Sebastian Ofner": {
+    "matches_analyzed": 3,
+    "ace_variance": 0.0,
+    "df_variance": 0.0,
+    "overall_variance": 0.0,
+    "variance_level": "low",
+    "variance_multiplier": 0.08,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 0.0
+  },
+  "Juncheng Shang": {
+    "matches_analyzed": 4,
+    "ace_variance": 0.0,
+    "df_variance": 1.705,
+    "overall_variance": 0.852,
+    "variance_level": "high",
+    "variance_multiplier": 0.18,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 6.25
+  },
+  "Luciano Darderi": {
+    "matches_analyzed": 4,
+    "ace_variance": 0.0,
+    "df_variance": 0.647,
+    "overall_variance": 0.324,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 30.56
+  },
+  "Joao Fonseca": {
+    "matches_analyzed": 3,
+    "ace_variance": 0.0,
+    "df_variance": 0.479,
+    "overall_variance": 0.24,
+    "variance_level": "low",
+    "variance_multiplier": 0.08,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 63.89
+  },
+  "Giovanni Mpetshi Perricard": {
+    "matches_analyzed": 4,
+    "ace_variance": 0.0,
+    "df_variance": 1.722,
+    "overall_variance": 0.861,
+    "variance_level": "high",
+    "variance_multiplier": 0.18,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 16.67
+  },
+  "Nishesh Basavareddy": {
+    "matches_analyzed": 4,
+    "ace_variance": 0.0,
+    "df_variance": 0.772,
+    "overall_variance": 0.386,
+    "variance_level": "medium",
+    "variance_multiplier": 0.12,
+    "mean_ace_rate": 0.0,
+    "mean_df_rate": 24.4
+  }
+}
